@@ -272,9 +272,6 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 
 * One-offs (so far):
 
-
-Rest of the series in both regions appears to switch to a different copy protection after 2001.
-
 	* Deluxe Ski Jump 3[^DSJ_DLs]
 	* Deluxe Ski Jump 4[^DSJ_DLs]
 		
