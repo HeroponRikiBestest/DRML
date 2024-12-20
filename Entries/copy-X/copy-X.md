@@ -179,7 +179,7 @@ No samples currently known, and thus no information either.
 	* German Emergency 2 Deluxe[^DE_EM2DX]
 	* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
 	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
-	* Die CD-ROM mit der Maus 1 (Germany) (Rerelease)[^Maus_txt][^Maus_IGDB]
+	* Die CD-ROM mit der Maus 1 (Germany) (Rerelease) (EAN 9783931372965) [^Maus_txt][^Maus_IGDB]
 
 #### Unconfirmed: 
 
