@@ -97,7 +97,7 @@
 
 ## Overall Description:
 
-Copy-X was a ring-based copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
+Copy-X was a ring-based copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion. At the very least, we do have confirmation that one game, the German version of The Westerner 2, specifically used copy-X Light[^pcgames_de_westerner2][^gamestar_de_westerner2], and it does match with this assumed behavior[^DE_Westerner_2].
 Had to be mastered at a specific optimal media production plant[^CopyX_2009_Document].
 
 [^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](http://web.archive.org/web/20110126034444/http://www.optimal-online.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
@@ -145,6 +145,7 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 [^DE_EM2DX]: [German Emergency 2 Deluxe](https://archive.org/details/DRML-copy-X-samples)
 [^Petterson]: [Petterson und Findus - Hühnertanz und Katerzirkus](https://archive.org/details/DRML-copy-X-samples)
 [^Kenny]: [Kenny's Adventure](https://archive.org/details/DRML-copy-X-samples)
+[^DE_Westerner_2]: [German Westerner 2](https://archive.org/details/DRML-copy-X-samples)
 [^101786]: [Max and the Magician (Europe) (En,Fr,De,Es)](http://redump.org/disc/101786/)
 
 ##### copy-X light:
@@ -189,6 +190,7 @@ No samples currently known, and thus no information either.
 	* Webmaster (Germany)[^116418][^Webmaster_txt]
 	* Alberts mysterioese Insel (Germany)[^116827][^Insel_txt]
 	* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828][^Albert_txt]
+	* Westerner 2, The (Germany) [^DE_Westerner_2][^pcgames_de_westerner2][^gamestar_de_westerner2]
 * copy-X professional[^82475]
 	* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
 	* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
@@ -202,8 +204,6 @@ No samples currently known, and thus no information either.
 
 * copy-X (Unsure which variant):
 	* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
-* copy-X light:
-	* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
 * copy-X audio:
 	* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
 	* Laava – Wherever You Are (I Feel Love)[^D_1436646]
