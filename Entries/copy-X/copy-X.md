@@ -206,7 +206,7 @@ Given the timeline[^16TEmline] provided on their website, the fact that Emergenc
 
 * Digital Publishing[^DP_website]:
 	* Various language learning courses[^DP_Lang1][^DP_Lang2][^Unconfirmed_DP]
-	* Geschichte der Deutschen[^DP_Deutschen (possibly meant Geschichte des deutschen Buchwesens?)
+	* Geschichte der Deutschen[^DP_Deutschen] (possibly meant Geschichte des deutschen Buchwesens?)
 
 Likely others, but doesn't seem to have been well documented.
 
