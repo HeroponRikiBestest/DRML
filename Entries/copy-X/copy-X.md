@@ -270,9 +270,8 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 	* Genius biology
 	* Genius physics
 
-One-offs (so far):
-	* RTL Skispringen 2001[^RTL_DE]
-	* Skoki Narciarskie 2001[^RTL_PL_AR] - Polski Zwycięzca (Polish RTL Skispringen 2001?)
+* One-offs (so far):
+
 
 Rest of the series in both regions appears to switch to a different copy protection after 2001.
 
@@ -282,6 +281,11 @@ Rest of the series in both regions appears to switch to a different copy protect
 	* Ronja Räubertochter[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
 		
 	* Rund um die Welt mit Felix[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
+
+	* RTL Skispringen 2001[^RTL_DE]
+	* Skoki Narciarskie 2001[^RTL_PL_AR] - Polski Zwycięzca (Polish RTL Skispringen 2001?)
+
+Rest of the RTL Skispringen in both regions appears to switch to a different copy protection after 2001.
 		
 [^TZ_L57FLHWWP]: [Löwenzahn 5 und 7, Flugzeuge bauen und Häuser bauen mit Willy Werkel, Petterson und Findus und noch ein paar andere CD](https://web.archive.org/web/20240507164207/https://www.reddit.com/r/de/comments/xbdyi8/l%C3%B6wenzahn_3_die_beste_cdrom_%C3%BCber_das_mittelalter/)
 [^TZ_L5]: [Löwenzahn 5](https://archive.org/details/Loewe5)
