@@ -1,0 +1,153 @@
+ Datentr„ger in Laufwerk V: ist Albert
+ Volumeseriennummer: BF5E-189B
+
+ Verzeichnis von V:\
+
+29.11.1999  14:16 2r    <DIR>          Albert
+29.11.1999  14:16 2r                66 Autorun.inf
+29.11.1999  14:16 2r            34.614 LIESMICH.WRI
+29.11.1999  14:16 2r    <DIR>          QTIME
+29.11.1999  14:18 2r       298.762.355 album412.MPX
+29.11.1999  14:18 2r           501.736 autorun.EXE
+29.11.1999  14:18 2r           276.714 install.EXE
+29.11.1999  14:18 2r             1.691 install.ini
+               6 Datei(en),    299.577.176 Bytes
+
+ Verzeichnis von V:\Albert
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:30 2r    <DIR>          ..
+29.11.1999  14:16 2r    <DIR>          DATA
+29.11.1999  14:16 2r           245.616 Desinst.exe
+29.11.1999  14:16 2r             5.821 Desinst.ini
+29.11.1999  14:16 2r            34.614 LIESMICH.WRI
+29.11.1999  14:16 2r           125.398 chapp.EXE
+29.11.1999  14:16 2r             1.691 install.ini
+29.11.1999  14:16 2r           125.619 uninst.EXE
+               6 Datei(en),        538.759 Bytes
+
+ Verzeichnis von V:\Albert\DATA
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r               766 ALBUM.ICO
+29.11.1999  14:16 2r           757.760 Albert.exe
+29.11.1999  14:16 2r    <DIR>          PHOTO1
+29.11.1999  14:16 2r    <DIR>          PHOTO10
+29.11.1999  14:16 2r    <DIR>          PHOTO2
+29.11.1999  14:16 2r    <DIR>          PHOTO3
+29.11.1999  14:16 2r    <DIR>          PHOTO4
+29.11.1999  14:16 2r    <DIR>          PHOTO5
+29.11.1999  14:16 2r    <DIR>          PHOTO6
+29.11.1999  14:16 2r    <DIR>          PHOTO7
+29.11.1999  14:16 2r    <DIR>          PHOTO8
+29.11.1999  14:16 2r    <DIR>          PHOTO9
+29.11.1999  14:16 2r    <DIR>          RESOURCE
+29.11.1999  14:16 2r            18.497 SAUVE
+29.11.1999  14:16 2r        17.979.781 album411.MPL
+29.11.1999  14:16 2r             2.627 liste_pages
+29.11.1999  14:16 2r            25.024 textes_labo.dat
+               6 Datei(en),     18.784.455 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO1
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO10
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO2
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO3
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO4
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO5
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO6
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO7
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO8
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\PHOTO9
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r            10.978 PHOTO0
+               1 Datei(en),         10.978 Bytes
+
+ Verzeichnis von V:\Albert\DATA\RESOURCE
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:16 2r    <DIR>          ..
+29.11.1999  14:16 2r           242.688 BASIC.X95
+29.11.1999  14:16 2r            81.408 BITMAP.R95
+29.11.1999  14:16 2r            87.040 CURSORS.C95
+29.11.1999  14:16 2r           185.344 EXTRAS.R95
+29.11.1999  14:16 2r            66.560 ROTATORK.R95
+               5 Datei(en),        663.040 Bytes
+
+ Verzeichnis von V:\QTIME
+
+29.11.1999  14:16 2r    <DIR>          .
+29.11.1999  14:30 2r    <DIR>          ..
+29.11.1999  14:16 2r         2.058.752 QT32.EXE
+29.11.1999  14:16 2r           247.808 QTVRW32.QTC
+               2 Datei(en),      2.306.560 Bytes
+
+ Verzeichnis von V:\ZDAT
+
+29.11.1999  14:30 2r    <DIR>          ..
+20.07.1998  11:07 11r         5.119.503 Albert1.DAT
+20.07.1998  11:07 11r        49.704.397 Albert2.DAT
+20.07.1998  11:07 11r        49.704.397 Albert3.DAT
+20.07.1998  11:07 11r        49.704.397 Albert4.DAT
+20.07.1998  11:07 11r        49.704.397 Albert5.DAT
+               5 Datei(en),    203.937.091 Bytes
+
+     Anzahl der angezeigten Dateien:
+              40 Datei(en),    525.916.861 Bytes
+              43 Verzeichnis(se),              0 Bytes frei

@@ -104,17 +104,28 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 ***
 
-## Timeline: 
+## Timeline:
+ 
+#### 1990s
+
+* 1999-01: A re-release of presumably 1998 game Meister Zufall und die Herrscher der Elemente is mastered with ZDAT dummy files, but no ring. Based on the filedates, it can be assumed these may have been present in the original release.[^47561][^Zufall_noring_txt]
+
+* 1999-05: Another re-release of presumably 1998 game Meister Zufall und die Herrscher der Elemente is mastered with ZDAT dummy files which are seemingly identical ZDAT dummy files to the previous release and presumably the 1998 release as well, and still no ring.[^47560]
 
 #### 2000s
 
 * 2000-03-02: First known reference to copy-X.[^CopyX_First_Reference].
+
+* 2000-09: Another re-release of presumably 1998 game Meister Zufall und die Herrscher der Elemente is mastered with ZDAT dummy files which are seemingly identical ZDAT dummy files to the previous release and presumably the 1998 release as well, but this time with a ring.[^Zufall_ring_txt]
 
 * 2009-07: As of this date, some sort of overhaul[^CopyX_2009_Document] of copy-X occured.
 
 * 2011-01-26: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
 
 [^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
+[^47561]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-01-26)](http://redump.org/disc/47561/)
+[^47560]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-05-10)](http://redump.org/disc/47560/)
+[^Zufall_noring_txt]: : [dir /s output of 47561 from celebi](zufall_no_ring.txt) 
 
 ***
 
@@ -173,6 +184,11 @@ No samples currently known, and thus no information either.
 	* Webmaster (USA)[^81628]
 	* Kenny's Adventure[^Kenny]
 	* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
+	* Die CD-ROM mit der Maus 3 (Germany) (EAN 9783898870030) [^Maus3_txt][^Maus3_IGDB]
+	* Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (2000) (EAN 9783931372514)[^Zufall_ring_txt]
+	* Webmaster (Germany)[^116418][^Webmaster_txt]
+	* Alberts mysterioese Insel (Germany)[^116827][^Insel_txt]
+	* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828][^Albert_txt]
 * copy-X professional[^82475]
 	* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
 	* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
@@ -180,14 +196,12 @@ No samples currently known, and thus no information either.
 	* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
 	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
 	* Die CD-ROM mit der Maus 1 (Germany) (Rerelease) (EAN 9783931372965) [^Maus_txt][^Maus_IGDB]
+	* Die CD-ROM mit der Maus 2 (Germany) (EAN 9783934789067) [^Maus2_txt][^Maus2_IGDB]
 
 #### Unconfirmed: 
 
 * copy-X (Unsure which variant):
-	* Alberts mysterioese Insel (Germany)[^116827]
 	* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
-	* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828]
-	* Webmaster (Germany)[^116418]
 * copy-X light:
 	* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
 * copy-X audio:
@@ -285,8 +299,15 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 
 Rest of the RTL Skispringen series in both regions appears to switch to a different copy protection after 2001.
 		
-[^Maus_IGDB]: [IGDB link to game in question](https://web.archive.org/web/20241220065430/https://www.igdb.com/games/die-cd-rom-mit-der-maus-1)
-[^Maus_txt]: [dir /s output of disc in question from celebi](maus1.txt)
+[^Albert_txt]: [dir /s output of 116828 from celebi](albert.txt)
+[^Insel_txt]: [dir /s output of 116827 from celebi](insel.txt)
+[^Zufall_ring_txt]: [dir /s output of ringed Zufall disc. Ringcode according to celebi states that it was mastered in September 2000](zufall.txt)
+[^Maus3_txt]: [dir /s output of Maus 3 from celebi](maus3.txt)
+[^Maus3_IGDB]: [IGDB link to Maus 3](https://web.archive.org/web/20241220070223/https://www.igdb.com/games/die-cd-rom-mit-der-maus-3)
+[^Maus2_txt]: [dir /s output of Maus 2 from celebi](maus2.txt)
+[^Maus2_IGDB]: [IGDB link to Maus 2](https://web.archive.org/web/20241220070209/https://www.igdb.com/games/die-cd-rom-mit-der-maus-2)
+[^Maus_IGDB]: [IGDB link to Maus 1](https://web.archive.org/web/20241220065430/https://www.igdb.com/games/die-cd-rom-mit-der-maus-1)
+[^Maus_txt]: [dir /s output of Maus 1 from celebi](maus1.txt)
 [^TZ_L57FLHWWP]: [Löwenzahn 5 und 7, Flugzeuge bauen und Häuser bauen mit Willy Werkel, Petterson und Findus und noch ein paar andere CD](https://web.archive.org/web/20240507164207/https://www.reddit.com/r/de/comments/xbdyi8/l%C3%B6wenzahn_3_die_beste_cdrom_%C3%BCber_das_mittelalter/)
 [^TZ_L5]: [Löwenzahn 5](https://archive.org/details/Loewe5)
 [^TZ_L7]: [Löwenzahn 7](https://archive.org/details/lowenzahn-7_202207)
@@ -336,6 +357,7 @@ Rest of the RTL Skispringen series in both regions appears to switch to a differ
 [^116827]: [Alberts mysterioese Insel (Germany)](http://redump.org/disc/116827/)
 [^108587]: [Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)](http://redump.org/disc/108587/)
 [^116828]: [Onkel Alberts geheimnisvolles Notizbuch (Germany)](http://redump.org/disc/116828/)
+[^Webmaster_txt]: [dir /s output of 116418 from celebi](webmaster.txt)
 [^116418]: [Webmaster (Germany)](http://redump.org/disc/116418/)
 [^D_8232013]: [Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)](https://www.discogs.com/release/8232013-Die-Wilden-Kerle-DWK4-Der-Angriff-Der-Silberlichten-Das-H%C3%B6rspiel-Zum-Kinofilm)
 [^D_1436646]: [Laava – Wherever You Are (I Feel Love)](https://www.discogs.com/release/1436646-Laava-Wherever-You-Are-I-Feel-Love)

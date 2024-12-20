@@ -1,0 +1,287 @@
+ DatentrÑger in Laufwerk V: ist Webmaster
+ Volumeseriennummer: 6C7E-8688
+
+ Verzeichnis von V:\
+
+26.10.2000  12:29 12r         6.360.440 Installation Acrobat.exe
+26.10.2000  12:29 12r    <DIR>          Installation QuickTime
+26.10.2000  12:29 12r         1.820.594 Webmaster.exe
+26.10.2000  12:29 12r         7.650.878 Webmaster Hilfe.pdf
+26.10.2000  12:29 12r    <DIR>          Xtras
+26.10.2000  12:31 12r    <DIR>          msvcrt.dll problem
+               3 Datei(en),     15.831.912 Bytes
+
+ Verzeichnis von V:\Installation QuickTime
+
+26.10.2000  12:29 12r    <DIR>          .
+26.10.2000  12:33 12r    <DIR>          ..
+26.10.2000  12:29 12r         7.855.280 QuickTimeInstallCache.qdat
+26.10.2000  12:29 12r           496.368 QuickTimeInstaller.exe
+               2 Datei(en),      8.351.648 Bytes
+
+ Verzeichnis von V:\Xtras
+
+26.10.2000  12:29 12r    <DIR>          .
+26.10.2000  12:33 12r    <DIR>          ..
+26.10.2000  12:29 12r    <DIR>          Windows
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von V:\Xtras\Windows
+
+26.10.2000  12:29 12r    <DIR>          .
+26.10.2000  12:29 12r    <DIR>          ..
+26.10.2000  12:29 12r           386.048 Beatnik.x32
+26.10.2000  12:29 12r           184.320 Budapi.x32
+26.10.2000  12:29 12r            46.592 CastCtrl.X32
+26.10.2000  12:29 12r           114.688 DirectOS.x32
+26.10.2000  12:29 12r            16.384 DirectSound.x32
+26.10.2000  12:29 12r            25.088 FileIO.x32
+26.10.2000  12:29 12r    <DIR>          FileXtra
+26.10.2000  12:29 12r            49.152 Font Asset.x32
+26.10.2000  12:29 12r           230.400 Font Xtra.x32
+26.10.2000  12:29 12r            35.328 MacroMix.x32
+26.10.2000  12:29 12r           105.984 QT3Asset.x32
+26.10.2000  12:29 12r            22.528 SMXtra.X32
+26.10.2000  12:29 12r            50.688 Text Asset.x32
+26.10.2000  12:29 12r           333.824 Text Xtra.x32
+              13 Datei(en),      1.601.024 Bytes
+
+ Verzeichnis von V:\Xtras\Windows\FileXtra
+
+26.10.2000  12:29 12r    <DIR>          .
+26.10.2000  12:29 12r    <DIR>          ..
+26.10.2000  12:29 12r           109.056 FileXtra.x32
+26.10.2000  12:29 12r            42.861 FileXtra Movie & Docs.zip
+               2 Datei(en),        151.917 Bytes
+
+ Verzeichnis von V:\ZDAT
+
+26.10.2000  12:33 12r    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von V:\data
+
+26.10.2000  12:33 12r    <DIR>          ..
+26.10.2000  12:34 12r    <DIR>          Assets
+26.10.2000  12:34 12r    <DIR>          Casts Paul
+26.10.2000  12:35 12r    <DIR>          Casts Sander
+23.10.2000  20:57 8r           556.781 chaos.dxr
+23.10.2000  20:57 8r            27.205 picture.cxt
+23.10.2000  20:57 8r           127.129 setup.dxr
+               3 Datei(en),        711.115 Bytes
+
+ Verzeichnis von V:\data\Assets
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          CD
+26.10.2000  12:34 12r    <DIR>          HD
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von V:\data\Assets\CD
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          ..
+14.10.1999  12:33 12r         3.046.832 01Hacker.AIF
+14.10.1999  12:34 12r         3.071.086 02Getties.AIF
+14.10.1999  12:34 12r         2.494.406 03Enzo.AIF
+14.10.1999  12:35 12r         3.073.658 04Underground.AIF
+14.10.1999  12:36 12r         1.222.046 05Newsgroups.AIF
+14.10.1999  12:36 12r         1.240.128 06VirusIntro.AIF
+14.10.1999  12:36 12r           914.008 07VirusVanish.AIF
+14.10.1999  12:37 12r           480.284 08VirusInverse.AIF
+14.10.1999  12:37 12r           419.426 09VirusGreyworld.AIF
+14.10.1999  12:38 12r           693.214 10VirusDouble.AIF
+14.10.1999  12:38 12r           826.322 11VirusECH.AIF
+20.10.1999  00:55 12r         6.996.863 Final.mov
+20.10.1999  00:56 12r         4.258.158 FinalEasy.mov
+20.10.1999  00:56 12r         5.510.105 FinalHard.mov
+24.10.1999  20:32 8r         3.919.094 WebEarth.mov
+24.10.1999  19:48 7r         3.841.872 WebEarth.mov 100
+24.10.1999  20:30 8r         3.919.094 WebEarth.mov 70
+12.10.1999  19:44 7r         5.303.306 Zoeken_Music_01
+26.10.2000  12:34 12r    <DIR>          enzo voice
+06.10.1999  12:53 12r         1.896.586 start_Level_02_Music
+06.10.1999  12:53 12r         3.695.300 start_Level_03_Music
+              20 Datei(en),     56.821.788 Bytes
+
+ Verzeichnis von V:\data\Assets\CD\enzo voice
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          ..
+31.07.2000  18:18 6r           449.528 et_bugs.aif
+31.07.2000  18:18 6r           192.352 et_chocolade.aif
+31.07.2000  18:18 6r           103.154 et_dice1.aif
+31.07.2000  18:18 6r            83.458 et_dice2.aif
+31.07.2000  18:18 6r         1.561.638 et_diceRules.aif
+31.07.2000  18:18 6r           443.738 et_extra_01.aif
+31.07.2000  18:18 6r         1.456.216 et_extra_02.aif
+31.07.2000  18:18 6r         1.414.514 et_extra_02a.aif
+31.07.2000  18:18 6r         2.160.120 et_extra_03.aif
+31.07.2000  18:18 6r         1.689.066 et_extra_04.aif
+31.07.2000  18:18 6r           566.532 et_extra_05.aif
+31.07.2000  18:18 6r           641.832 et_extra_06.aif
+31.07.2000  18:18 6r         3.300.464 et_extra_07.aif
+31.07.2000  18:18 6r           532.936 et_extra_07a.aif
+31.07.2000  18:18 6r           444.896 et_extra_07b.aif
+31.07.2000  18:18 6r         1.640.410 et_extra_07c.aif
+31.07.2000  18:18 6r           371.912 et_firewall.aif
+31.07.2000  18:18 6r           222.472 et_firewallTurnKey.aif
+31.07.2000  18:18 6r           985.324 et_greyworld.aif
+31.07.2000  18:18 6r           909.434 et_greyworld_infect.aif
+31.07.2000  18:18 6r           366.120 et_huntCoupon.aif
+31.07.2000  18:19 6r           646.464 et_huntMiss.aif
+31.07.2000  18:19 6r           455.320 et_huntMiss2.aif
+31.07.2000  18:18 6r            88.096 et_huntingEnjoy.aif
+31.07.2000  18:18 6r           268.810 et_huntingMore.aif
+31.07.2000  18:18 6r         3.034.020 et_huntingRules.aif
+31.07.2000  18:19 6r           447.212 et_l1_4firewalls.aif
+29.08.2000  22:19 10r         2.243.102 et_l1_bookmark.aif
+31.07.2000  18:19 6r           863.094 et_l1_coupons1.aif
+31.07.2000  18:19 6r           709.020 et_l1_coupons2.aif
+31.07.2000  18:19 6r           590.860 et_l1_coupons3.aif
+31.07.2000  18:19 6r         1.170.220 et_l1_coupons4.aif
+31.07.2000  18:19 6r           978.938 et_l1_coupons5.aif
+31.07.2000  18:19 6r         1.068.140 et_l1_highway.aif
+31.07.2000  18:19 6r         7.571.654 et_l1_intro.aif
+31.07.2000  18:19 6r           472.698 et_l2_1stfirewall.aif
+31.07.2000  18:19 6r           551.470 et_l2_carefull.aif
+31.07.2000  18:19 6r           270.264 et_l2_hunting.aif
+31.07.2000  18:19 6r         1.106.366 et_l2_radioURL.aif
+31.07.2000  18:19 6r           605.918 et_l2_shufflepuck.aif
+31.07.2000  18:19 6r           390.448 et_l3_2ndfirewall.aif
+31.07.2000  18:19 6r           491.232 et_l3_virus.aif
+31.07.2000  18:19 6r           528.304 et_l4_almost.aif
+31.07.2000  18:19 6r           614.030 et_l4_dice.aif
+31.07.2000  18:19 6r           398.558 et_looseCoupon.aif
+31.07.2000  18:19 6r           207.412 et_newsgroup_hacker.aif
+31.07.2000  18:19 6r           228.266 et_newsgroup_virus.aif
+31.07.2000  18:19 6r           161.076 et_noText.aif
+31.07.2000  18:19 6r         3.386.104 et_ownsite_enzo.aif
+31.07.2000  18:19 6r         3.892.426 et_ownsite_getties.aif
+31.07.2000  18:19 6r         2.479.596 et_ownsite_hacker.aif
+31.07.2000  18:19 6r         2.687.014 et_ownsite_newsgroups.aif
+31.07.2000  18:19 6r         3.620.508 et_ownsite_undergrounds.aif
+31.07.2000  18:19 6r           824.864 et_ownsite_virus.aif
+31.07.2000  18:19 6r           349.902 et_prevFirewall.aif
+31.07.2000  18:19 6r           291.980 et_radioURL2.aif
+31.07.2000  18:19 6r           391.606 et_radioURLcoupon.aif
+31.07.2000  18:19 6r           610.556 et_radioURLnoCoupon.aif
+31.07.2000  18:19 6r           184.244 et_radioURLplaying.aif
+31.07.2000  18:19 6r         1.063.504 et_reversedhand.aif
+31.07.2000  18:19 6r           459.954 et_reversedhand_infect.aif
+31.07.2000  18:19 6r           737.692 et_shufflepuck1.aif
+31.07.2000  18:19 6r         1.440.000 et_shufflepuck2.aif
+31.07.2000  18:19 6r           151.808 et_shufflepuck3.aif
+31.07.2000  18:19 6r         1.399.028 et_shufflepuckBet.aif
+31.07.2000  18:19 6r           868.888 et_solution1.aif
+31.07.2000  18:19 6r           508.610 et_solution2.aif
+31.07.2000  18:19 6r           558.424 et_solution3.aif
+31.07.2000  18:19 6r           863.092 et_solution4.aif
+31.07.2000  18:19 6r           597.810 et_swampDisinfected.aif
+31.07.2000  18:20 6r           436.784 et_swampDisinfected2.aif
+04.08.2000  14:05 2r         1.018.046 et_swampGreyWorld.aif
+31.07.2000  18:20 6r         1.517.614 et_swampGreyWorldInf.aif
+31.07.2000  18:20 6r         1.556.798 et_swampReversedHandInf.aif
+31.07.2000  18:20 6r         2.048.392 et_swampReversedhand.aif
+31.07.2000  18:20 6r         1.490.972 et_swampVanishingGloveInf.aif
+31.07.2000  18:20 6r         1.795.642 et_swampVanishingglove.aif
+31.07.2000  18:20 6r           390.450 et_throwCans1.aif
+31.07.2000  18:20 6r           880.470 et_throwCans2.aif
+31.07.2000  18:20 6r         1.738.876 et_vanishingglove.aif
+31.07.2000  18:20 6r           624.456 et_vanishingglove_infect.aif
+31.07.2000  18:20 6r           786.636 et_virus.aif
+31.07.2000  18:20 6r           329.050 et_win.aif
+31.07.2000  18:20 6r           369.596 et_winCoupon.aif
+              84 Datei(en),     88.048.500 Bytes
+
+ Verzeichnis von V:\data\Assets\HD
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          ..
+07.07.2000  16:00 4r        11.703.507 Tivola Publishing HÅte neu.mov
+               1 Datei(en),     11.703.507 Bytes
+
+ Verzeichnis von V:\data\Casts Paul
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          CD
+26.10.2000  12:34 12r    <DIR>          HD
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von V:\data\Casts Paul\CD
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          ..
+23.10.2000  20:57 8r         3.830.590 CNN.cxt
+23.10.2000  20:58 8r         9.815.877 POI.cxt
+23.10.2000  20:58 8r        30.396.690 Radio.cxt
+23.10.2000  20:57 8r         2.687.443 coupons100.cxt
+23.10.2000  20:58 8r        18.536.735 layer2P.cxt
+23.10.2000  20:58 8r         6.375.730 newsGrp.cxt
+23.10.2000  20:59 8r         6.746.671 virusses.cxt
+               7 Datei(en),     78.389.736 Bytes
+
+ Verzeichnis von V:\data\Casts Paul\HD
+
+26.10.2000  12:34 12r    <DIR>          .
+26.10.2000  12:34 12r    <DIR>          ..
+23.10.2000  20:59 8r         3.393.896 browserP.cxt
+23.10.2000  20:59 8r           170.936 bugs.cxt
+23.10.2000  20:59 8r           193.046 coupons25.cxt
+23.10.2000  20:59 8r           742.673 coupons50.cxt
+23.10.2000  20:59 8r         1.943.531 myPlaceP.cxt
+23.10.2000  20:59 8r           266.148 scriptsP.cxt
+23.10.2000  20:59 8r             6.980 sysenvP.cxt
+23.10.2000  20:59 8r           212.260 textsP.cxt
+               8 Datei(en),      6.929.470 Bytes
+
+ Verzeichnis von V:\data\Casts Sander
+
+26.10.2000  12:35 12r    <DIR>          .
+26.10.2000  12:35 12r    <DIR>          CD
+26.10.2000  12:35 12r    <DIR>          HD
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von V:\data\Casts Sander\CD
+
+26.10.2000  12:35 12r    <DIR>          .
+26.10.2000  12:35 12r    <DIR>          ..
+23.10.2000  20:59 8r         3.117.302 anims.cxt
+23.10.2000  20:59 8r         1.200.850 engine.cxt
+23.10.2000  20:59 8r        13.823.510 firewall.cxt
+23.10.2000  21:00 9r         6.913.902 infoSite.cxt
+23.10.2000  21:00 9r         4.897.731 lake.cxt
+23.10.2000  21:00 9r        33.202.169 layer2.cxt
+23.10.2000  21:00 9r         2.765.432 shooting.cxt
+23.10.2000  21:00 9r         2.490.978 shopping.cxt
+23.10.2000  21:00 9r         3.298.444 shufPuck.cxt
+23.10.2000  21:01 9r        53.800.332 soundCd.cxt
+23.10.2000  21:01 9r         2.477.252 soundL2.cxt
+23.10.2000  21:01 9r            27.958 test.cxt
+              12 Datei(en),    128.015.860 Bytes
+
+ Verzeichnis von V:\data\Casts Sander\HD
+
+26.10.2000  12:35 12r    <DIR>          .
+26.10.2000  12:35 12r    <DIR>          ..
+23.10.2000  21:01 9r           137.620 cursors.cxt
+23.10.2000  21:01 9r           382.347 enzo.cxt
+23.10.2000  21:01 9r            87.256 enzoText.cxt
+23.10.2000  21:01 9r         1.522.390 getties.cxt
+23.10.2000  21:01 9r         3.596.693 layer1.cxt
+23.10.2000  21:02 9r         1.693.285 newObjects.cxt
+23.10.2000  21:02 9r           462.324 packages.cxt
+23.10.2000  21:02 9r            27.354 scripts.cxt
+23.10.2000  21:02 9r         2.393.878 soundHd.cxt
+               9 Datei(en),     10.303.147 Bytes
+
+ Verzeichnis von V:\msvcrt.dll problem
+
+26.10.2000  12:31 12r    <DIR>          .
+26.10.2000  12:33 12r    <DIR>          ..
+26.10.2000  12:31 12r           302.695 msvcrt installer.exe
+               1 Datei(en),        302.695 Bytes
+
+     Anzahl der angezeigten Dateien:
+             165 Datei(en),    407.162.319 Bytes
+              44 Verzeichnis(se),              0 Bytes frei

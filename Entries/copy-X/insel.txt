@@ -1,0 +1,54 @@
+ Datentr„ger in Laufwerk V: ist Insel
+ Volumeseriennummer: 2095-5391
+
+ Verzeichnis von V:\
+
+25.04.2001  10:40 10r                54 Autorun.inf
+25.04.2001  10:40 10r             3.262 Ile_myst.ico
+25.04.2001  10:40 10r    <DIR>          QTIME
+10.04.2001  12:13 12r    <DIR>          Video
+25.04.2001  10:41 10r           731.529 autorun.EXE
+25.04.2001  10:48 10r       283.748.531 ile_myst2.MPX
+25.04.2001  10:48 10r        13.339.592 install.EXE
+25.04.2001  10:48 10r             1.760 install.ini
+25.04.2001  10:48 10r            20.816 liesmich.wri
+25.04.2001  10:48 10r            18.145 l”sung.txt
+               8 Datei(en),    297.863.689 Bytes
+
+ Verzeichnis von V:\QTIME
+
+25.04.2001  10:40 10r    <DIR>          .
+25.04.2001  10:48 10r    <DIR>          ..
+25.04.2001  10:40 10r         2.058.752 QT32.EXE
+25.04.2001  10:40 10r           247.808 QTVRW32.QTC
+               2 Datei(en),      2.306.560 Bytes
+
+ Verzeichnis von V:\Video
+
+10.04.2001  12:13 12r    <DIR>          .
+25.04.2001  10:48 10r    <DIR>          ..
+07.07.2000  15:00 3r        11.703.507 1.MOV
+15.03.2001  12:22 12r         6.112.264 10.MOV
+15.03.2001  12:22 12r         6.338.336 11.MOV
+15.03.2001  12:22 12r         5.764.540 12.MOV
+15.03.2001  12:22 12r         6.229.418 13.MOV
+15.03.2001  12:29 12r         9.376.614 14.MOV
+15.03.2001  12:18 12r         1.409.392 2.MOV
+15.03.2001  12:18 12r        10.474.608 3.MOV
+15.03.2001  12:19 12r         3.818.982 4.MOV
+15.03.2001  12:19 12r        20.606.112 5.MOV
+15.03.2001  12:20 12r         8.658.257 6.MOV
+15.03.2001  12:21 12r         7.109.833 7.MOV
+09.04.2001  18:52 6r         7.200.669 8.MOV
+15.03.2001  12:29 12r         9.959.552 9.MOV
+              14 Datei(en),    114.762.084 Bytes
+
+ Verzeichnis von V:\ZDAT
+
+25.04.2001  10:48 10r    <DIR>          ..
+20.07.1998  11:07 11r         5.119.503 insel.dat
+               1 Datei(en),      5.119.503 Bytes
+
+     Anzahl der angezeigten Dateien:
+              25 Datei(en),    420.051.836 Bytes
+               7 Verzeichnis(se),              0 Bytes frei
