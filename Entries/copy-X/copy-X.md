@@ -118,10 +118,16 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 * 2000-09: Another re-release of presumably 1998 game Meister Zufall und die Herrscher der Elemente is mastered with ZDAT dummy files which are seemingly identical ZDAT dummy files to the previous release and presumably the 1998 release as well, but this time with a ring.[^Zufall_ring_txt]
 
+* 2004-02-23: First archive of Optimal Media's website advertising ProtectCD[^ProtectCD_First_Reference], already debatably advertising it more than copy-X. Optimal Media seems to have had potentially some connection[^ProtectDisc_optimal_vista][^ProtectDVD_optimal] to this DRM, and this shift is relevant because many known copy-X customers that survived to around (arbitrary date chosen) ~2008 seem to have switched[^Magix_PCD][^68141][^TZ_WWPD][^25117] to ProtectCD/ProtectDiSC.
+
 * 2009-07: As of this date, some sort of overhaul[^CopyX_2009_Document] of copy-X occured.
 
 * 2011-01-26: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
 
+[^Magix_PCD]: [Forum post for Magix Music Maker 2008 showing error message associated with ProtectCD](https://web.archive.org/web/20241220091840/https://www.paules-pc-forum.de/forum/thread/125937-this-version-of-virtualpc-not-supported/?postID=773644)
+[^ProtectDisc_optimal_vista]: [English press article discussiong optimal media bringing ProtectDisc for its customers on Windows Vista](https://web.archive.org/web/20071022002237/http://www.optimal-online.de/fileadmin/user_upload/PDF/Presesmitteilung_Copy_Protection_windows_vista.pdf)
+[^ProtectDVD_optimal]: [German press article where optimal media claims to have outright developed ProtectDVD(-video?)]
+[^ProtectCD_First_Reference]: [First known optimal media advertising of protectCD.](https://web.archive.org/web/20040223055323/http://www.optimal-online.de/product/copy_x.htm)
 [^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
 [^47561]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-01-26)](http://redump.org/disc/47561/)
 [^47560]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-05-10)](http://redump.org/disc/47560/)
@@ -297,8 +303,9 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 	* RTL Skispringen 2001[^RTL_DE]
 	* Skoki Narciarskie 2001[^RTL_PL_AR] - Polski Zwycięzca (Polish RTL Skispringen 2001?)
 
-Rest of the RTL Skispringen series in both regions appears to switch to a different copy protection after 2001.
+Rest of the RTL Skispringen series in both regions appears to switch protectCD after 2001.
 		
+[^25117]: [RTL Skispringen 2003 (Germany) (En,De) ](http://redump.org/disc/25117/)
 [^Albert_txt]: [dir /s output of 116828 from celebi](albert.txt)
 [^Insel_txt]: [dir /s output of 116827 from celebi](insel.txt)
 [^Zufall_ring_txt]: [dir /s output of ringed Zufall disc. Ringcode according to celebi states that it was mastered in September 2000](zufall.txt)
