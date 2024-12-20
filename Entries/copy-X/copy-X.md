@@ -2,7 +2,7 @@
 
 ## DRML Entry Name:
 
-**Copy-X**
+**copy-X**
 
 ***
 
@@ -21,7 +21,6 @@
 	* [Authors/Contributors](#authorscontributors)
 	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
 	* [Categories](#categories)
-	* [DRML Entry Version](#drml-entry-version) ([Alt.](#DRML%20Entry%20Version))
 * [DRM Information](#drm-information) ([Alt.](#DRM%20Information))
 	* [Names](#names)
 	* [Developers](#developers)
@@ -70,10 +69,6 @@
 
 ***
 
-## DRML Entry Version: 
-
-***
-
 # DRM Information:
 
 ## Names: 
@@ -102,7 +97,7 @@
 
 ## Overall Description:
 
-Ring protection copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
+Copy-X was a ring-based copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
 Had to be mastered at a specific optimal media production plant[^CopyX_2009_Document].
 
 [^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](http://web.archive.org/web/20110126034444/http://www.optimal-online.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
@@ -115,11 +110,11 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 * 2000-03-02: First known reference to copy-X.[^CopyX_First_Reference].
 
-* 2009: Some sort of overhaul[^CopyX_2009_Document] of copy-X occurs.
+* 2009-07: As of this date, some sort of overhaul[^CopyX_2009_Document] of copy-X occured.
 
-* 2011: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
+* 2011-01-26: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
 
-[^CopyX_First_Reference]: [First known reference to copy-X.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
+[^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
 
 ***
 
@@ -136,9 +131,9 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 [^108150]: [Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)](http://redump.org/disc/108150/)
 [^48393]: [Emergency 4 - Global Fighters for Life (Germany) (Disc 1)](http://redump.org/disc/48393/)
 [^82475]: [Sluzhba 911 (Russia) - Remnants](http://redump.org/disc/82475/)
-[^DE_EM2DX]: [German Emergency 2 Deluxe](waiting on null to upload/)
-[^Petterson]: [Petterson und Findus - Hühnertanz und Katerzirkus](waiting on null to upload)
-[^Kenny]: [Kenny's Adventure](waiting on null to upload)
+[^DE_EM2DX]: [German Emergency 2 Deluxe](https://archive.org/details/DRML-copy-X-samples)
+[^Petterson]: [Petterson und Findus - Hühnertanz und Katerzirkus](https://archive.org/details/DRML-copy-X-samples)
+[^Kenny]: [Kenny's Adventure](https://archive.org/details/DRML-copy-X-samples)
 [^101786]: [Max and the Magician (Europe) (En,Fr,De,Es)](http://redump.org/disc/101786/)
 
 ##### copy-X light:
@@ -172,33 +167,33 @@ No samples currently known, and thus no information either.
  
 #### Confirmed:
 
-	*copy-X light
-		* Black Cats and Pointed Hats (USA) (En,De) [^84759]
-		* Robinson Crusoe (USA)[^107929]
-		* Webmaster (USA)[^81628]
-		* Kenny's Adventure[^Kenny]
-		* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
-	*copy-X professional[^82475]
-		* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
-		* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
-		* German Emergency 2 Deluxe[^DE_EM2DX]
-		* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
-		* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
+* copy-X light
+	* Black Cats and Pointed Hats (USA) (En,De) [^84759]
+	* Robinson Crusoe (USA)[^107929]
+	* Webmaster (USA)[^81628]
+	* Kenny's Adventure[^Kenny]
+	* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
+* copy-X professional[^82475]
+	* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
+	* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
+	* German Emergency 2 Deluxe[^DE_EM2DX]
+	* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
+	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
 
 #### Unconfirmed: 
 
-	*copy-X (Unsure which variant):
-		* Alberts mysterioese Insel (Germany)[^116827]
-		* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
-		* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828]
-		* Webmaster (Germany)[^116418]
-	*copy-X light:
-		* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
-	*copy-X audio:
-		* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
-		* Laava – Wherever You Are (I Feel Love)[^D_1436646]
-		* Manfred Mann* – 2006[^D_2182905]
-		* De-Phazz – Godsdog[^D_451419]
+* copy-X (Unsure which variant):
+	* Alberts mysterioese Insel (Germany)[^116827]
+	* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
+	* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828]
+	* Webmaster (Germany)[^116418]
+* copy-X light:
+	* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
+* copy-X audio:
+	* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
+	* Laava – Wherever You Are (I Feel Love)[^D_1436646]
+	* Manfred Mann* – 2006[^D_2182905]
+	* De-Phazz – Godsdog[^D_451419]
 
 Companies:
 
@@ -333,7 +328,7 @@ Rest of the series in both regions appears to switch to a different copy protect
 [^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
 [^D_451419]: [De-Phazz – Godsdog](https://www.discogs.com/release/451419-De-Phazz-Godsdog)
 [^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://web.archive.org/web/20090322110537/http://www.pcgames.de/aid,679282/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-/PC/Test/)
-[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication) (Archive pending)](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
+[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication)](https://web.archive.org/web/20241106002332/https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
 
 ***
 
@@ -350,9 +345,7 @@ Rest of the series in both regions appears to switch to a different copy protect
 
 ## Software Known to Detect:
 
-Note: While ProtectionID does detect copy-X, it detects it as "Optgraph Copy-X / Ring-Protech". As far as current research has found, there is no relation between copy-X and Ring Protech other than both being ring-based protections, and the optgraph file in question is not found on Ring Protech. PiD is thus believed to be incorrect in designating it also Ring-Protech, and it's just detecting Copy-X in these instances.
-
-* ProtectionID[^PiD_List]
+* ProtectionID[^PiD_List] (Note: While ProtectionID does detect copy-X, it detects it as "Optgraph Copy-X / Ring-Protech". As far as current research has found, there is no relation between copy-X and Ring Protech other than both being ring-based protections, and the optgraph file in question is not found on Ring Protech. PiD is thus believed to be incorrect in designating it also Ring-Protech, and it's just detecting Copy-X in these instances.)
 * BinaryObjectScanner[^BoS_File]
 
 [^BoS_File]: [BinaryObjectScanner code file in charge of detecting Copy-X](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/CopyX.cs)
