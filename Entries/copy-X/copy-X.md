@@ -179,6 +179,7 @@ No samples currently known, and thus no information either.
 	* German Emergency 2 Deluxe[^DE_EM2DX]
 	* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
 	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
+	* Die CD-ROM mit der Maus 1 (Germany) (Rerelease)[^Maus_txt]
 
 #### Unconfirmed: 
 
@@ -284,6 +285,7 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 
 Rest of the RTL Skispringen series in both regions appears to switch to a different copy protection after 2001.
 		
+[^Maus_txt]: [dir /s output of disc in question](maus1.txt)
 [^TZ_L57FLHWWP]: [Löwenzahn 5 und 7, Flugzeuge bauen und Häuser bauen mit Willy Werkel, Petterson und Findus und noch ein paar andere CD](https://web.archive.org/web/20240507164207/https://www.reddit.com/r/de/comments/xbdyi8/l%C3%B6wenzahn_3_die_beste_cdrom_%C3%BCber_das_mittelalter/)
 [^TZ_L5]: [Löwenzahn 5](https://archive.org/details/Loewe5)
 [^TZ_L7]: [Löwenzahn 7](https://archive.org/details/lowenzahn-7_202207)
