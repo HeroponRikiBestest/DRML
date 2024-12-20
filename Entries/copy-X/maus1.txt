@@ -1,0 +1,3120 @@
+ DatentrÑger in Laufwerk F: ist DieMaus1
+ Volumeseriennummer: 9CAF-7A56
+
+ Verzeichnis von F:\
+
+25.08.2000  14:14 2r                41 AUTORUN.INF
+02.08.2000  22:51 10r             1.390 check.bmp
+21.04.1999  13:47 1r           308.736 check.exe
+30.08.2000  19:54 7r               381 check.ini
+04.10.2000  14:29 2r        64.160.182 Installer.EXE
+09.05.2000  13:48 1r         7.700.800 j2re1_3_0-win-i.exe
+31.07.2000  14:42 2r               766 Maus1.ico
+10.10.2000  12:28 12r    <DIR>          media
+06.07.2000  18:19 6r           504.640 QuickTimeInstaller.exe
+29.08.2000  21:48 9r               224 QuickTimeInstaller.ini
+29.06.2000  15:12 3r         8.306.350 QuickTimeInstallCache.qdat
+02.08.2000  22:40 10r         1.825.848 start.exe
+10.10.2000  12:28 12r    <DIR>          system
+10.10.2000  12:28 12r    <DIR>          Xtras
+              11 Datei(en),     82.809.358 Bytes
+
+ Verzeichnis von F:\media
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          basteln
+10.10.2000  12:28 12r    <DIR>          BILDERGESCHICHTE
+10.10.2000  12:28 12r    <DIR>          Credits
+10.10.2000  12:28 12r    <DIR>          Exit
+10.10.2000  12:28 12r    <DIR>          geraeuschebar
+10.10.2000  12:28 12r    <DIR>          IntroMaus
+10.10.2000  12:28 12r    <DIR>          IntroTivola
+10.10.2000  12:28 12r    <DIR>          kreativ
+10.10.2000  12:28 12r    <DIR>          maschinenbau
+10.10.2000  12:28 12r    <DIR>          native
+10.10.2000  12:28 12r    <DIR>          sachgeschichte
+10.10.2000  12:28 12r    <DIR>          saugerspiel
+10.10.2000  12:28 12r    <DIR>          sound
+10.10.2000  12:28 12r    <DIR>          SPOTS
+10.10.2000  12:28 12r    <DIR>          STARSCHNITT
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\basteln
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  20:59 8r             3.043 Basteln.dat
+10.10.2000  12:28 12r    <DIR>          bilder
+10.10.2000  12:28 12r    <DIR>          Daumenkino
+10.10.2000  12:28 12r    <DIR>          Druckvorlagen
+10.10.2000  12:28 12r    <DIR>          Papierfiguren
+10.10.2000  12:28 12r    <DIR>          Schnittbogen
+10.10.2000  12:28 12r    <DIR>          texte
+10.10.2000  12:28 12r    <DIR>          Wunderscheibe
+               1 Datei(en),          3.043 Bytes
+
+ Verzeichnis von F:\media\basteln\bilder
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  20:59 8r            36.725 blechrobot.jpg
+13.08.2000  20:59 8r            50.774 daumenkino.jpg
+13.08.2000  20:59 8r            33.791 fingerhutreibe.jpg
+13.08.2000  20:59 8r            32.300 glasorgel.jpg
+13.08.2000  20:59 8r            38.810 joghurtrassel.jpg
+19.08.2000  20:44 8r            44.028 kaeseschachtel.jpg
+13.08.2000  20:59 8r            37.962 kokosnuss.jpg
+13.08.2000  20:59 8r            35.275 kronkorkrassel.jpg
+13.08.2000  20:59 8r            35.326 labyrinth.jpg
+13.08.2000  20:59 8r            31.351 mausfiguren.jpg
+13.08.2000  20:59 8r            25.143 musikkelle.jpg
+13.08.2000  20:59 8r            33.863 ohrensessel.jpg
+13.08.2000  20:59 8r            32.754 quarkfarben.jpg
+13.08.2000  20:59 8r            38.071 quarkrezept.jpg
+13.08.2000  20:59 8r            37.243 schachteln.jpg
+01.09.2000  01:13 1r            38.178 schlitztrommel.jpg
+13.08.2000  20:59 8r            29.805 wunderscheibe.jpg
+              17 Datei(en),        611.399 Bytes
+
+ Verzeichnis von F:\media\basteln\Daumenkino
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+21.08.2000  15:32 3r           158.440 daumenanleitung.png
+21.08.2000  15:32 3r            51.531 daumenanleitunga.png
+17.08.2000  12:54 12r            88.119 Maus1.png
+20.08.2000  20:50 8r            35.548 Maus1a.png
+17.08.2000  12:54 12r            69.679 Maus2.png
+20.08.2000  20:50 8r            27.083 Maus2a.png
+               6 Datei(en),        430.400 Bytes
+
+ Verzeichnis von F:\media\basteln\Druckvorlagen
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+21.08.2000  15:32 3r           117.733 Farbe.png
+21.08.2000  15:32 3r            40.891 Farbea.png
+17.08.2000  12:54 12r            85.214 Fingerhutreibe.png
+20.08.2000  20:57 8r            29.637 Fingerhutreibea.png
+17.08.2000  12:54 12r           155.765 Glasorgel.png
+20.08.2000  20:57 8r            54.054 Glasorgela.png
+17.08.2000  12:54 12r           101.869 Jogi.png
+20.08.2000  20:57 8r            35.774 Jogia.png
+29.08.2000  21:54 9r           126.768 Klapper.png
+29.08.2000  21:54 9r            43.727 Klappera.png
+17.08.2000  12:54 12r            96.540 Kokos.png
+20.08.2000  20:56 8r            33.819 Kokosa.png
+17.08.2000  12:54 12r           169.990 Labyrinth.png
+17.08.2000  12:54 12r            57.808 Labyrinth2.png
+20.08.2000  20:56 8r            22.612 Labyrinth2a.png
+20.08.2000  20:56 8r            58.488 Labyrintha.png
+21.08.2000  15:32 3r           132.773 Musikkelle.png
+20.08.2000  20:56 8r            44.518 Musikkellea.png
+17.08.2000  12:54 12r            30.380 Pappschachtel3.png
+20.08.2000  20:57 8r            12.792 Pappschachtel3a.png
+29.08.2000  21:54 9r            34.767 Pappschachtel4.png
+29.08.2000  21:54 9r            13.644 Pappschachtel4a.png
+29.08.2000  21:54 9r           113.994 Pappschachteln1.png
+29.08.2000  21:54 9r            39.553 Pappschachteln1a.png
+29.08.2000  21:54 9r           137.610 pappschachtel2.png
+29.08.2000  21:54 9r            46.386 pappschachtel2a.png
+17.08.2000  12:54 12r           124.675 Quark1.png
+20.08.2000  20:55 8r            44.063 Quark1a.png
+17.08.2000  12:54 12r            61.644 Quark2.png
+20.08.2000  20:55 8r            24.594 Quark2a.png
+29.08.2000  21:54 9r           174.528 Rassel.png
+29.08.2000  21:54 9r            58.336 Rassela.png
+30.08.2000  20:20 8r           108.524 Rob1.png
+30.08.2000  20:20 8r            37.468 Rob1a.png
+17.08.2000  12:54 12r           134.368 Rob2.png
+20.08.2000  20:54 8r            43.852 Rob2a.png
+30.08.2000  20:20 8r           147.457 Rob3.png
+30.08.2000  20:20 8r           124.248 Rob3a.png
+21.08.2000  15:32 3r           120.925 Sessel1.png
+20.08.2000  20:54 8r            40.895 Sessel1a.png
+17.08.2000  12:54 12r           209.067 Sessel2.png
+20.08.2000  20:54 8r            70.331 Sessel2a.png
+17.08.2000  12:54 12r           138.945 Sessel3.png
+20.08.2000  21:37 9r            47.580 Sessel3a.png
+17.08.2000  12:54 12r            27.760 Sessel4.png
+20.08.2000  21:37 9r            11.823 Sessel4a.png
+17.08.2000  12:54 12r            27.760 Sessel5.png
+20.08.2000  20:54 8r            11.823 Sessel5a.png
+              48 Datei(en),      3.627.772 Bytes
+
+ Verzeichnis von F:\media\basteln\Papierfiguren
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+17.08.2000  12:54 12r            95.569 Papierfigur1.png
+20.08.2000  20:42 8r            33.594 Papierfigur1a.png
+17.08.2000  12:54 12r            52.941 Papierfigur2.png
+20.08.2000  20:43 8r            21.738 Papierfigur2a.png
+17.08.2000  12:54 12r            63.422 Papierfigur3.png
+20.08.2000  20:42 8r            25.965 Papierfigur3a.png
+               6 Datei(en),        293.229 Bytes
+
+ Verzeichnis von F:\media\basteln\Schnittbogen
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+17.08.2000  12:54 12r            99.957 Schnittbogen1.png
+20.08.2000  20:59 8r            35.286 Schnittbogen1a.png
+17.08.2000  12:54 12r           111.250 Schnittbogen2.png
+20.08.2000  21:37 9r            37.449 Schnittbogen2a.png
+17.08.2000  12:54 12r           101.409 Schnittbogen3.png
+20.08.2000  20:59 8r            35.084 Schnittbogen3a.png
+17.08.2000  12:54 12r            69.875 Schnittbogen4.png
+20.08.2000  20:59 8r            28.512 Schnittbogen4a.png
+17.08.2000  12:54 12r            70.146 Schnittbogen5.png
+20.08.2000  20:58 8r            28.249 Schnittbogen5a.png
+              10 Datei(en),        617.217 Bytes
+
+ Verzeichnis von F:\media\basteln\texte
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.08.2000  20:44 8r            51.436 daumenkino.jpg
+29.08.2000  21:54 9r            28.692 figuren.jpg
+17.08.2000  17:57 5r            17.280 fingerrassel.jpg
+19.08.2000  20:44 8r            76.716 glasorgel.jpg
+17.08.2000  17:57 5r            66.371 joghurt.jpg
+02.09.2000  11:11 11r            79.163 kaseinleim.jpg
+29.08.2000  21:54 9r           122.506 klacker.jpg
+17.08.2000  17:57 5r            62.265 kokosrassel.jpg
+30.08.2000  20:20 8r           112.967 kronkorken.jpg
+29.08.2000  21:54 9r            84.733 labyrinth.jpg
+17.08.2000  17:57 5r            60.082 musikkelle.jpg
+21.08.2000  15:32 3r           142.276 ohrensessel.jpg
+17.08.2000  17:57 5r           200.670 quark.jpg
+30.08.2000  20:20 8r           321.063 robert.jpg
+30.08.2000  20:20 8r           160.070 schachteln.jpg
+19.08.2000  20:44 8r            44.896 schlitztrommel.jpg
+17.08.2000  17:57 5r            39.388 wunderscheibe.jpg
+              17 Datei(en),      1.670.574 Bytes
+
+ Verzeichnis von F:\media\basteln\Wunderscheibe
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+17.08.2000  12:54 12r            79.945 Wunderscheibe1.png
+20.08.2000  20:36 8r            27.903 Wunderscheibe1a.png
+17.08.2000  12:54 12r           112.910 Wunderscheibe2.png
+20.08.2000  21:00 9r            38.015 Wunderscheibe2a.png
+21.08.2000  15:32 3r            45.415 Wunderscheibe3.png
+21.08.2000  15:32 3r            17.550 Wunderscheibe3a.png
+               6 Datei(en),        321.738 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          AUTO
+10.10.2000  12:28 12r    <DIR>          GARAGE
+10.10.2000  12:28 12r    <DIR>          Garage2
+10.10.2000  12:28 12r    <DIR>          GARAGE80
+10.10.2000  12:28 12r    <DIR>          GIESS
+10.10.2000  12:28 12r    <DIR>          intro
+30.08.2000  15:10 3r        21.048.677 intro.mov
+10.10.2000  12:28 12r    <DIR>          Navigation
+10.10.2000  12:28 12r    <DIR>          SCHROTT
+10.10.2000  12:28 12r    <DIR>          WASCH
+               1 Datei(en),     21.048.677 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\AUTO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\AUTO\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  15:10 3r            20.598 Hupe.aif
+30.08.2000  15:10 3r            37.628 Sz_1.aif
+30.08.2000  15:10 3r             9.846 Sz_2.aif
+30.08.2000  15:10 3r            50.952 Sz_3.aif
+30.08.2000  15:10 3r            51.798 Sz_4.aif
+30.08.2000  15:10 3r            44.342 SZ_5.aif
+30.08.2000  15:10 3r            29.494 Sz_6.aif
+               7 Datei(en),        244.658 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\GARAGE
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\GARAGE\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  15:10 3r            21.814 sz_4.aif
+30.08.2000  15:10 3r           245.046 sz_5.aif
+30.08.2000  15:10 3r            29.750 sz_6.aif
+30.08.2000  15:10 3r            17.078 sz_7.aif
+               4 Datei(en),        313.688 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\Garage2
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\GARAGE80
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\GARAGE80\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  15:11 3r            21.506 13.aif
+30.08.2000  15:11 3r            24.692 Sz_10.aif
+30.08.2000  15:11 3r            97.310 Sz_11.aif
+30.08.2000  15:11 3r           221.238 Sz_12.aif
+30.08.2000  15:11 3r            99.448 Sz_13.aif
+30.08.2000  15:11 3r           117.124 Sz_14.aif
+30.08.2000  15:11 3r           349.810 Sz_15.aif
+30.08.2000  15:11 3r           200.122 Sz_16.aif
+30.08.2000  15:11 3r           228.918 Sz_17.aif
+30.08.2000  15:11 3r           233.566 Sz_18.aif
+30.08.2000  15:11 3r           143.162 Sz_19.aif
+30.08.2000  15:11 3r            13.342 Sz_2.aif
+30.08.2000  15:11 3r           376.680 Sz_20.aif
+30.08.2000  15:11 3r            93.076 Sz_21.aif
+30.08.2000  15:11 3r           246.326 Sz_22.aif
+30.08.2000  15:11 3r            69.446 Sz_23.aif
+30.08.2000  15:11 3r           160.754 Sz_24.aif
+30.08.2000  15:11 3r            23.574 Sz_25.aif
+30.08.2000  15:11 3r           191.800 Sz_26.aif
+30.08.2000  15:11 3r            20.282 Sz_27.aif
+30.08.2000  15:11 3r           325.570 Sz_28.aif
+30.08.2000  15:11 3r           132.376 sz_29.aif
+30.08.2000  15:11 3r           248.002 sz_30.aif
+30.08.2000  15:11 3r           271.892 Sz_4.aif
+30.08.2000  15:11 3r           186.388 Sz_5.aif
+30.08.2000  15:11 3r           360.646 Sz_6.aif
+              26 Datei(en),      4.457.050 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\GIESS
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\GIESS\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+02.09.2000  11:11 11r            28.576 Sz_1.aif
+30.08.2000  15:11 3r            26.936 sz_10.aif
+30.08.2000  15:11 3r            30.516 Sz_2.aif
+30.08.2000  15:11 3r             6.126 Sz_3.aif
+30.08.2000  15:11 3r            25.314 Sz_4.aif
+30.08.2000  15:11 3r           134.960 Sz_5.aif
+30.08.2000  15:11 3r            65.300 Sz_6.aif
+30.08.2000  15:11 3r            57.728 Sz_9.aif
+               8 Datei(en),        375.456 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\intro
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  15:11 3r               131 hintergrund.dat
+30.08.2000  15:11 3r               275 intro.dat
+               2 Datei(en),            406 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\Navigation
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\SCHROTT
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\SCHROTT\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  15:11 3r            30.398 Scharni.aif
+30.08.2000  15:11 3r            50.818 SZ_1.aif
+30.08.2000  15:11 3r           117.478 Sz_10.aif
+30.08.2000  15:11 3r            62.970 Sz_11.aif
+30.08.2000  15:11 3r            23.212 Sz_12.aif
+30.08.2000  15:11 3r            18.310 Sz_13.aif
+30.08.2000  15:11 3r            33.434 Sz_14.aif
+30.08.2000  15:11 3r            61.490 Sz_15.aif
+30.08.2000  15:11 3r            71.572 Sz_16.aif
+30.08.2000  15:11 3r            30.600 Sz_17.aif
+31.08.2000  19:26 7r            65.374 Sz_18.aif
+30.08.2000  15:11 3r            12.936 Sz_19.aif
+30.08.2000  15:11 3r            74.456 Sz_2.aif
+30.08.2000  15:11 3r            18.178 Sz_20.aif
+31.08.2000  19:26 7r            63.790 sz_31.aif
+30.08.2000  15:11 3r            30.982 Sz_4.aif
+31.08.2000  19:26 7r            59.442 Sz_5.aif
+30.08.2000  15:11 3r            31.216 Sz_6.aif
+31.08.2000  19:26 7r           117.814 Sz_7.aif
+02.09.2000  11:11 11r           176.120 Sz_8.aif
+30.08.2000  15:11 3r            85.958 Sz_9.aif
+              21 Datei(en),      1.236.548 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\WASCH
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\BILDERGESCHICHTE\WASCH\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  15:11 3r            65.732 Sz_1.aif
+30.08.2000  15:11 3r           247.014 Sz_2.aif
+30.08.2000  15:11 3r            30.646 Sz_3.aif
+30.08.2000  15:11 3r            16.182 sz_4.aif
+30.08.2000  15:11 3r            60.982 sz_5.aif
+               5 Datei(en),        420.556 Bytes
+
+ Verzeichnis von F:\media\Credits
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.08.2000  23:26 11r               996 3tile.dat
+01.09.2000  00:43 12r           454.724 3tile.png
+01.09.2000  00:43 12r            61.648 a1.dat
+18.08.2000  21:23 9r                62 back.dat
+20.08.2000  23:29 11r               423 credits.dat
+31.08.2000  19:26 7r               220 creditsani.dat
+10.10.2000  12:28 12r    <DIR>          images
+19.08.2000  23:26 11r               775 tile.dat
+01.09.2000  01:27 1r           339.833 tile.png
+01.09.2000  00:43 12r               857 tile1.dat
+02.09.2000  14:24 2r             1.315 tile2.dat
+02.09.2000  14:28 2r           720.404 tile2.png
+              11 Datei(en),      1.581.257 Bytes
+
+ Verzeichnis von F:\media\Credits\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  21:23 9r           369.305 1.jpg
+18.08.2000  21:23 9r             3.123 7.jpg
+01.09.2000  00:43 12r             5.850 ste.jpg
+               3 Datei(en),        378.278 Bytes
+
+ Verzeichnis von F:\media\Exit
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+16.08.2000  20:36 8r               699 a1.dat
+16.08.2000  20:36 8r               501 a2.dat
+16.08.2000  20:52 8r                80 b1.dat
+16.08.2000  20:31 8r                59 back.dat
+16.08.2000  21:02 9r             1.206 Elefant.dat
+16.08.2000  21:06 9r             1.107 Ente.dat
+16.08.2000  20:46 8r               239 exit.dat
+10.10.2000  12:28 12r    <DIR>          IMAGES
+16.08.2000  20:50 8r               387 intro.dat
+               8 Datei(en),          4.278 Bytes
+
+ Verzeichnis von F:\media\Exit\IMAGES
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+14.08.2000  19:24 7r           369.305 1.jpg
+16.08.2000  17:29 5r            23.193 2.png
+16.08.2000  17:29 5r            26.409 3.png
+16.08.2000  17:29 5r            26.257 4.png
+16.08.2000  17:29 5r            26.622 5.png
+16.08.2000  17:29 5r            23.135 6.png
+               6 Datei(en),        494.921 Bytes
+
+ Verzeichnis von F:\media\geraeuschebar
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          AUSWAHL
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\geraeuschebar\AUSWAHL
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+27.08.2000  12:28 12r           163.164 Background.jpg
+03.07.2000  22:11 10r            77.900 Kinder1.jpg
+03.07.2000  22:11 10r            74.189 Kinder2.jpg
+03.07.2000  22:11 10r            67.350 Kuechen1.jpg
+03.07.2000  22:11 10r            67.516 Kuechen2.jpg
+03.07.2000  22:11 10r            68.723 Real1.jpg
+03.07.2000  22:11 10r            70.256 Real2.jpg
+               7 Datei(en),        589.098 Bytes
+
+ Verzeichnis von F:\media\IntroMaus
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+02.09.2000  11:11 11r         7.249.253 Intro.mov
+17.08.2000  13:29 1r               130 IntroMaus.dat
+10.10.2000  12:28 12r    <DIR>          TYPOINTRO
+23.08.2000  21:20 9r               355 TypoIntro.dat
+               3 Datei(en),      7.249.738 Bytes
+
+ Verzeichnis von F:\media\IntroMaus\TYPOINTRO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+23.07.2000  14:30 2r            58.484 1.jpg
+23.07.2000  14:30 2r             9.359 10.jpg
+23.07.2000  14:30 2r            12.856 11.jpg
+23.07.2000  14:30 2r             2.940 2.jpg
+23.07.2000  14:30 2r             2.942 3.jpg
+23.07.2000  14:30 2r             1.020 4.jpg
+23.07.2000  14:30 2r             4.522 5.jpg
+23.07.2000  14:30 2r             3.000 6.jpg
+23.07.2000  14:30 2r             3.040 7.jpg
+23.07.2000  14:30 2r            20.130 8.jpg
+23.07.2000  14:30 2r            11.367 9.jpg
+14.08.2000  19:24 7r             1.869 a1.dat
+10.10.2000  12:28 12r    <DIR>          images
+14.08.2000  19:24 7r               274 typo.dat
+              13 Datei(en),        131.803 Bytes
+
+ Verzeichnis von F:\media\IntroMaus\TYPOINTRO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+14.08.2000  19:24 7r           360.722 1.jpg
+14.08.2000  19:24 7r             9.212 10.jpg
+14.08.2000  19:24 7r            12.662 11.jpg
+14.08.2000  19:24 7r             2.948 2.jpg
+14.08.2000  19:24 7r             3.111 3.jpg
+14.08.2000  19:24 7r               980 4.jpg
+14.08.2000  19:24 7r             4.594 5.jpg
+14.08.2000  19:24 7r             3.021 6.jpg
+14.08.2000  19:24 7r             3.087 7.jpg
+14.08.2000  19:24 7r            19.784 8.jpg
+14.08.2000  19:24 7r            11.196 9.jpg
+              11 Datei(en),        431.317 Bytes
+
+ Verzeichnis von F:\media\IntroTivola
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:12 10r               137 IntroTivola.dat
+01.09.2000  13:44 1r        12.168.585 Tivola.mov
+               2 Datei(en),     12.168.722 Bytes
+
+ Verzeichnis von F:\media\kreativ
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Bildgeschichte
+10.10.2000  12:28 12r    <DIR>          BUCHSTABEN
+10.10.2000  12:28 12r    <DIR>          DEMOS
+10.10.2000  12:28 12r    <DIR>          email
+10.10.2000  12:28 12r    <DIR>          LOADSCREEN
+17.08.2000  17:57 5r             1.619 malprogramm.dat
+10.10.2000  12:28 12r    <DIR>          OBJEKTE
+10.10.2000  12:28 12r    <DIR>          sounds
+               1 Datei(en),          1.619 Bytes
+
+ Verzeichnis von F:\media\kreativ\Bildgeschichte
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:13 10r             2.913 1.jpg
+03.07.2000  22:13 10r             2.926 10.jpg
+03.07.2000  22:13 10r             3.007 2.jpg
+02.09.2000  01:12 1r             9.303 3.jpg
+03.07.2000  22:13 10r             2.966 4.jpg
+03.07.2000  22:13 10r             3.013 5.jpg
+03.07.2000  22:13 10r             3.013 6.jpg
+03.07.2000  22:13 10r             2.902 7.jpg
+03.07.2000  22:13 10r             3.027 8.jpg
+03.07.2000  22:13 10r             2.866 9.jpg
+10.10.2000  12:28 12r    <DIR>          BILDER
+              10 Datei(en),         35.936 Bytes
+
+ Verzeichnis von F:\media\kreativ\Bildgeschichte\BILDER
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  12:35 12r            56.794 1.png
+20.08.2000  12:35 12r            60.780 2.png
+20.08.2000  12:35 12r            50.550 3.png
+20.08.2000  12:35 12r           121.184 4.png
+20.08.2000  12:35 12r            69.624 5.png
+20.08.2000  12:35 12r            48.359 6.png
+20.08.2000  12:35 12r            71.867 7.png
+20.08.2000  12:35 12r            39.279 8.png
+20.08.2000  12:35 12r            41.674 9.png
+               9 Datei(en),        560.111 Bytes
+
+ Verzeichnis von F:\media\kreativ\BUCHSTABEN
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  13:20 1r            24.898 0.png
+13.08.2000  13:20 1r            29.513 1.png
+13.08.2000  13:20 1r            13.340 2.png
+13.08.2000  13:20 1r            41.229 3.png
+13.08.2000  13:20 1r            23.131 4.png
+13.08.2000  13:20 1r            40.460 5.png
+13.08.2000  13:20 1r            28.382 6.png
+13.08.2000  13:20 1r            22.734 7.png
+13.08.2000  13:20 1r            26.330 8.png
+13.08.2000  13:20 1r            40.513 9.png
+13.08.2000  12:41 12r            24.430 a.png
+13.08.2000  13:19 1r            25.620 ae.png
+13.08.2000  12:42 12r            21.483 b.png
+13.08.2000  13:14 1r            18.867 c.png
+13.08.2000  13:14 1r            26.535 d.png
+13.08.2000  13:14 1r            23.814 e.png
+13.08.2000  13:14 1r            17.949 f.png
+13.08.2000  13:19 1r            34.174 fragez.png
+13.08.2000  13:14 1r            27.433 g.png
+13.08.2000  13:14 1r            24.103 h.png
+13.08.2000  13:14 1r            22.087 i.png
+13.08.2000  13:14 1r            21.903 j.png
+13.08.2000  13:14 1r            20.122 k.png
+13.08.2000  13:19 1r            11.174 komma.png
+13.08.2000  13:16 1r            24.584 l.png
+13.08.2000  13:16 1r            33.787 m.png
+13.08.2000  13:16 1r            27.144 n.png
+13.08.2000  13:16 1r            28.150 o.png
+13.08.2000  13:19 1r            34.730 oe.png
+13.08.2000  13:17 1r            20.221 p.png
+13.08.2000  13:19 1r             7.989 punkt.png
+13.08.2000  13:17 1r            33.459 q.png
+13.08.2000  13:17 1r            34.928 r.png
+13.08.2000  13:17 1r            34.534 s.png
+13.08.2000  13:23 1r            21.265 strich.png
+13.08.2000  13:17 1r            19.655 t.png
+13.08.2000  13:17 1r            26.927 u.png
+13.08.2000  13:19 1r            21.605 ue.png
+13.08.2000  13:17 1r            39.425 v.png
+13.08.2000  13:19 1r            40.625 w.png
+13.08.2000  13:19 1r            34.545 x.png
+13.08.2000  13:19 1r            33.207 y.png
+13.08.2000  13:19 1r            29.114 z.png
+              43 Datei(en),      1.156.118 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+02.09.2000  01:12 1r             1.076 back.dat
+14.08.2000  19:25 7r             4.995 backwhite.jpg
+10.10.2000  12:28 12r    <DIR>          BUCHSTABENDEMO
+10.07.2000  11:12 11r               950 collagehilfe.dat
+20.08.2000  16:15 4r               585 democontainer.dat
+10.10.2000  12:28 12r    <DIR>          FUELLENDEMO
+10.07.2000  11:12 11r               939 geschichtehilfe.dat
+10.07.2000  11:12 11r            25.951 hintergrund.jpg
+10.10.2000  12:28 12r    <DIR>          ladendemo
+10.10.2000  12:28 12r    <DIR>          LOESCHENDEMO
+10.10.2000  12:28 12r    <DIR>          maildemo
+10.10.2000  12:28 12r    <DIR>          MALENNACHPUNKTDEMO
+10.07.2000  11:12 11r               898 malhilfe.dat
+10.10.2000  12:28 12r    <DIR>          MOTIVWAHLDEMO
+10.07.2000  11:12 11r               949 nachpunkthilfe.dat
+10.10.2000  12:28 12r    <DIR>          OBJEKTDEMO
+10.10.2000  12:28 12r    <DIR>          RADIERDEMO
+10.10.2000  12:28 12r    <DIR>          stempeldemo
+10.10.2000  12:28 12r    <DIR>          stiftdemo
+10.10.2000  12:28 12r    <DIR>          zauberpinseldemo
+               8 Datei(en),         36.343 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\BUCHSTABENDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               614 a1.dat
+20.08.2000  18:28 6r             1.378 a2.dat
+20.08.2000  18:28 6r             1.651 a3.dat
+20.08.2000  18:28 6r             1.340 a4.dat
+20.08.2000  18:28 6r             2.619 a5.dat
+20.08.2000  18:28 6r             2.135 a6.dat
+20.08.2000  18:28 6r             2.696 a7.dat
+20.08.2000  18:28 6r             1.022 a8.dat
+20.08.2000  18:28 6r                85 b1.dat
+20.08.2000  16:22 4r             1.552 Buchstabendemo.dat
+10.10.2000  12:28 12r    <DIR>          images
+              10 Datei(en),         15.092 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\BUCHSTABENDEMO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r             6.148 1.png
+18.08.2000  23:04 11r               285 10.jpg
+22.08.2000  12:35 12r            39.135 11.jpg
+22.08.2000  12:35 12r            35.614 12.jpg
+22.08.2000  12:35 12r            32.337 13.jpg
+22.08.2000  12:35 12r            30.545 14.jpg
+22.08.2000  12:35 12r            27.831 15.jpg
+22.08.2000  12:35 12r            24.934 16.jpg
+22.08.2000  12:35 12r            18.799 17.jpg
+22.08.2000  12:35 12r             9.282 18.jpg
+22.08.2000  12:35 12r            20.323 19.jpg
+18.08.2000  23:04 11r            29.771 2.jpg
+22.08.2000  12:35 12r            25.582 20.jpg
+22.08.2000  12:35 12r            27.876 21.jpg
+22.08.2000  12:35 12r            29.008 22.jpg
+22.08.2000  12:35 12r            30.675 23.jpg
+22.08.2000  12:35 12r            32.419 24.jpg
+22.08.2000  12:35 12r            33.653 25.jpg
+22.08.2000  12:35 12r            22.241 26.jpg
+18.08.2000  23:04 11r             6.087 27.png
+22.08.2000  12:35 12r            44.031 28.jpg
+18.08.2000  23:04 11r             7.878 29.png
+18.08.2000  23:04 11r             1.261 3.png
+18.08.2000  23:04 11r            31.608 30.jpg
+18.08.2000  23:04 11r             6.295 4.png
+22.08.2000  12:35 12r            41.785 5.jpg
+22.08.2000  12:35 12r            42.973 6.jpg
+22.08.2000  12:35 12r            42.419 7.jpg
+22.08.2000  12:35 12r            43.253 8.jpg
+22.08.2000  12:35 12r            43.001 9.jpg
+              30 Datei(en),        787.049 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\FUELLENDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               488 a2.dat
+20.08.2000  18:28 6r               925 a3.dat
+20.08.2000  18:28 6r             1.273 a4.dat
+20.08.2000  18:28 6r               178 b1.dat
+20.08.2000  16:49 4r               596 fuellendemo.dat
+10.10.2000  12:28 12r    <DIR>          images
+               5 Datei(en),          3.460 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\FUELLENDEMO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r             7.203 1.png
+18.08.2000  23:04 11r             4.702 2.png
+22.08.2000  12:35 12r            38.502 3.jpg
+18.08.2000  23:04 11r             1.261 4.png
+18.08.2000  23:04 11r             7.444 5.png
+18.08.2000  23:04 11r             5.056 6.png
+22.08.2000  12:35 12r            57.327 7.jpg
+18.08.2000  23:04 11r            34.132 8.jpg
+18.08.2000  23:04 11r               778 9.gif
+               9 Datei(en),        156.405 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\ladendemo
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:46 6r               616 a1.dat
+22.08.2000  12:35 12r            10.562 a2.dat
+23.08.2000  10:57 10r               763 b1.dat
+20.08.2000  15:27 3r               694 b2.dat
+26.08.2000  16:31 4r               971 back.dat
+10.10.2000  12:28 12r    <DIR>          images
+02.09.2000  17:56 5r               358 Ladendemo.dat
+               6 Datei(en),         13.964 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\ladendemo\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  15:27 3r             7.189 1.png
+20.08.2000  15:27 3r             7.574 10.jpg
+20.08.2000  15:27 3r            12.923 11.jpg
+07.07.2000  12:28 12r            12.866 12.jpg
+20.08.2000  15:27 3r            10.714 12.png
+20.08.2000  15:27 3r             6.503 13.png
+20.08.2000  15:27 3r             1.311 14.jpg
+20.08.2000  15:27 3r             1.336 15.jpg
+07.07.2000  12:28 12r             1.346 16.jpg
+20.08.2000  15:27 3r             2.437 16.png
+20.08.2000  15:27 3r             3.149 17.png
+22.08.2000  12:35 12r            18.935 18.jpg
+20.08.2000  15:27 3r             6.906 2.png
+07.07.2000  12:28 12r            60.237 20.jpg
+20.08.2000  15:27 3r             7.653 3.png
+20.08.2000  15:27 3r             7.917 4.png
+20.08.2000  15:27 3r             4.846 5.png
+20.08.2000  15:27 3r            10.897 6.png
+20.08.2000  15:27 3r           217.370 7.png
+20.08.2000  15:27 3r             7.452 8.jpg
+20.08.2000  15:27 3r             9.403 9.jpg
+              21 Datei(en),        418.964 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\LOESCHENDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               995 a1.dat
+20.08.2000  18:28 6r               385 a2.dat
+20.08.2000  18:28 6r             1.425 a3.dat
+20.08.2000  18:28 6r             3.787 a4.dat
+20.08.2000  18:28 6r               130 b1.dat
+20.08.2000  18:28 6r               130 b2.dat
+20.08.2000  18:28 6r               130 b3.dat
+20.08.2000  18:28 6r               130 b4.dat
+10.10.2000  12:28 12r    <DIR>          images
+20.08.2000  16:49 4r               796 loeschendemo.dat
+               9 Datei(en),          7.908 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\LOESCHENDEMO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r             7.518 1.png
+18.08.2000  23:04 11r             8.767 2.png
+18.08.2000  23:04 11r             6.557 3.jpg
+18.08.2000  23:04 11r             8.369 4.jpg
+18.08.2000  23:04 11r             1.261 5.png
+18.08.2000  23:04 11r            10.521 6.png
+18.08.2000  23:04 11r             7.495 7.png
+18.08.2000  23:04 11r            11.676 8.png
+18.08.2000  23:04 11r             9.042 9.png
+               9 Datei(en),         71.206 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\maildemo
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               271 a1.dat
+20.08.2000  18:28 6r               271 a2.dat
+20.08.2000  18:28 6r               271 a3.dat
+20.08.2000  18:28 6r               317 a4.dat
+02.09.2000  01:12 1r             5.863 a5.dat
+20.08.2000  18:28 6r               596 a6.dat
+02.09.2000  01:12 1r               399 b1.dat
+02.09.2000  01:12 1r               399 b2.dat
+02.09.2000  01:12 1r               399 b3.dat
+02.09.2000  01:12 1r               399 b4.dat
+20.08.2000  18:28 6r               219 b6.dat
+02.09.2000  01:12 1r               129 back.dat
+10.10.2000  12:28 12r    <DIR>          images
+20.08.2000  16:49 4r             1.265 maildemo.dat
+              13 Datei(en),         10.798 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\maildemo\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.08.2000  22:48 10r             4.846 1.png
+19.08.2000  22:48 10r             3.573 10.png
+19.08.2000  22:48 10r            12.625 11.png
+30.08.2000  16:58 4r             9.030 12.jpg
+19.08.2000  22:48 10r             9.746 13.jpg
+19.08.2000  22:48 10r            26.034 14.png
+19.08.2000  22:48 10r             1.261 15.png
+19.08.2000  22:48 10r             9.222 16.png
+19.08.2000  22:48 10r             4.434 17.png
+19.08.2000  22:48 10r            18.564 18.png
+19.08.2000  22:48 10r            17.682 19.png
+19.08.2000  22:48 10r           217.370 2.png
+19.08.2000  22:48 10r             7.996 20.png
+19.08.2000  22:48 10r            22.534 21.png
+19.08.2000  22:48 10r             3.149 3.png
+19.08.2000  22:48 10r             5.670 4.png
+19.08.2000  22:48 10r             8.349 5.png
+19.08.2000  22:48 10r            12.923 6.jpg
+19.08.2000  22:48 10r            10.714 7.png
+19.08.2000  22:48 10r             1.997 8.png
+19.08.2000  22:48 10r             3.215 9.png
+              21 Datei(en),        410.934 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\MALENNACHPUNKTDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r             6.160 a1.dat
+20.08.2000  18:28 6r             2.604 a2.dat
+20.08.2000  18:28 6r             6.557 a3.dat
+20.08.2000  18:28 6r             2.132 a4.dat
+20.08.2000  18:28 6r               195 b1.dat
+10.10.2000  12:28 12r    <DIR>          IMAGES
+20.08.2000  16:49 4r               833 malennachpunkt.dat
+               6 Datei(en),         18.481 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\MALENNACHPUNKTDEMO\IMAGES
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r            24.596 1.jpg
+18.08.2000  23:04 11r             3.691 10.jpg
+18.08.2000  23:04 11r             4.070 11.jpg
+18.08.2000  23:04 11r             4.321 12.jpg
+18.08.2000  23:04 11r             4.465 13.jpg
+23.08.2000  10:57 10r            22.519 2.jpg
+18.08.2000  23:04 11r             1.227 3.jpg
+18.08.2000  23:04 11r                95 4.png
+18.08.2000  23:04 11r             1.251 5.png
+23.08.2000  10:57 10r             4.456 6.jpg
+18.08.2000  23:04 11r             1.809 7.jpg
+18.08.2000  23:04 11r             2.153 8.jpg
+18.08.2000  23:04 11r             3.372 9.jpg
+              13 Datei(en),         78.025 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\MOTIVWAHLDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               305 a1.dat
+22.08.2000  12:35 12r               238 a2.dat
+22.08.2000  12:35 12r               596 a3.dat
+22.08.2000  12:35 12r             4.646 a4.dat
+20.08.2000  18:28 6r               479 b1.dat
+10.10.2000  12:28 12r    <DIR>          images
+20.08.2000  16:49 4r               796 motivwahldemo.dat
+               6 Datei(en),          7.060 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\MOTIVWAHLDEMO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r             2.837 1.png
+18.08.2000  23:04 11r            11.511 10.png
+18.08.2000  23:04 11r            10.709 11.png
+18.08.2000  23:04 11r             9.282 12.png
+18.08.2000  23:04 11r            12.229 13.png
+18.08.2000  23:04 11r            10.751 14.png
+18.08.2000  23:04 11r             8.684 15.png
+18.08.2000  23:04 11r             9.968 16.png
+18.08.2000  23:04 11r             9.027 17.png
+18.08.2000  23:04 11r             9.894 18.png
+18.08.2000  23:04 11r             3.487 19.png
+18.08.2000  23:04 11r             9.017 2.png
+18.08.2000  23:04 11r             2.977 20.png
+18.08.2000  23:04 11r             3.432 21.png
+18.08.2000  23:04 11r             3.144 22.png
+18.08.2000  23:04 11r             1.261 3.png
+18.08.2000  23:04 11r            17.913 4.png
+18.08.2000  23:04 11r             1.661 5.jpg
+18.08.2000  23:04 11r             1.619 6.jpg
+18.08.2000  23:04 11r             1.622 7.jpg
+18.08.2000  23:04 11r             1.564 8.jpg
+22.08.2000  12:35 12r            18.935 9.jpg
+              22 Datei(en),        161.524 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\OBJEKTDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               134 a1.dat
+23.08.2000  12:49 12r             1.221 a2.dat
+20.08.2000  18:28 6r             1.380 a3.dat
+20.08.2000  18:28 6r               681 a4.dat
+20.08.2000  18:28 6r             1.691 a5.dat
+20.08.2000  18:28 6r             1.394 a6.dat
+21.08.2000  15:33 3r             3.146 a7.dat
+21.08.2000  15:33 3r             1.225 a8.dat
+20.08.2000  18:28 6r               127 b1.dat
+10.10.2000  12:28 12r    <DIR>          images
+20.08.2000  16:49 4r             1.487 objektdemo.dat
+              10 Datei(en),         12.486 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\OBJEKTDEMO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r             8.267 1.png
+21.08.2000  15:33 3r            24.617 10.jpg
+21.08.2000  15:33 3r            20.348 11.jpg
+21.08.2000  15:33 3r             9.077 12.jpg
+21.08.2000  15:33 3r            19.401 13.jpg
+21.08.2000  15:33 3r            23.605 14.jpg
+21.08.2000  15:33 3r            25.248 15.jpg
+21.08.2000  15:33 3r            25.833 16.jpg
+21.08.2000  15:33 3r            26.376 17.jpg
+21.08.2000  15:33 3r            27.462 18.jpg
+21.08.2000  15:33 3r            27.579 19.jpg
+18.08.2000  23:04 11r             1.261 2.png
+18.08.2000  23:04 11r            32.204 20.jpg
+18.08.2000  23:04 11r            12.903 20.png
+23.08.2000  12:49 12r             5.664 21.png
+21.08.2000  15:33 3r            41.574 22.jpg
+23.08.2000  12:49 12r             5.695 3.png
+21.08.2000  15:33 3r            34.593 4.jpg
+21.08.2000  15:33 3r            36.343 5.jpg
+21.08.2000  15:33 3r            37.110 6.jpg
+21.08.2000  15:33 3r            37.713 7.jpg
+21.08.2000  15:33 3r            27.231 8.jpg
+21.08.2000  15:33 3r            26.018 9.jpg
+              23 Datei(en),        536.122 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\RADIERDEMO
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r             4.042 a2.dat
+20.08.2000  18:28 6r             4.255 a3.dat
+20.08.2000  18:28 6r               265 b1.dat
+10.10.2000  12:28 12r    <DIR>          images
+20.08.2000  16:49 4r               539 Radierdemo.dat
+               4 Datei(en),          9.101 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\RADIERDEMO\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+18.08.2000  23:04 11r            32.607 1.jpg
+18.08.2000  23:04 11r             5.425 10.png
+18.08.2000  23:04 11r               188 11.png
+18.08.2000  23:04 11r               723 12.jpg
+18.08.2000  23:04 11r             4.686 2.png
+18.08.2000  23:04 11r             5.258 3.png
+18.08.2000  23:04 11r             5.505 4.png
+18.08.2000  23:04 11r             6.926 5.png
+18.08.2000  23:04 11r             1.251 6.png
+18.08.2000  23:04 11r             6.382 7.png
+18.08.2000  23:04 11r             6.884 8.png
+18.08.2000  23:04 11r             6.849 9.png
+              12 Datei(en),         82.684 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\stempeldemo
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  15:29 3r               240 a1.dat
+20.08.2000  15:29 3r               440 a2.dat
+20.08.2000  15:29 3r               387 a3.dat
+02.09.2000  20:18 8r            11.865 a4.dat
+12.08.2000  17:26 5r                82 b0.dat
+20.08.2000  15:29 3r               129 b1.dat
+12.08.2000  17:26 5r                82 b2.dat
+12.08.2000  17:26 5r                82 b3.dat
+12.08.2000  17:26 5r                82 b4.dat
+10.10.2000  12:28 12r    <DIR>          images
+14.08.2000  19:25 7r               780 stempeldemo.dat
+              10 Datei(en),         14.169 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\stempeldemo\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  15:29 3r             6.824 1.png
+20.08.2000  15:29 3r             1.261 2.png
+20.08.2000  15:29 3r             6.721 3.png
+20.08.2000  15:29 3r             2.054 4.png
+14.08.2000  19:25 7r            38.202 5.jpg
+               5 Datei(en),         55.062 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\stiftdemo
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  15:22 3r               185 a1.dat
+20.08.2000  15:22 3r             1.439 a2.dat
+20.08.2000  15:22 3r             2.628 a3.dat
+20.08.2000  15:22 3r               229 b1.dat
+10.10.2000  12:28 12r    <DIR>          images
+12.08.2000  17:26 5r               585 stiftdemo.dat
+               5 Datei(en),          5.066 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\stiftdemo\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  15:22 3r             6.045 1.png
+14.08.2000  19:25 7r               367 10.jpg
+20.08.2000  15:22 3r             6.916 11.png
+14.08.2000  19:25 7r             1.539 12.jpg
+20.08.2000  15:22 3r             4.893 2.png
+20.08.2000  15:22 3r             5.074 3.png
+20.08.2000  15:22 3r             5.149 4.png
+20.08.2000  15:22 3r             1.251 5.png
+20.08.2000  15:22 3r             6.724 6.png
+20.08.2000  15:22 3r             6.772 7.png
+20.08.2000  15:22 3r             6.450 8.png
+12.08.2000  17:26 5r               805 9.jpg
+20.08.2000  15:22 3r             5.356 9.png
+              13 Datei(en),         57.341 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\zauberpinseldemo
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  18:28 6r               258 a1.dat
+20.08.2000  18:34 6r               317 a2.dat
+20.08.2000  18:34 6r               418 a3.dat
+20.08.2000  18:34 6r             3.716 a4.dat
+12.08.2000  17:26 5r               139 b0.dat
+20.08.2000  18:32 6r               196 b1.dat
+12.08.2000  17:26 5r               139 b2.dat
+12.08.2000  17:26 5r               139 b3.dat
+12.08.2000  17:26 5r               139 b4.dat
+10.10.2000  12:28 12r    <DIR>          images
+20.08.2000  16:49 4r               825 zauberpinseldemo.dat
+              10 Datei(en),          6.286 Bytes
+
+ Verzeichnis von F:\media\kreativ\DEMOS\zauberpinseldemo\images
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  15:44 3r             4.616 1.png
+20.08.2000  15:44 3r             8.068 2.png
+20.08.2000  15:44 3r             1.261 3.png
+20.08.2000  15:44 3r             7.648 4.png
+20.08.2000  15:44 3r            11.132 5.png
+14.08.2000  19:25 7r             1.815 6.jpg
+14.08.2000  19:25 7r             4.629 7.jpg
+14.08.2000  19:25 7r            28.250 8.jpg
+               8 Datei(en),         67.419 Bytes
+
+ Verzeichnis von F:\media\kreativ\email
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+01.09.2000  23:18 11r             2.014 emailScreen.dat
+10.10.2000  12:28 12r    <DIR>          konfigurieren
+10.10.2000  12:28 12r    <DIR>          senden
+13.08.2000  19:48 7r             1.008 tile.dat
+13.08.2000  19:48 7r           280.101 tile.png
+               3 Datei(en),        283.123 Bytes
+
+ Verzeichnis von F:\media\kreativ\email\konfigurieren
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          buttons
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\kreativ\email\konfigurieren\buttons
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+20.08.2000  11:38 11r               252 fertig.dat
+17.08.2000  17:57 5r               254 zurueck.dat
+               2 Datei(en),            506 Bytes
+
+ Verzeichnis von F:\media\kreativ\email\senden
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          bild
+10.10.2000  12:28 12r    <DIR>          buttons
+10.10.2000  12:28 12r    <DIR>          schrift
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\kreativ\email\senden\bild
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+17.08.2000  17:57 5r                82 bild.dat
+               1 Datei(en),             82 Bytes
+
+ Verzeichnis von F:\media\kreativ\email\senden\buttons
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+29.08.2000  21:54 9r               437 einstellung.dat
+29.08.2000  21:54 9r               427 senden.dat
+17.08.2000  17:57 5r               244 zurueck.dat
+               3 Datei(en),          1.108 Bytes
+
+ Verzeichnis von F:\media\kreativ\email\senden\schrift
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  17:14 5r            16.673 1.jpg
+17.08.2000  17:57 5r                85 schrift.dat
+               2 Datei(en),         16.758 Bytes
+
+ Verzeichnis von F:\media\kreativ\LOADSCREEN
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+02.09.2000  01:01 1r             1.155 LoadScreen.dat
+13.08.2000  17:28 5r               460 tile.dat
+13.08.2000  17:28 5r           173.831 tile.png
+               3 Datei(en),        175.446 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          BESTECK1
+10.10.2000  12:28 12r    <DIR>          BESTECK2
+10.10.2000  12:28 12r    <DIR>          MUELL1
+10.10.2000  12:28 12r    <DIR>          MUELL2
+10.10.2000  12:28 12r    <DIR>          objekte1
+10.10.2000  12:28 12r    <DIR>          objekte2
+10.10.2000  12:28 12r    <DIR>          objekte3
+10.10.2000  12:28 12r    <DIR>          objekte4
+10.10.2000  12:28 12r    <DIR>          werk1
+10.10.2000  12:28 12r    <DIR>          werk2
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\BESTECK1
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  15:58 3r             4.181 gabel.png
+13.08.2000  15:58 3r             8.267 greifer.png
+13.08.2000  15:58 3r             6.438 loeffel.png
+13.08.2000  15:58 3r             4.625 messer.png
+13.08.2000  15:58 3r             8.218 messer2.png
+13.08.2000  15:58 3r            23.207 presse.png
+13.08.2000  15:58 3r            13.251 sieb.png
+13.08.2000  15:58 3r             9.155 teei.png
+13.08.2000  15:58 3r            12.233 trichter.png
+13.08.2000  15:58 3r             9.065 zange.png
+              10 Datei(en),         98.640 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\BESTECK2
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  15:58 3r             5.620 blech.png
+13.08.2000  15:58 3r             3.481 herz.png
+13.08.2000  15:58 3r            14.064 kelle.png
+13.08.2000  15:58 3r             6.645 kelle1.png
+13.08.2000  15:58 3r            10.035 kuform.png
+13.08.2000  15:58 3r             3.621 mond.png
+13.08.2000  15:58 3r            24.571 nuholz.png
+13.08.2000  15:58 3r            11.201 schneebesen.png
+13.08.2000  15:58 3r             9.412 schneider.png
+13.08.2000  15:58 3r             3.305 stern.png
+              10 Datei(en),         91.955 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\MUELL1
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  15:59 3r            22.469 becher.png
+13.08.2000  15:59 3r            18.836 dose.png
+13.08.2000  15:59 3r            14.663 fisch.png
+13.08.2000  15:59 3r            22.559 flasche.png
+13.08.2000  15:59 3r            15.328 glas.png
+13.08.2000  15:59 3r             8.086 lappen.png
+13.08.2000  15:59 3r            27.585 sack.png
+13.08.2000  15:59 3r            18.371 tonne.png
+13.08.2000  15:59 3r            27.763 tuete.png
+13.08.2000  15:59 3r            19.818 zeitung.png
+              10 Datei(en),        195.478 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\MUELL2
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  15:59 3r            19.498 apfel.png
+13.08.2000  15:59 3r            31.619 banane.png
+13.08.2000  15:59 3r            10.426 buerste.png
+13.08.2000  15:59 3r            13.112 dose.png
+13.08.2000  15:59 3r            19.358 fisch.png
+13.08.2000  15:59 3r             7.144 kippe.png
+13.08.2000  15:59 3r            12.938 knochen.png
+13.08.2000  15:59 3r            25.701 papier.png
+13.08.2000  15:59 3r            11.772 teebeutel.png
+13.08.2000  15:59 3r            25.295 teller.png
+              10 Datei(en),        176.863 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\objekte1
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  15:59 3r            26.621 elefant.png
+13.08.2000  15:59 3r            21.645 ente.png
+13.08.2000  15:59 3r            19.752 fisch2.png
+13.08.2000  15:59 3r            22.273 hamster.png
+13.08.2000  15:59 3r            22.295 hund.png
+13.08.2000  15:59 3r            20.697 katze.png
+13.08.2000  15:59 3r            12.779 kroete.png
+26.08.2000  16:31 4r            30.827 maus.png
+13.08.2000  15:59 3r            11.971 pferd.png
+13.08.2000  15:59 3r            13.717 pferd2.png
+13.08.2000  15:59 3r            10.621 vogel.png
+              11 Datei(en),        213.198 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\objekte2
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  15:59 3r            25.715 baum.png
+13.08.2000  15:59 3r            28.239 feuer.png
+13.08.2000  15:59 3r            22.441 kaktus.png
+13.08.2000  15:59 3r            11.973 mond.png
+13.08.2000  15:59 3r            20.904 rose.png
+13.08.2000  15:59 3r            16.341 schnuppe.png
+13.08.2000  15:59 3r            28.009 sonne.png
+13.08.2000  15:59 3r             4.640 stern.png
+13.08.2000  15:59 3r            21.865 tanne.png
+13.08.2000  15:59 3r            15.350 wolke.png
+              10 Datei(en),        195.477 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\objekte3
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  16:00 4r            16.095 bett.png
+13.08.2000  16:00 4r            11.194 lampe.png
+13.08.2000  16:00 4r            48.220 regal.png
+13.08.2000  16:00 4r            31.208 schrank.png
+13.08.2000  16:00 4r            20.754 sessel.png
+13.08.2000  16:00 4r            34.967 sofa.png
+13.08.2000  16:00 4r            13.584 stuhl.png
+13.08.2000  16:00 4r            17.705 tisch.png
+13.08.2000  16:00 4r            17.019 wanne.png
+13.08.2000  16:00 4r            19.153 wc.png
+              10 Datei(en),        229.899 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\objekte4
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  16:00 4r            20.651 auto.png
+13.08.2000  16:00 4r            14.410 board.png
+13.08.2000  16:00 4r            10.727 klecks.png
+13.08.2000  16:00 4r             7.620 klecks2.png
+13.08.2000  16:00 4r             4.286 kreis.png
+13.08.2000  16:00 4r             7.148 oval.png
+13.08.2000  16:00 4r            45.266 rad.png
+13.08.2000  16:00 4r             2.914 rechteck.png
+13.08.2000  16:00 4r            18.996 roller.png
+13.08.2000  16:00 4r            20.465 wagen.png
+              10 Datei(en),        152.483 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\werk1
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  16:00 4r             5.952 bohrer.png
+13.08.2000  16:00 4r            15.239 bohrmaschine.png
+13.08.2000  16:00 4r            10.395 brett.png
+13.08.2000  16:00 4r            12.873 hammer.png
+13.08.2000  16:00 4r            14.384 handbohrer.png
+13.08.2000  16:00 4r             3.237 mutter.png
+13.08.2000  16:00 4r             5.461 ring.png
+13.08.2000  16:00 4r             9.176 saege.png
+13.08.2000  16:00 4r             8.349 saege2.png
+13.08.2000  16:00 4r             4.133 schraube.png
+              10 Datei(en),         89.199 Bytes
+
+ Verzeichnis von F:\media\kreativ\OBJEKTE\werk2
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+13.08.2000  16:01 4r            14.806 dreher.png
+13.08.2000  16:01 4r            30.573 hobel.png
+13.08.2000  16:01 4r             6.415 lampe.png
+13.08.2000  16:01 4r            22.412 locher.png
+13.08.2000  16:01 4r             2.546 nagel.png
+13.08.2000  16:01 4r            13.036 pfeile.png
+13.08.2000  16:01 4r            12.297 schere.png
+13.08.2000  16:01 4r             6.813 schluessel.png
+13.08.2000  16:01 4r             6.247 winkel.png
+13.08.2000  16:01 4r            18.104 zange2.png
+              10 Datei(en),        133.249 Bytes
+
+ Verzeichnis von F:\media\kreativ\sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.08.2000  20:44 8r            31.544 1121.aif
+23.07.2000  14:31 2r            18.524 colage1.aif
+23.07.2000  14:31 2r             9.310 colage2.aif
+23.07.2000  14:31 2r               354 ErklÑrung Kreativ-Malen
+23.07.2000  14:31 2r            14.814 hebel.aif
+24.07.2000  14:12 2r            35.854 husten.aif
+23.07.2000  14:31 2r            15.198 invlupebew.aif
+27.07.2000  13:19 1r            62.198 langsamerpunkt.aif
+23.07.2000  14:31 2r            16.252 lupebew.aif
+19.08.2000  20:44 8r            10.422 MAUSSAUG.AIF
+27.07.2000  13:19 1r            35.678 rally1.aif
+27.07.2000  13:19 1r            37.470 schnaufen1.aif
+27.07.2000  13:19 1r            50.312 schnellerpunkt.aif
+23.08.2000  12:49 12r            30.776 stottern.aif
+27.07.2000  13:19 1r             1.583 Sz1061.aif
+27.07.2000  13:19 1r             2.752 Sz1070.aif
+27.07.2000  13:19 1r             2.752 Sz1071.aif
+27.07.2000  13:19 1r             2.752 Sz1072.aif
+27.07.2000  13:19 1r            17.395 Sz1077.aif
+27.07.2000  13:19 1r             7.682 Sz1078.aif
+27.07.2000  13:19 1r             9.403 Sz1083.aif
+27.07.2000  13:19 1r            14.588 Sz1087.aif
+27.07.2000  13:19 1r           116.780 Sz1093.aif
+02.08.2000  16:50 4r             8.852 Sz1105.aif
+27.07.2000  13:19 1r             9.878 Sz1113.aif
+27.07.2000  13:19 1r             4.606 Sz1115.aif
+02.08.2000  16:50 4r            18.398 Sz1116.aif
+27.07.2000  13:19 1r             5.385 Sz1126.aif
+27.07.2000  13:19 1r             8.990 Sz1128.aif
+27.07.2000  13:19 1r            14.836 Sz1129.aif
+27.07.2000  13:19 1r             6.044 Sz1135.aif
+27.07.2000  13:19 1r             4.890 Sz1177.aif
+19.08.2000  20:44 8r             5.688 Sz1330.aif
+19.08.2000  20:44 8r             2.558 Sz_1.aif
+27.07.2000  13:19 1r            62.496 Sz_1064.aif
+28.07.2000  16:20 4r            39.646 Sz_1065.aif
+28.07.2000  16:20 4r            41.182 Sz_1066.aif
+27.07.2000  13:19 1r            70.711 Sz_1084.aif
+27.07.2000  13:19 1r            29.929 Sz_1085.aif
+27.07.2000  13:19 1r            55.117 Sz_1086.aif
+27.07.2000  13:19 1r            60.894 Sz_1112.aif
+27.07.2000  13:19 1r            56.670 Sz_1114.aif
+27.07.2000  13:19 1r            42.645 Sz_1117.aif
+19.08.2000  20:44 8r             4.221 Sz_2.aif
+19.08.2000  20:44 8r            10.175 Sz_5.aif
+              45 Datei(en),      1.108.204 Bytes
+
+ Verzeichnis von F:\media\maschinenbau
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\maschinenbau\sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+23.07.2000  14:31 2r           104.064 Sz_1.aif
+23.07.2000  14:31 2r             2.751 Sz_10.aif
+23.07.2000  14:31 2r            52.790 Sz_11.aif
+23.07.2000  14:31 2r            10.454 Sz_12.aif
+23.07.2000  14:31 2r            10.405 Sz_13.aif
+23.07.2000  14:31 2r            10.454 Sz_14.aif
+23.07.2000  14:31 2r            12.806 Sz_15.aif
+23.07.2000  14:31 2r            13.865 Sz_16.aif
+23.07.2000  14:31 2r             2.340 Sz_17.aif
+23.07.2000  14:31 2r            12.354 Sz_18.aif
+23.07.2000  14:31 2r             7.310 Sz_19.aif
+23.07.2000  14:31 2r            34.643 Sz_2.aif
+23.07.2000  14:31 2r            15.275 Sz_20.aif
+23.07.2000  14:31 2r            21.457 Sz_21.aif
+23.07.2000  14:31 2r            21.457 Sz_22.aif
+23.07.2000  14:31 2r            32.319 Sz_23.aif
+23.07.2000  14:31 2r             6.456 Sz_24.aif
+23.07.2000  14:31 2r            47.615 Sz_25.aif
+23.07.2000  14:31 2r            57.788 Sz_26.aif
+23.07.2000  14:31 2r            21.625 Sz_27.aif
+23.07.2000  14:31 2r            57.024 Sz_28.aif
+23.07.2000  14:31 2r            29.152 Sz_29.aif
+23.07.2000  14:31 2r            34.643 Sz_3.aif
+23.07.2000  14:31 2r             9.513 Sz_30.aif
+23.07.2000  14:31 2r             7.579 Sz_31.aif
+23.07.2000  14:31 2r            12.542 Sz_32.aif
+23.07.2000  14:31 2r             8.161 Sz_33.aif
+23.07.2000  14:31 2r             7.926 Sz_34.aif
+23.07.2000  14:31 2r            20.832 Sz_35.aif
+23.07.2000  14:31 2r             5.750 Sz_36.aif
+23.07.2000  14:31 2r            16.628 Sz_37.aif
+23.07.2000  14:31 2r            60.318 Sz_38.aif
+23.07.2000  14:31 2r             4.898 Sz_39.aif
+23.07.2000  14:31 2r            30.035 Sz_4.aif
+23.07.2000  14:31 2r            12.159 Sz_40.aif
+23.07.2000  14:31 2r           188.324 Sz_41.aif
+23.07.2000  14:31 2r            30.035 Sz_5.aif
+23.07.2000  14:31 2r             3.192 Sz_5a.aif
+23.07.2000  14:31 2r            51.056 Sz_6.aif
+27.07.2000  13:19 1r            55.460 Sz_7.aif
+23.07.2000  14:31 2r            61.257 Sz_8.aif
+23.07.2000  14:31 2r            10.690 Sz_8a.aif
+27.07.2000  13:19 1r            25.862 Sz_8b.aif
+27.07.2000  13:19 1r            22.124 Sz_9.aif
+23.07.2000  14:31 2r             2.221 TÅftelwerkstatt ErklÑrung
+              45 Datei(en),      1.265.609 Bytes
+
+ Verzeichnis von F:\media\native
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:39 12r           118.784 optgraph.dll
+               1 Datei(en),        118.784 Bytes
+
+ Verzeichnis von F:\media\sachgeschichte
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          MOVIES
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\sachgeschichte\MOVIES
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+15.08.2000  18:23 6r         1.398.279 01.mov
+15.08.2000  18:23 6r         2.302.059 02.mov
+15.08.2000  18:23 6r         2.686.587 03.mov
+15.08.2000  18:23 6r         6.730.707 04.mov
+15.08.2000  18:23 6r         2.458.547 05.mov
+15.08.2000  18:23 6r         7.685.399 06.mov
+15.08.2000  18:23 6r        12.991.543 07_08.mov
+15.08.2000  18:24 6r        21.670.481 09.mov
+15.08.2000  18:24 6r        12.569.751 10.mov
+15.08.2000  18:24 6r         1.628.967 11.mov
+21.08.2000  15:35 3r        17.471.483 12.mov
+21.08.2000  15:36 3r        88.832.193 alles.mov
+15.08.2000  18:25 6r        34.652.239 Farben.mov
+15.08.2000  18:25 6r        37.963.235 Leim.mov
+              14 Datei(en),    251.041.470 Bytes
+
+ Verzeichnis von F:\media\saugerspiel
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          Sounds
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\saugerspiel\Sounds
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+28.08.2000  18:41 6r            73.796 sauger.aif
+31.08.2000  19:26 7r             8.712 spucken.aif
+23.08.2000  12:51 12r            38.620 Sz595.aif
+23.08.2000  12:51 12r            17.348 Sz665.aif
+23.08.2000  12:51 12r            77.660 Sz673.aif
+23.08.2000  12:51 12r             3.654 sz_4.aif
+               6 Datei(en),        219.790 Bytes
+
+ Verzeichnis von F:\media\sound
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          KRACH
+10.10.2000  12:28 12r    <DIR>          Maus-Musiken
+10.10.2000  12:28 12r    <DIR>          mausmusik
+10.10.2000  12:28 12r    <DIR>          MUSIK
+10.10.2000  12:28 12r    <DIR>          Sachgeschichte
+10.10.2000  12:28 12r    <DIR>          sound
+10.10.2000  12:28 12r    <DIR>          Sprache
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\sound\KRACH
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          HAUPTBILD
+22.08.2000  12:49 12r            35.840 husten.aif
+18.07.2000  17:32 5r               514 Kreativ-Malen.txt
+18.07.2000  11:23 11r             3.575 KÑsestart.aif
+17.08.2000  17:57 5r            22.104 leer.aif
+28.08.2000  12:11 12r           112.494 lichterdauer.aif
+31.08.2000  19:26 7r             5.814 MAUSSAU2.AIF
+31.08.2000  19:26 7r            44.850 MAUSSCH1.AIF
+31.08.2000  19:26 7r           108.558 MAUSSCH2.AIF
+18.07.2000  11:23 11r                70 Staubsauger Sz_1
+12.07.2000  13:38 1r            97.743 Sz001.aif
+12.07.2000  13:38 1r            16.180 Sz002.aif
+12.07.2000  13:38 1r           136.715 Sz003.aif
+12.07.2000  13:38 1r           118.868 Sz004.aif
+12.07.2000  13:38 1r           125.000 Sz005.aif
+12.07.2000  13:38 1r            80.148 Sz006.aif
+03.07.2000  22:20 10r            34.232 Sz006Eimer.aif
+03.07.2000  22:20 10r            17.099 Sz006Elefant.aif
+03.07.2000  22:20 10r            17.099 Sz006Ente.aif
+03.07.2000  22:20 10r            20.793 Sz006Huhn.aif
+03.07.2000  22:20 10r            19.215 Sz006Lampe.aif
+03.07.2000  22:20 10r            26.872 Sz006Maus.aif
+12.07.2000  13:38 1r            96.479 Sz007.aif
+03.07.2000  22:20 10r             2.691 Sz008.aif
+03.07.2000  22:20 10r             3.751 Sz009.aif
+03.07.2000  22:20 10r             6.619 Sz010.aif
+03.07.2000  22:20 10r            85.659 Sz054.aif
+03.07.2000  22:20 10r             1.793 Sz091.aif
+03.07.2000  22:20 10r             1.943 Sz106.aif
+12.07.2000  13:38 1r             1.583 Sz1061.aif
+12.07.2000  13:38 1r           197.732 Sz1064.aif
+12.07.2000  13:38 1r           197.732 Sz1065.aif
+12.07.2000  13:38 1r            88.541 Sz1066.aif
+12.07.2000  13:38 1r             2.752 Sz1070.aif
+12.07.2000  13:38 1r             2.752 Sz1071.aif
+12.07.2000  13:38 1r             2.752 Sz1072.aif
+12.07.2000  13:38 1r            17.395 Sz1077.aif
+12.07.2000  13:38 1r             7.682 Sz1078.aif
+12.07.2000  13:38 1r             9.403 Sz1083.aif
+12.07.2000  13:38 1r           116.780 Sz1084.aif
+12.07.2000  13:38 1r            35.329 Sz1085.aif
+12.07.2000  13:38 1r            33.143 Sz1085b.aif
+12.07.2000  13:38 1r            14.836 Sz1086.aif
+12.07.2000  13:38 1r            15.400 Sz1086b.aif
+12.07.2000  13:38 1r            19.862 Sz1087.aif
+12.07.2000  13:38 1r           116.780 Sz1093.aif
+12.07.2000  13:38 1r             8.852 Sz1105.aif
+12.07.2000  13:38 1r           111.419 Sz1112.aif
+12.07.2000  13:38 1r            13.284 Sz1113.aif
+12.07.2000  13:38 1r           198.845 Sz1114.aif
+12.07.2000  13:38 1r            17.196 Sz1115.aif
+12.07.2000  13:38 1r            22.514 Sz1116.aif
+12.07.2000  13:38 1r            42.645 Sz1117.aif
+12.07.2000  13:38 1r             5.385 Sz1126.aif
+12.07.2000  13:38 1r           116.780 Sz1127.aif
+12.07.2000  13:38 1r            35.329 Sz1128.aif
+12.07.2000  13:38 1r            33.143 Sz1128b.aif
+12.07.2000  13:38 1r            14.836 Sz1129.aif
+12.07.2000  13:38 1r            15.400 Sz1129b.aif
+12.07.2000  13:38 1r            19.862 Sz1130.aif
+12.07.2000  13:38 1r             6.044 Sz1135.aif
+12.07.2000  13:38 1r             4.890 Sz1177.aif
+03.07.2000  22:20 10r            36.984 Sz122.aif
+03.07.2000  22:20 10r            43.617 Sz130.aif
+03.07.2000  22:20 10r            31.697 Sz160.aif
+03.07.2000  22:20 10r            79.133 Sz275.aif
+03.07.2000  22:20 10r            34.915 Sz326.aif
+03.07.2000  22:20 10r            37.267 Sz328.aif
+03.07.2000  22:20 10r            42.912 Sz329.aif
+03.07.2000  22:20 10r            42.499 Sz340.aif
+03.07.2000  22:20 10r            26.345 Sz341.aif
+03.07.2000  22:20 10r            28.682 Sz342.aif
+03.07.2000  22:20 10r            29.261 Sz351.aif
+03.07.2000  22:20 10r            12.469 Sz352.aif
+03.07.2000  22:20 10r             5.233 Sz352a.aif
+03.07.2000  22:20 10r            13.982 Sz361.aif
+23.07.2000  14:31 2r            42.460 Sz362.aif
+03.07.2000  22:20 10r            66.314 Sz363.aif
+03.07.2000  22:20 10r            17.099 Sz369.aif
+03.07.2000  22:20 10r             8.151 Sz370.aif
+31.07.2000  11:00 11r            16.694 sz389.aif
+03.07.2000  22:21 10r             7.719 Sz414a.aif
+03.07.2000  22:21 10r            28.682 Sz414b.aif
+03.07.2000  22:21 10r           182.621 Sz419.aif
+03.07.2000  22:21 10r            12.218 Sz444.aif
+03.07.2000  22:21 10r             3.300 Sz478.aif
+03.07.2000  22:21 10r             7.354 Sz495.aif
+03.07.2000  22:21 10r             7.514 Sz496.aif
+03.07.2000  22:21 10r            11.395 Sz497.aif
+03.07.2000  22:21 10r            14.490 Sz498.aif
+03.07.2000  22:21 10r            12.496 Sz499.aif
+03.07.2000  22:21 10r            15.041 Sz500.aif
+03.07.2000  22:21 10r            23.948 Sz502.aif
+03.07.2000  22:21 10r           105.136 Sz503.aif
+03.07.2000  22:21 10r             5.001 Sz504.aif
+03.07.2000  22:21 10r            19.199 Sz505.aif
+03.07.2000  22:21 10r            19.436 Sz506.aif
+03.07.2000  22:21 10r            35.115 Sz507.aif
+03.07.2000  22:21 10r            16.631 Sz508.aif
+03.07.2000  22:21 10r            18.804 Sz509.aif
+03.07.2000  22:21 10r            41.907 Sz510.aif
+03.07.2000  22:21 10r            17.040 Sz511.aif
+03.07.2000  22:21 10r            29.797 Sz512.aif
+03.07.2000  22:21 10r            39.149 Sz513.aif
+03.07.2000  22:21 10r             7.574 Sz514.aif
+03.07.2000  22:21 10r            19.629 Sz515.aif
+03.07.2000  22:21 10r            30.360 Sz516.aif
+03.07.2000  22:21 10r             5.161 Sz517.aif
+03.07.2000  22:21 10r            57.747 Sz518.aif
+03.07.2000  22:21 10r            15.908 Sz520.aif
+03.07.2000  22:21 10r             2.780 Sz521.aif
+03.07.2000  22:21 10r            12.277 Sz522.aif
+03.07.2000  22:21 10r            33.563 Sz565.aif
+03.07.2000  22:21 10r            54.789 Sz567.aif
+03.07.2000  22:21 10r             1.502 Sz581.aif
+03.07.2000  22:21 10r            66.902 Sz582.aif
+03.07.2000  22:21 10r            65.256 Sz584.aif
+03.07.2000  22:21 10r            68.077 Sz585.aif
+03.07.2000  22:21 10r            67.725 Sz592.aif
+03.07.2000  22:21 10r            67.667 Sz593.aif
+03.07.2000  22:21 10r            67.314 Sz594.aif
+03.07.2000  22:21 10r            67.843 Sz595.aif
+03.07.2000  22:21 10r            67.226 Sz602.aif
+03.07.2000  22:21 10r            67.843 Sz603.aif
+03.07.2000  22:21 10r            66.903 Sz604.aif
+03.07.2000  22:21 10r            67.647 Sz612.aif
+03.07.2000  22:21 10r            68.078 Sz613.aif
+03.07.2000  22:21 10r            67.784 Sz614.aif
+03.07.2000  22:21 10r            67.666 Sz622.aif
+03.07.2000  22:21 10r            67.372 Sz623.aif
+03.07.2000  22:21 10r            66.578 Sz624.aif
+03.07.2000  22:21 10r            67.490 Sz625.aif
+03.07.2000  22:21 10r            14.688 Sz632.aif
+18.07.2000  11:23 11r            39.266 Sz635.aif
+03.07.2000  22:21 10r            67.376 Sz642.aif
+03.07.2000  22:21 10r            67.843 Sz643.aif
+03.07.2000  22:21 10r            67.608 Sz652.aif
+03.07.2000  22:21 10r            67.608 Sz653.aif
+03.07.2000  22:21 10r            67.608 Sz654.aif
+03.07.2000  22:21 10r            67.608 Sz655.aif
+03.07.2000  22:21 10r            68.313 Sz662.aif
+03.07.2000  22:21 10r            67.607 Sz663.aif
+03.07.2000  22:21 10r            68.960 Sz664.aif
+03.07.2000  22:21 10r            67.666 Sz665.aif
+03.07.2000  22:21 10r            67.137 Sz672.aif
+03.07.2000  22:21 10r            67.137 Sz673.aif
+03.07.2000  22:21 10r            67.137 Sz674.aif
+03.07.2000  22:21 10r            67.137 Sz675.aif
+03.07.2000  22:21 10r            67.960 Sz682.aif
+03.07.2000  22:21 10r            67.843 Sz683.aif
+03.07.2000  22:21 10r            66.902 Sz684.aif
+03.07.2000  22:21 10r            67.255 Sz693.aif
+03.07.2000  22:21 10r            67.549 Sz694.aif
+03.07.2000  22:21 10r            67.549 Sz695.aif
+03.07.2000  22:21 10r            66.445 Sz702.aif
+03.07.2000  22:21 10r            67.607 Sz703.aif
+03.07.2000  22:21 10r            67.625 Sz704.aif
+03.07.2000  22:21 10r            67.137 Sz705.aif
+03.07.2000  22:21 10r            67.374 Sz712.aif
+03.07.2000  22:21 10r            67.374 Sz713.aif
+03.07.2000  22:21 10r            67.374 Sz715.aif
+18.07.2000  11:23 11r             8.938 Sz764_a.aif
+27.07.2000  13:20 1r             8.644 Sz764_b.aif
+31.08.2000  19:26 7r            16.086 Sz764_c.aif
+31.08.2000  19:26 7r            12.088 Sz764_d.aif
+18.07.2000  11:23 11r             2.928 Sz764_e.aif
+18.07.2000  11:23 11r             2.457 Sz770.aif
+03.07.2000  22:21 10r            49.616 Sz811.aif
+31.07.2000  11:00 11r            78.536 sz839.aif
+18.07.2000  11:23 11r           150.633 Sz882.aif
+18.07.2000  11:23 11r            86.892 Sz913.aif
+18.07.2000  11:23 11r             5.339 Sz916_b.aif
+21.08.2000  15:36 3r             3.738 Sz928.aif
+21.08.2000  15:36 3r             2.728 Sz930.aif
+12.07.2000  13:38 1r             1.123 Sz_1.aif
+12.07.2000  13:38 1r             6.634 Sz_2.aif
+12.07.2000  13:38 1r           160.024 Sz_3.aif
+12.07.2000  13:38 1r             2.806 Sz_4.aif
+12.07.2000  13:38 1r             4.035 Sz_5.aif
+18.07.2000  11:23 11r           157.689 Sz_A.aif
+18.07.2000  11:23 11r            85.718 Sz_B.aif
+30.08.2000  20:20 8r            73.200 Tusch.aif
+30.08.2000  20:20 8r           115.654 Tusch2.aif
+             182 Datei(en),      8.378.163 Bytes
+
+ Verzeichnis von F:\media\sound\KRACH\HAUPTBILD
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:21 10r            85.659 Elefant.aif
+03.07.2000  22:21 10r            70.207 Fîn.aif
+03.07.2000  22:21 10r            52.850 Mixer01.aif
+03.07.2000  22:21 10r            50.500 Mixer02.aif
+24.08.2000  21:16 9r            44.802 Mixerdauer.aif
+03.07.2000  22:21 10r            87.600 Poster.aif
+03.07.2000  22:21 10r            20.862 Sauger.aif
+03.07.2000  22:21 10r            46.087 Schere.aif
+29.08.2000  21:54 9r             7.706 Scheredauer.aif
+03.07.2000  22:21 10r            68.254 Strom.aif
+03.07.2000  22:21 10r            13.629 Trompete.aif
+03.07.2000  22:21 10r           100.183 TV.aif
+21.07.2000  14:06 2r            58.332 WÅrfel01.aif
+03.07.2000  22:21 10r            22.027 WÅrfel02.aif
+              14 Datei(en),        728.698 Bytes
+
+ Verzeichnis von F:\media\sound\Maus-Musiken
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+27.06.2000  17:34 5r           224.578 Basteln.aif
+27.06.2000  17:36 5r           162.838 Bildergeschichte.aif
+27.06.2000  17:37 5r           306.424 Collage.aif
+27.06.2000  17:40 5r           241.532 Exit.aif
+27.06.2000  17:41 5r           467.208 frei malen.aif
+27.06.2000  17:45 5r           202.916 GBar.aif
+27.06.2000  17:47 5r           397.256 GeschIllu.aif
+27.06.2000  17:46 5r           286.520 GZuordn.aif
+27.06.2000  18:11 6r           186.578 Hauptbild.aif
+27.06.2000  18:00 6r           269.240 KMSpiel.aif
+27.06.2000  17:54 5r           259.350 KMusik.aif
+27.06.2000  17:58 5r           213.138 Kofferpacken.aif
+27.06.2000  17:59 5r           269.710 KreaProg.aif
+27.06.2000  18:03 6r           254.508 LogIn.aif
+27.06.2000  18:03 6r           196.216 MalenPunkt.aif
+27.06.2000  18:04 6r           279.122 Maschine.aif
+27.06.2000  18:05 6r           236.520 Realfilm.aif
+27.06.2000  18:07 6r           296.842 Sachgeschichte.aif
+27.06.2000  17:53 5r           382.124 Schie·en.aif
+27.06.2000  18:08 6r           263.458 Spielesammlung.aif
+27.06.2000  18:09 6r           270.376 StarSchnitt.aif
+27.06.2000  18:14 6r           280.842 Staubsaugen.aif
+27.06.2000  17:32 5r            95.384 Sz327.aif
+              23 Datei(en),      6.042.680 Bytes
+
+ Verzeichnis von F:\media\sound\mausmusik
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+17.08.2000  17:57 5r            98.724 Basteln.aif
+17.08.2000  17:57 5r            72.284 Bildergeschichte.aif
+17.08.2000  17:57 5r           142.428 Collage.aif
+17.08.2000  17:57 5r           110.684 Exit.aif
+17.08.2000  17:57 5r           222.812 freimalen.aif
+17.08.2000  17:57 5r            74.076 GeraeuschZuord.aif
+17.08.2000  17:57 5r            79.836 GeraeuscheBar.aif
+17.08.2000  17:57 5r           176.220 Geschichteillustrieren.aif
+17.08.2000  17:57 5r           176.732 Gillustrieren.aif
+17.08.2000  17:57 5r            77.276 Hauptbild.aif
+17.08.2000  17:57 5r            90.460 Kaesemusik.aif
+17.08.2000  17:57 5r           146.524 Kaeseschiessen.aif
+17.08.2000  17:57 5r            89.180 Kofferpacken.aif
+17.08.2000  17:57 5r           104.796 Kreativprogramm.aif
+17.08.2000  17:57 5r           118.108 KuechenmusSpiel.aif
+17.08.2000  17:57 5r           113.500 LogInSpielstand.aif
+17.08.2000  17:57 5r            70.876 MalennachPunkt.aif
+17.08.2000  17:57 5r           111.196 Maschinebauen.aif
+17.08.2000  17:57 5r           101.980 Realfilm.aif
+17.08.2000  17:57 5r           125.276 Sachgeschichte.aif
+17.08.2000  17:57 5r            44.380 Spielesammlung.aif
+17.08.2000  17:57 5r           119.644 Star-Schnitt.aif
+17.08.2000  17:57 5r           121.180 Staubsaugen.aif
+              23 Datei(en),      2.588.172 Bytes
+
+ Verzeichnis von F:\media\sound\MUSIK
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+26.08.2000  11:45 11r           108.716 Auto.aif
+26.08.2000  11:45 11r            79.082 auto-atmo.aif
+26.08.2000  11:45 11r           107.774 Garage.aif
+26.08.2000  11:45 11r           127.296 Garagedu.aif
+26.08.2000  11:45 11r           234.644 Garage-Atmo.aif
+26.08.2000  11:45 11r           234.644 garage80-atmo.aif
+29.08.2000  21:54 9r           187.766 garage80dummy.aif
+26.08.2000  11:45 11r           274.768 Giess-Atmo.aif
+26.08.2000  11:45 11r            84.256 Giesskann.aif
+29.08.2000  21:54 9r           271.534 Giesskanne.aif
+26.08.2000  11:45 11r           132.706 Schrottp.aif
+29.08.2000  21:54 9r           323.530 Schrottplatz.aif
+03.07.2000  22:21 10r           445.502 Thema.aif
+23.08.2000  21:20 9r           445.508 Thema001.aif
+26.08.2000  11:45 11r            89.194 Wasch.aif
+26.08.2000  11:45 11r           163.754 Wasch-atmo.aif
+29.08.2000  21:54 9r           348.150 Waschdummy.aif
+              17 Datei(en),      3.658.824 Bytes
+
+ Verzeichnis von F:\media\sound\Sachgeschichte
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+29.08.2000  21:54 9r            29.494 am nordpol.aif
+29.08.2000  21:54 9r            14.958 bakterien.aif
+29.08.2000  21:54 9r            16.728 beimkamel.aif
+29.08.2000  21:54 9r            34.550 dran riechen.aif
+29.08.2000  21:54 9r            28.472 eine minute.aif
+29.08.2000  21:54 9r            25.178 einen Quarkwitz.aif
+29.08.2000  21:54 9r            29.750 eine sekunde.aif
+29.08.2000  21:54 9r            39.222 einfach fragen.aif
+29.08.2000  21:54 9r            72.506 Gucken wir uns genauer an.aif
+29.08.2000  21:54 9r            12.856 im meer.aif
+29.08.2000  21:54 9r            18.814 in der schweiz.aif
+29.08.2000  21:54 9r            18.902 kÑseklÅmpchen.aif
+29.08.2000  21:54 9r            28.982 leim.aif
+29.08.2000  21:54 9r            23.818 mit dem mikroskop.aif
+29.08.2000  21:54 9r            30.932 mit dem roboterteam.aif
+29.08.2000  21:54 9r            32.182 mit der Lupe.aif
+29.08.2000  21:54 9r            34.874 mit einem teleskop.aif
+29.08.2000  21:54 9r            57.298 mit ner form in die die KÑsemasse reingefÅllt wird.aif
+29.08.2000  21:54 9r            35.722 mit ner riesenbohrmaschine.aif
+29.08.2000  21:54 9r            28.470 pilze.aif
+29.08.2000  21:54 9r            30.470 quarkfarbe.aif
+29.08.2000  21:54 9r            24.934 vielleicht klopfen.aif
+29.08.2000  21:54 9r            29.270 viel lÑnger.aif
+29.08.2000  21:54 9r            47.914 was ist das irgendwas in diesen flaschen.aif
+29.08.2000  21:54 9r            47.534 was kann man aus quark machen.aif
+29.08.2000  21:54 9r            39.308 Wie kommen eigentlich die Lîcher in den KÑse.aif
+29.08.2000  21:54 9r            45.642 wie lange bleibt der kÑse im lager.aif
+29.08.2000  21:54 9r            32.848 wo wird wohl kÑse gemacht.aif
+29.08.2000  21:54 9r            19.062 wÅrmer.aif
+              29 Datei(en),        930.690 Bytes
+
+ Verzeichnis von F:\media\sound\sound
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.09.2000  00:16 12r            12.844 ouch.aif
+03.09.2000  00:29 12r             6.427 ouch.au
+03.09.2000  00:17 12r            19.204 Whoosh.aif
+03.09.2000  00:26 12r             7.727 Whoosh.au
+               4 Datei(en),         46.202 Bytes
+
+ Verzeichnis von F:\media\sound\Sprache
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:21 10r            23.354 279.aif
+03.07.2000  22:21 10r           121.802 625.aif
+03.07.2000  22:21 10r           190.128 626.aif
+03.07.2000  22:21 10r           134.868 627.aif
+03.07.2000  22:21 10r           109.924 628.aif
+03.07.2000  22:21 10r            87.356 629.aif
+03.07.2000  22:21 10r           157.436 630.aif
+03.07.2000  22:21 10r           223.302 631.aif
+03.07.2000  22:21 10r           115.270 632.aif
+03.07.2000  22:21 10r           109.336 633.aif
+03.07.2000  22:21 10r           108.988 634.aif
+03.07.2000  22:21 10r            49.912 635.aif
+03.07.2000  22:21 10r            59.884 636.aif
+03.07.2000  22:21 10r            71.390 637.aif
+03.07.2000  22:21 10r            48.378 638.aif
+03.07.2000  22:21 10r           206.388 639.aif
+03.07.2000  22:21 10r            62.194 640.aif
+03.07.2000  22:21 10r            81.940 641.aif
+03.07.2000  22:21 10r           132.448 642.aif
+03.07.2000  22:21 10r            77.428 643.aif
+03.07.2000  22:21 10r           117.832 644.aif
+03.07.2000  22:21 10r            96.778 645.aif
+03.07.2000  22:21 10r            61.534 646.aif
+03.07.2000  22:21 10r            55.318 647.aif
+03.07.2000  22:21 10r           165.152 648.aif
+26.08.2000  16:31 4r            15.774 bakterienbt.aif
+02.09.2000  14:49 2r            54.270 einaus.AIF
+02.09.2000  15:13 3r            34.738 eisbaer.aif
+02.09.2000  15:13 3r            47.922 kamel.aif
+30.08.2000  20:20 8r           179.808 Lachlob.aif
+01.09.2000  01:12 1r            76.470 login.aif
+02.09.2000  15:13 3r            38.706 robbe.aif
+02.09.2000  11:11 11r           215.956 superlach.aif
+03.07.2000  22:21 10r            36.080 X001.AIF
+21.08.2000  15:31 3r           244.644 X002.AIF
+30.08.2000  14:54 2r           159.686 X003.AIF
+27.07.2000  18:09 6r            45.878 X003A.aif
+03.07.2000  22:21 10r            60.512 X004.AIF
+30.08.2000  14:54 2r           101.788 X004A.AIF
+30.08.2000  14:54 2r            87.276 X005.AIF
+30.08.2000  14:54 2r           132.062 X006.AIF
+03.07.2000  22:21 10r            56.430 X007.AIF
+03.07.2000  22:21 10r            89.296 X008.AIF
+03.07.2000  22:21 10r           195.858 X009.AIF
+03.07.2000  22:21 10r            48.904 X010.AIF
+03.07.2000  22:21 10r            55.492 x011a.aif
+02.09.2000  11:11 11r           230.626 x011b.aif
+24.08.2000  15:02 3r           156.542 x011c.aif
+03.07.2000  22:21 10r           130.756 x011d.aif
+24.08.2000  15:02 3r           510.050 x011e.aif
+24.08.2000  15:02 3r           132.572 x011f.aif
+24.08.2000  15:02 3r           123.716 x011g.aif
+02.09.2000  11:11 11r           183.934 x011h.aif
+03.07.2000  22:21 10r            59.826 X012.AIF
+03.07.2000  22:21 10r            35.394 X013.AIF
+03.07.2000  22:21 10r            39.216 X014.AIF
+03.07.2000  22:21 10r            57.764 X015.AIF
+27.07.2000  13:20 1r            27.358 X016.AIF
+03.07.2000  22:21 10r            32.488 X017.AIF
+03.07.2000  22:21 10r           118.224 X018.AIF
+03.07.2000  22:21 10r            68.070 X019.AIF
+03.07.2000  22:21 10r            33.718 X020.AIF
+03.07.2000  22:21 10r            97.594 X021.AIF
+03.07.2000  22:21 10r            58.452 X022.AIF
+03.07.2000  22:21 10r            41.964 X023.AIF
+03.07.2000  22:21 10r            34.092 X024.AIF
+03.07.2000  22:21 10r            48.146 X025.AIF
+03.07.2000  22:21 10r            79.750 X026.AIF
+03.07.2000  22:21 10r            52.268 X027.AIF
+03.07.2000  22:21 10r            93.490 X028.AIF
+03.07.2000  22:21 10r            41.964 X029.AIF
+03.07.2000  22:21 10r            20.056 x030.aif
+03.07.2000  22:21 10r            65.448 X031.AIF
+03.07.2000  22:21 10r           174.966 X032.AIF
+03.07.2000  22:21 10r            80.156 X033.AIF
+03.07.2000  22:21 10r            41.322 X034.AIF
+03.07.2000  22:21 10r            11.482 X035.AIF
+03.07.2000  22:21 10r            83.860 X036.AIF
+03.07.2000  22:21 10r            71.162 X037.AIF
+03.07.2000  22:21 10r            20.056 x038.aif
+03.07.2000  22:21 10r           124.492 X039.AIF
+03.07.2000  22:21 10r            54.654 X040.AIF
+03.07.2000  22:21 10r            22.796 x041.aif
+03.07.2000  22:21 10r            81.954 X042.AIF
+03.07.2000  22:21 10r            14.658 X043.AIF
+03.07.2000  22:21 10r            12.352 X044.AIF
+31.07.2000  11:00 11r            15.662 X045.AIF
+03.07.2000  22:21 10r            22.796 x046.aif
+12.07.2000  13:38 1r            55.434 X047.AIF
+27.07.2000  18:09 6r            73.066 X048.AIF
+27.07.2000  18:09 6r            95.922 X049.AIF
+03.07.2000  22:21 10r            24.200 X050.AIF
+03.07.2000  22:21 10r            17.754 x051.aif
+03.07.2000  22:21 10r           116.238 X052.AIF
+03.07.2000  22:21 10r            11.462 X053.AIF
+23.07.2000  14:31 2r            13.670 X054.AIF
+23.07.2000  14:31 2r            10.170 X055.AIF
+03.07.2000  22:21 10r            17.754 x056.aif
+27.07.2000  18:09 6r            62.398 X057.AIF
+27.07.2000  18:09 6r            89.964 X058.AIF
+12.07.2000  13:38 1r            66.256 X059.AIF
+03.07.2000  22:21 10r            48.306 X060.AIF
+03.07.2000  22:21 10r            23.704 x061.aif
+03.07.2000  22:21 10r            89.630 X062.AIF
+03.07.2000  22:21 10r            12.660 X063.AIF
+23.07.2000  14:31 2r            14.554 X064.AIF
+23.07.2000  14:31 2r            10.792 X065.AIF
+03.07.2000  22:21 10r            23.704 x066.aif
+07.08.2000  17:26 5r            75.318 X067.AIF
+12.07.2000  13:38 1r            95.342 X068.AIF
+07.08.2000  17:26 5r            54.652 X069.AIF
+03.07.2000  22:21 10r            55.924 X070.AIF
+03.07.2000  22:21 10r            21.796 x071.aif
+03.07.2000  22:21 10r            73.184 X072.AIF
+03.07.2000  22:21 10r            17.046 X073.AIF
+23.07.2000  14:31 2r            15.366 X074.AIF
+23.07.2000  14:31 2r             9.418 X075.AIF
+03.07.2000  22:21 10r            21.796 x076.aif
+12.07.2000  13:38 1r           107.740 X077.AIF
+07.08.2000  17:26 5r           105.880 X078.AIF
+07.08.2000  17:26 5r            88.592 X079.AIF
+03.07.2000  22:21 10r            25.450 X080.AIF
+03.07.2000  22:21 10r            22.150 x081.aif
+03.07.2000  22:21 10r            61.004 X082.AIF
+03.07.2000  22:21 10r            12.392 X083.AIF
+23.07.2000  14:31 2r            13.888 X084.AIF
+23.07.2000  14:31 2r            14.294 X085.AIF
+03.07.2000  22:21 10r            22.150 x086.aif
+07.08.2000  17:26 5r            94.110 X087.AIF
+07.08.2000  17:26 5r            53.264 X088.AIF
+12.07.2000  13:38 1r            90.850 X089.AIF
+03.07.2000  22:21 10r            25.468 X090.AIF
+03.07.2000  22:21 10r            17.958 x091.aif
+03.07.2000  22:21 10r            79.786 X092.AIF
+03.07.2000  22:21 10r            11.984 X093.AIF
+03.07.2000  22:21 10r             9.646 X094.AIF
+23.07.2000  14:31 2r             6.676 X095.AIF
+03.07.2000  22:21 10r            17.958 x096.aif
+12.07.2000  13:38 1r            68.490 X097.AIF
+07.08.2000  17:26 5r            77.326 X098.AIF
+07.08.2000  17:26 5r            68.940 X099.AIF
+03.07.2000  22:21 10r            62.352 X100.AIF
+03.07.2000  22:21 10r            21.952 x101.aif
+03.07.2000  22:21 10r            67.960 X102.AIF
+29.08.2000  21:54 9r             9.774 X103.AIF
+03.07.2000  22:21 10r            16.504 X104.AIF
+23.07.2000  14:31 2r            11.562 X105.AIF
+03.07.2000  22:21 10r            21.952 x106.aif
+07.08.2000  17:26 5r            62.596 X107.AIF
+12.07.2000  13:38 1r           120.712 X108.AIF
+07.08.2000  17:26 5r            82.230 X109.AIF
+03.07.2000  22:21 10r            36.574 X110.AIF
+03.07.2000  22:21 10r            18.178 x111.aif
+03.07.2000  22:21 10r            87.506 X112.AIF
+03.07.2000  22:21 10r            12.250 X113.AIF
+03.07.2000  22:21 10r            15.022 X114.AIF
+23.07.2000  14:31 2r            10.324 X115.AIF
+03.07.2000  22:21 10r            18.178 x116.aif
+07.08.2000  17:26 5r            67.382 X117.AIF
+12.07.2000  13:38 1r           123.884 X118.AIF
+07.08.2000  17:26 5r            68.150 X119.AIF
+03.07.2000  22:21 10r            26.214 X120.AIF
+03.07.2000  22:21 10r            22.058 x121.aif
+03.07.2000  22:21 10r            75.412 X122.AIF
+03.07.2000  22:21 10r            17.060 X123.AIF
+03.07.2000  22:21 10r            12.672 X124.AIF
+03.07.2000  22:21 10r            10.820 X125.AIF
+03.07.2000  22:21 10r            22.058 x126.aif
+07.08.2000  17:26 5r            77.622 X127.AIF
+07.08.2000  17:26 5r            78.646 X128.AIF
+12.07.2000  13:38 1r           111.046 X129.AIF
+03.07.2000  22:21 10r            34.400 X130.AIF
+03.07.2000  22:21 10r            23.092 x131.aif
+03.07.2000  22:21 10r            51.074 X132.AIF
+03.07.2000  22:21 10r            12.124 X133.AIF
+03.07.2000  22:21 10r            15.022 X134.AIF
+23.07.2000  14:31 2r            16.116 X135.AIF
+03.07.2000  22:21 10r            23.092 x136.aif
+07.08.2000  17:26 5r            78.134 X137.AIF
+12.07.2000  13:38 1r            98.156 X138.AIF
+07.08.2000  17:26 5r            71.734 X139.AIF
+03.07.2000  22:21 10r            29.056 X140.AIF
+03.07.2000  22:21 10r            23.672 x141.aif
+03.07.2000  22:21 10r            66.112 X142.AIF
+03.07.2000  22:21 10r            17.716 X143.AIF
+03.07.2000  22:21 10r            12.452 X144.AIF
+23.07.2000  14:31 2r            17.434 X145.AIF
+03.07.2000  22:21 10r            23.672 x146.aif
+12.07.2000  13:38 1r            90.676 X147.AIF
+07.08.2000  17:26 5r            37.558 X148.AIF
+27.07.2000  18:09 6r            56.374 X149.AIF
+03.07.2000  22:21 10r            14.684 X150.AIF
+03.07.2000  22:21 10r            22.302 x151.aif
+03.07.2000  22:21 10r            50.518 X152.AIF
+03.07.2000  22:21 10r            10.488 X153.AIF
+03.07.2000  22:21 10r            13.964 X154.AIF
+23.07.2000  14:31 2r             8.488 X155.AIF
+03.07.2000  22:21 10r            22.302 x156.aif
+03.07.2000  22:21 10r            59.668 X157.AIF
+07.08.2000  17:26 5r            68.918 X158.AIF
+07.07.2000  12:28 12r            65.302 X159.AIF
+03.07.2000  22:21 10r           167.778 X160.AIF
+03.07.2000  22:21 10r           190.356 X161.AIF
+03.07.2000  22:21 10r            14.986 X162.AIF
+03.07.2000  22:21 10r            20.282 X163.AIF
+03.07.2000  22:21 10r            19.402 X164.AIF
+03.07.2000  22:21 10r           124.234 X165.AIF
+03.07.2000  22:21 10r            98.432 X166.AIF
+03.07.2000  22:21 10r            14.544 X167.AIF
+03.07.2000  22:21 10r            13.060 X168.AIF
+03.07.2000  22:21 10r            10.460 X169.AIF
+03.07.2000  22:21 10r           107.432 X170.AIF
+03.07.2000  22:21 10r            79.078 X171.AIF
+03.07.2000  22:21 10r            20.044 X172.AIF
+03.07.2000  22:21 10r            29.492 X173.AIF
+23.07.2000  14:31 2r            34.380 X174.AIF
+07.08.2000  17:26 5r           112.538 X175.AIF
+03.07.2000  22:21 10r           122.178 X176.AIF
+03.07.2000  22:21 10r            79.078 X177.AIF
+03.07.2000  22:21 10r            56.500 X178.AIF
+03.07.2000  22:21 10r            30.696 X179.AIF
+03.07.2000  22:21 10r            38.760 X180.AIF
+23.07.2000  14:31 2r            10.136 X181.AIF
+03.07.2000  22:21 10r           110.526 X182.AIF
+21.08.2000  15:31 3r           112.730 X183.AIF
+03.07.2000  22:21 10r            50.530 X184.AIF
+03.07.2000  22:21 10r            61.338 X185.AIF
+03.07.2000  22:21 10r            18.092 X186.AIF
+03.07.2000  22:21 10r            17.082 X187.AIF
+23.07.2000  14:31 2r            10.480 X188.AIF
+03.07.2000  22:21 10r            46.598 X189.AIF
+03.07.2000  22:21 10r           106.494 X190.AIF
+07.08.2000  17:26 5r           172.492 X191.AIF
+03.07.2000  22:21 10r            28.208 X192.AIF
+03.07.2000  22:21 10r            32.258 X193.AIF
+03.07.2000  22:21 10r            34.598 X194.AIF
+23.07.2000  14:31 2r            16.032 X195.AIF
+07.08.2000  17:26 5r            39.990 X196.AIF
+03.07.2000  22:21 10r            64.564 X197.AIF
+21.07.2000  14:06 2r           137.828 X198.AIF
+03.07.2000  22:21 10r            54.888 X199.AIF
+03.07.2000  22:21 10r            24.766 X200.AIF
+03.07.2000  22:21 10r            16.208 X201.AIF
+23.07.2000  14:31 2r            39.082 X202.AIF
+03.07.2000  22:21 10r            75.046 X203.AIF
+07.08.2000  17:26 5r           101.824 X204.AIF
+03.07.2000  22:21 10r            97.624 X205.AIF
+03.07.2000  22:21 10r            22.634 X206.AIF
+03.07.2000  22:21 10r            19.874 X207.AIF
+03.07.2000  22:21 10r            18.194 X208.AIF
+03.07.2000  22:21 10r            22.452 X209.AIF
+03.07.2000  22:21 10r            75.852 X210.AIF
+21.08.2000  15:31 3r            66.372 X211.AIF
+03.07.2000  22:21 10r           106.190 X212.AIF
+03.07.2000  22:21 10r            24.766 X213.AIF
+23.07.2000  14:31 2r            18.524 X213a.aif
+23.07.2000  14:31 2r            14.588 X213b.aif
+23.07.2000  14:31 2r            20.988 X213c.aif
+21.07.2000  14:06 2r            77.238 X214.AIF
+03.07.2000  22:21 10r            66.796 X215.AIF
+03.07.2000  22:21 10r            71.014 X216.AIF
+03.07.2000  22:21 10r            33.116 X217.AIF
+03.07.2000  22:21 10r            32.310 X218.AIF
+03.07.2000  22:21 10r            26.370 X219.AIF
+23.07.2000  14:31 2r            36.028 X220.AIF
+03.07.2000  22:21 10r            64.564 X221.AIF
+03.07.2000  22:21 10r           121.670 X222.AIF
+07.08.2000  17:26 5r           120.998 X223.AIF
+03.07.2000  22:21 10r            21.020 X224.AIF
+03.07.2000  22:21 10r            31.374 X225.AIF
+03.07.2000  22:21 10r            20.656 X226.AIF
+23.07.2000  14:31 2r            17.512 X227.AIF
+07.08.2000  17:26 5r            75.264 X228.AIF
+03.07.2000  22:21 10r            52.468 X229.AIF
+21.07.2000  14:06 2r           191.286 X230.AIF
+03.07.2000  22:21 10r            28.278 X231.AIF
+03.07.2000  22:21 10r            23.440 X232.AIF
+03.07.2000  22:21 10r            23.440 X233.AIF
+23.07.2000  14:31 2r            23.068 X234.AIF
+03.07.2000  22:21 10r            69.402 X235.AIF
+07.08.2000  17:26 5r           124.224 X236.AIF
+03.07.2000  22:21 10r            77.466 X237.AIF
+03.07.2000  22:21 10r            28.278 X238.AIF
+03.07.2000  22:21 10r            15.294 X239.AIF
+03.07.2000  22:21 10r            32.310 X240.AIF
+23.07.2000  14:31 2r            15.124 X241.AIF
+03.07.2000  22:21 10r            56.500 X242.AIF
+03.07.2000  22:21 10r            99.238 X243.AIF
+07.08.2000  17:26 5r           116.742 X244.AIF
+03.07.2000  22:21 10r            32.848 X245.AIF
+03.07.2000  22:21 10r           123.852 X246.AIF
+03.07.2000  22:21 10r           134.100 X247.AIF
+03.07.2000  22:21 10r           177.142 X248.AIF
+26.08.2000  16:31 4r            50.522 x248b.aif
+02.09.2000  11:11 11r           298.600 X249.AIF
+03.07.2000  22:21 10r           221.416 X250.AIF
+26.08.2000  12:59 12r            34.872 x250a.aif
+26.08.2000  16:31 4r            35.722 x250b.aif
+02.09.2000  11:11 11r           255.602 X251.AIF
+03.07.2000  22:21 10r           230.024 X252.AIF
+26.08.2000  16:31 4r            54.070 x252b.aif
+02.09.2000  11:11 11r           277.738 X253.AIF
+02.09.2000  11:11 11r           413.014 X254.AIF
+31.08.2000  19:27 7r            16.354 x254b.aif
+23.07.2000  14:31 2r           286.666 X255.AIF
+02.09.2000  11:11 11r           421.070 X255Bohren.AIF
+02.09.2000  11:11 11r           450.510 X255Giessen.AIF
+02.09.2000  11:11 11r           442.062 X255Roboter.AIF
+02.09.2000  11:11 11r           577.230 X255Schiessen.AIF
+03.07.2000  22:21 10r            32.848 X256.AIF
+12.07.2000  13:38 1r           204.258 X257.AIF
+19.08.2000  20:44 8r           180.498 X258.AIF
+12.07.2000  13:38 1r            95.986 X259.AIF
+03.07.2000  22:21 10r            61.126 X260.AIF
+03.07.2000  22:21 10r           130.618 X261.AIF
+03.07.2000  22:21 10r            21.782 X262.AIF
+03.07.2000  22:21 10r           100.896 X263.AIF
+03.07.2000  22:21 10r           224.694 X264.AIF
+26.08.2000  16:31 4r            34.874 x264b.aif
+03.07.2000  22:21 10r           113.194 X265.AIF
+26.08.2000  16:31 4r            16.070 x265b.aif
+03.07.2000  22:21 10r           117.704 X266.AIF
+26.08.2000  16:31 4r            17.234 x266b.aif
+03.07.2000  22:21 10r           150.908 X267.AIF
+03.07.2000  22:21 10r           135.330 X268.AIF
+03.07.2000  22:21 10r           105.406 X269.AIF
+12.07.2000  13:38 1r           134.834 X270.AIF
+26.08.2000  16:31 4r            23.612 x270b.aif
+12.07.2000  13:38 1r           182.152 X271.AIF
+26.08.2000  16:31 4r            17.278 x271b.aif
+03.07.2000  22:21 10r           234.942 X272.AIF
+03.07.2000  22:21 10r           360.774 X273.AIF
+03.07.2000  22:21 10r           130.412 X274.AIF
+03.07.2000  22:21 10r           122.030 X275.AIF
+02.09.2000  11:11 11r           326.906 X276.AIF
+26.08.2000  16:31 4r            18.740 x276b.aif
+02.09.2000  11:11 11r           329.212 X277.AIF
+26.08.2000  16:31 4r            28.218 x277b.aif
+18.07.2000  11:23 11r           118.190 X278.AIF
+03.07.2000  22:21 10r            17.682 X279.AIF
+31.08.2000  19:27 7r           234.750 X280.AIF
+31.08.2000  19:27 7r            25.178 x280b.aif
+03.07.2000  22:21 10r           118.524 X281.AIF
+26.08.2000  16:31 4r            18.518 x281b.aif
+03.07.2000  22:21 10r           136.560 X282.AIF
+03.07.2000  22:21 10r           138.138 X283.AIF
+03.07.2000  22:21 10r           190.260 X284.AIF
+03.07.2000  22:21 10r           288.326 X285.AIF
+03.07.2000  22:21 10r           151.376 X286.AIF
+03.07.2000  22:21 10r           109.158 X287.AIF
+18.07.2000  11:23 11r           258.444 X288.AIF
+26.08.2000  16:31 4r            22.074 x288b.aif
+03.07.2000  22:21 10r           190.628 X289.AIF
+26.08.2000  16:31 4r            20.414 x289b.aif
+03.07.2000  22:21 10r           124.942 X290.AIF
+26.08.2000  16:31 4r            38.664 x290b.aif
+18.07.2000  11:23 11r           484.604 x2912.aif
+03.07.2000  22:21 10r           242.916 X292.AIF
+03.07.2000  22:21 10r           177.232 X293.AIF
+03.07.2000  22:21 10r           145.254 X294.AIF
+12.07.2000  13:38 1r            85.580 X295.AIF
+26.08.2000  16:31 4r            35.760 x295b.aif
+03.07.2000  22:21 10r            76.112 X296.AIF
+26.08.2000  16:31 4r            31.294 x296b.aif
+27.08.2000  16:47 4r           388.580 X296_7_8.AIF
+03.07.2000  22:21 10r           133.154 X297.AIF
+03.07.2000  22:21 10r           127.968 X298.AIF
+03.07.2000  22:21 10r           199.702 X299.AIF
+03.07.2000  22:21 10r            89.096 X300.AIF
+03.07.2000  22:21 10r            40.490 X301.AIF
+03.07.2000  22:21 10r            57.098 X302.AIF
+03.07.2000  22:21 10r            70.062 X303.AIF
+02.09.2000  11:11 11r           265.042 X304.AIF
+03.07.2000  22:21 10r            96.896 X305.AIF
+03.07.2000  22:21 10r            61.502 X306.AIF
+03.07.2000  22:21 10r            52.496 X307.AIF
+03.07.2000  22:21 10r           628.732 X308.AIF
+03.07.2000  22:21 10r           510.174 X309.AIF
+03.07.2000  22:21 10r           108.016 X310.AIF
+03.07.2000  22:21 10r           160.388 X311.AIF
+03.07.2000  22:21 10r            64.338 X312.AIF
+03.07.2000  22:21 10r            91.406 X313.AIF
+03.07.2000  22:21 10r            79.000 X314.AIF
+03.07.2000  22:21 10r            61.332 X315.AIF
+03.07.2000  22:21 10r           316.212 X316.AIF
+03.07.2000  22:21 10r           166.060 X317.AIF
+03.07.2000  22:21 10r            84.142 X318.AIF
+03.07.2000  22:21 10r           134.500 X319.AIF
+03.07.2000  22:21 10r           112.250 X320.AIF
+03.07.2000  22:21 10r           164.716 X321.AIF
+03.07.2000  22:21 10r           155.112 X322.AIF
+03.07.2000  22:21 10r           238.966 X323.AIF
+03.07.2000  22:21 10r           194.932 X324.AIF
+03.07.2000  22:21 10r            90.854 X325.AIF
+03.07.2000  22:21 10r           221.332 X326.AIF
+03.07.2000  22:21 10r           267.654 X327.AIF
+03.07.2000  22:21 10r           329.846 X328.AIF
+03.07.2000  22:21 10r            97.456 X329.AIF
+17.08.2000  17:57 5r            23.002 X330.AIF
+03.07.2000  22:21 10r            62.808 X331.AIF
+03.07.2000  22:21 10r            62.808 X332.AIF
+03.07.2000  22:21 10r           138.292 X333.AIF
+03.07.2000  22:21 10r            46.364 X335.AIF
+03.07.2000  22:21 10r            46.364 X336.AIF
+03.07.2000  22:21 10r            83.688 X337.AIF
+18.07.2000  11:23 11r            83.688 x338.aif
+03.07.2000  22:21 10r           359.270 X339.AIF
+31.07.2000  11:00 11r            71.642 X340.AIF
+03.07.2000  22:21 10r           104.482 X341.AIF
+03.07.2000  22:21 10r            63.262 X342.AIF
+03.07.2000  22:21 10r            81.810 X343.AIF
+03.07.2000  22:21 10r            39.216 X344.AIF
+03.07.2000  22:21 10r            74.940 X345.AIF
+03.07.2000  22:21 10r            56.390 X346.AIF
+03.07.2000  22:21 10r            82.624 X347.AIF
+03.07.2000  22:21 10r            62.662 X348.AIF
+03.07.2000  22:21 10r            80.436 X349.AIF
+03.07.2000  22:21 10r           137.460 X350.AIF
+03.07.2000  22:21 10r            33.032 X351.AIF
+03.07.2000  22:21 10r            20.666 X352.AIF
+03.07.2000  22:21 10r            37.840 X353.AIF
+03.07.2000  22:21 10r            55.016 X354.AIF
+03.07.2000  22:21 10r            50.894 X355.AIF
+03.07.2000  22:21 10r            10.622 X356.AIF
+03.07.2000  22:21 10r           157.540 X357.AIF
+03.07.2000  22:22 10r            67.030 X358.AIF
+03.07.2000  22:22 10r            76.548 X359.AIF
+27.08.2000  17:21 5r            88.482 X360.AIF
+03.07.2000  22:22 10r            58.718 X361.AIF
+03.07.2000  22:22 10r           217.604 X362.AIF
+03.07.2000  22:22 10r           102.832 X363.AIF
+03.07.2000  22:22 10r            71.220 X364.AIF
+03.07.2000  22:22 10r            26.796 X365.AIF
+03.07.2000  22:22 10r            87.946 X366.AIF
+03.07.2000  22:22 10r            43.338 X367.AIF
+21.08.2000  15:31 3r            35.676 X368.AIF
+03.07.2000  22:22 10r            95.552 X369.AIF
+03.07.2000  22:22 10r            89.368 X370.AIF
+03.07.2000  22:22 10r            44.190 X371.AIF
+03.07.2000  22:22 10r            46.598 X372.AIF
+30.08.2000  20:20 8r            98.866 X373.AIF
+30.08.2000  20:20 8r            63.410 X374.AIF
+03.07.2000  22:22 10r            71.022 X375.AIF
+03.07.2000  22:22 10r            53.642 X376.AIF
+03.07.2000  22:22 10r            62.574 X377.AIF
+03.07.2000  22:22 10r            67.258 X378.AIF
+03.07.2000  22:22 10r            97.612 X379.AIF
+03.07.2000  22:22 10r            50.564 X380.AIF
+03.07.2000  22:22 10r            11.498 X381.AIF
+03.07.2000  22:22 10r            20.242 X382.AIF
+03.07.2000  22:22 10r            26.802 X383.AIF
+03.07.2000  22:22 10r            38.528 X384.AIF
+03.07.2000  22:22 10r            35.780 X385.AIF
+03.07.2000  22:22 10r           153.948 X386.AIF
+31.07.2000  11:00 11r            41.412 X387.AIF
+31.07.2000  11:00 11r            44.506 X388.AIF
+03.07.2000  22:22 10r           115.614 X389.AIF
+03.07.2000  22:22 10r            99.674 X390.AIF
+03.07.2000  22:22 10r            55.704 X391.AIF
+03.07.2000  22:22 10r           181.536 X392.AIF
+03.07.2000  22:22 10r            35.544 X393.aif
+03.07.2000  22:22 10r            35.544 X394.aif
+03.07.2000  22:22 10r            34.380 X395.aif
+03.07.2000  22:22 10r            34.380 X396.aif
+03.07.2000  22:22 10r            35.744 X397.aif
+03.07.2000  22:22 10r            19.184 X397a.aif
+03.07.2000  22:22 10r            35.744 X398.aif
+03.07.2000  22:22 10r            19.184 X398a.aif
+19.07.2000  15:52 3r            74.102 X399.aif
+03.07.2000  22:22 10r            74.926 X400.aif
+03.07.2000  22:22 10r            37.776 X401.aif
+03.07.2000  22:22 10r            73.628 X402a.aif
+03.07.2000  22:22 10r            38.366 X402b.aif
+03.07.2000  22:22 10r            45.152 X403.aif
+03.07.2000  22:22 10r            37.776 X404.aif
+03.07.2000  22:22 10r            73.628 X405a.aif
+03.07.2000  22:22 10r            38.366 X405b.aif
+03.07.2000  22:22 10r            45.152 X406.aif
+03.07.2000  22:22 10r            51.290 X407.aif
+03.07.2000  22:22 10r            43.452 X408.aif
+03.07.2000  22:22 10r            51.290 X409.aif
+03.07.2000  22:22 10r            43.452 X410.aif
+19.07.2000  15:52 3r            33.782 X411.aif
+03.07.2000  22:22 10r            58.694 X412.aif
+03.07.2000  22:22 10r            34.146 X413.aif
+03.07.2000  22:22 10r            58.694 X414.aif
+03.07.2000  22:22 10r            28.506 X415.aif
+03.07.2000  22:22 10r            28.506 X416.aif
+03.07.2000  22:22 10r            59.534 X417.aif
+03.07.2000  22:22 10r            39.740 X417a.aif
+03.07.2000  22:22 10r            59.534 X418.aif
+03.07.2000  22:22 10r            39.740 X418a.aif
+03.07.2000  22:22 10r            40.812 X419.AIF
+03.07.2000  22:22 10r            46.502 X420.AIF
+03.07.2000  22:22 10r            53.618 X421.AIF
+03.07.2000  22:22 10r            63.960 X422.AIF
+03.07.2000  22:22 10r            54.036 X423.AIF
+21.08.2000  15:31 3r           129.964 X423b.aif
+03.07.2000  22:22 10r            70.374 X424.AIF
+03.07.2000  22:22 10r            39.456 X425.AIF
+03.07.2000  22:22 10r            37.940 X426.AIF
+03.07.2000  22:22 10r            63.702 X427.AIF
+03.07.2000  22:22 10r            69.258 X428.AIF
+03.07.2000  22:22 10r            34.652 X429.AIF
+03.07.2000  22:22 10r            68.876 X430.AIF
+03.07.2000  22:22 10r            71.734 X431.AIF
+03.07.2000  22:22 10r            68.544 X432.AIF
+30.08.2000  20:20 8r           139.576 X433.AIF
+31.07.2000  11:00 11r           234.574 X434.AIF
+19.08.2000  20:44 8r           242.052 X435.AIF
+21.08.2000  15:31 3r           162.072 X436.AIF
+03.07.2000  22:22 10r           130.124 X437.AIF
+03.07.2000  22:22 10r            24.440 X438.AIF
+03.07.2000  22:22 10r           101.588 X439.AIF
+03.07.2000  22:22 10r            70.518 X440.AIF
+03.07.2000  22:22 10r            61.406 X441.AIF
+03.07.2000  22:22 10r            55.084 X442.AIF
+03.07.2000  22:22 10r            24.944 X443.AIF
+03.07.2000  22:22 10r            16.438 X444.AIF
+03.07.2000  22:22 10r            22.992 X445.AIF
+03.07.2000  22:22 10r            13.624 X446.AIF
+03.07.2000  22:22 10r            22.904 X447.AIF
+03.07.2000  22:22 10r            44.002 X448.AIF
+03.07.2000  22:22 10r            25.312 X449.AIF
+03.07.2000  22:22 10r            33.898 X450.AIF
+03.07.2000  22:22 10r            23.184 X451.AIF
+03.07.2000  22:22 10r            23.796 X452.AIF
+03.07.2000  22:22 10r            20.842 X453.AIF
+03.07.2000  22:22 10r            22.280 X454.AIF
+03.07.2000  22:22 10r            24.806 X455.AIF
+03.07.2000  22:22 10r            29.858 X456.AIF
+03.07.2000  22:22 10r            26.322 X457.AIF
+03.07.2000  22:22 10r            15.714 X458.AIF
+03.07.2000  22:22 10r            19.754 X459.AIF
+03.07.2000  22:22 10r            21.270 X460.AIF
+03.07.2000  22:22 10r            22.280 X461.AIF
+03.07.2000  22:22 10r            35.414 X462.AIF
+03.07.2000  22:22 10r            20.822 X463.AIF
+03.07.2000  22:22 10r            20.822 X464.AIF
+03.07.2000  22:22 10r            14.552 X465.AIF
+03.07.2000  22:22 10r            20.260 X466.AIF
+03.07.2000  22:22 10r            23.796 X467.AIF
+03.07.2000  22:22 10r            27.332 X468.AIF
+03.07.2000  22:22 10r            23.290 X469.AIF
+03.07.2000  22:22 10r            26.826 X470.AIF
+03.07.2000  22:22 10r            22.786 X471.AIF
+03.07.2000  22:22 10r            19.612 X473.AIF
+03.07.2000  22:22 10r            23.400 X474.AIF
+03.07.2000  22:22 10r            23.942 X475.AIF
+03.07.2000  22:22 10r            12.684 X476.AIF
+03.07.2000  22:22 10r            25.220 X477.AIF
+03.07.2000  22:22 10r            16.220 X478.AIF
+03.07.2000  22:22 10r            23.008 X479.AIF
+03.07.2000  22:22 10r            21.776 X480.AIF
+03.07.2000  22:22 10r            23.796 X481.AIF
+03.07.2000  22:22 10r            18.746 X482.AIF
+03.07.2000  22:22 10r            19.250 X483.AIF
+03.07.2000  22:22 10r            18.744 X484.AIF
+03.07.2000  22:22 10r            19.250 X485.AIF
+03.07.2000  22:22 10r            19.756 X486.AIF
+03.07.2000  22:22 10r            26.278 X487.AIF
+03.07.2000  22:22 10r            22.280 X488.AIF
+03.07.2000  22:22 10r            17.230 X489.AIF
+03.07.2000  22:22 10r            25.816 X490.AIF
+03.07.2000  22:22 10r            30.364 X491.AIF
+03.07.2000  22:22 10r            29.858 X492.AIF
+03.07.2000  22:22 10r            20.766 X493.AIF
+03.07.2000  22:22 10r            20.766 X494.AIF
+03.07.2000  22:22 10r            25.312 X495.AIF
+03.07.2000  22:22 10r            28.660 X496.AIF
+03.07.2000  22:22 10r            14.198 X497.AIF
+03.07.2000  22:22 10r            21.540 X498.AIF
+03.07.2000  22:22 10r            25.816 X499.AIF
+03.07.2000  22:22 10r            23.292 X500.AIF
+03.07.2000  22:22 10r            25.312 X501.AIF
+03.07.2000  22:22 10r            22.786 X502.AIF
+31.08.2000  19:27 7r            30.014 x502_bucket.aif
+03.07.2000  22:22 10r            28.342 X503.AIF
+03.07.2000  22:22 10r            28.342 X505.AIF
+03.07.2000  22:22 10r            27.658 X506.AIF
+03.07.2000  22:22 10r            26.322 X507.AIF
+03.07.2000  22:22 10r            24.806 X508.AIF
+03.07.2000  22:22 10r            29.352 X509.AIF
+03.07.2000  22:22 10r            24.806 X510.AIF
+03.07.2000  22:22 10r            21.776 X511.AIF
+03.07.2000  22:22 10r            22.786 X512.AIF
+03.07.2000  22:22 10r            22.786 X513.AIF
+03.07.2000  22:22 10r            25.816 X514.AIF
+03.07.2000  22:22 10r            23.796 X515.AIF
+03.07.2000  22:22 10r            16.186 X516.AIF
+03.07.2000  22:22 10r            25.312 X517.AIF
+03.07.2000  22:22 10r            20.260 X518.AIF
+03.07.2000  22:22 10r            37.940 X519.AIF
+03.07.2000  22:22 10r            22.334 X520.AIF
+03.07.2000  22:22 10r            23.796 X521.AIF
+03.07.2000  22:22 10r            22.280 X522.AIF
+03.07.2000  22:22 10r            24.302 X523.AIF
+03.07.2000  22:22 10r            23.292 X524.AIF
+03.07.2000  22:22 10r            19.250 X525.AIF
+03.07.2000  22:22 10r            24.302 X526.AIF
+03.07.2000  22:22 10r            33.394 X527.AIF
+03.07.2000  22:22 10r            27.332 X528.AIF
+03.07.2000  22:22 10r            28.342 X529.AIF
+03.07.2000  22:22 10r            20.766 X530.AIF
+03.07.2000  22:22 10r            18.402 X531.AIF
+03.07.2000  22:22 10r            31.878 X532.AIF
+03.07.2000  22:22 10r            22.404 X533.AIF
+03.07.2000  22:22 10r            27.332 X534.AIF
+03.07.2000  22:22 10r            24.302 X535.AIF
+03.07.2000  22:22 10r            22.786 X536.AIF
+03.07.2000  22:22 10r            23.210 X537.AIF
+03.07.2000  22:22 10r            20.766 X538.AIF
+03.07.2000  22:22 10r            23.796 X539.AIF
+03.07.2000  22:22 10r            24.302 X540.AIF
+03.07.2000  22:22 10r            27.838 X541.AIF
+03.07.2000  22:22 10r            22.194 X542.AIF
+03.07.2000  22:22 10r            21.270 X543.AIF
+03.07.2000  22:22 10r            29.384 X544.AIF
+03.07.2000  22:22 10r            26.322 X545.AIF
+03.07.2000  22:22 10r            19.250 X546.AIF
+03.07.2000  22:22 10r            16.220 X547.AIF
+03.07.2000  22:22 10r            21.776 X548.AIF
+03.07.2000  22:22 10r            38.438 X549.AIF
+03.07.2000  22:22 10r            44.002 X550.AIF
+03.07.2000  22:22 10r            60.166 X551.AIF
+03.07.2000  22:22 10r            51.660 X552.AIF
+03.07.2000  22:22 10r            16.724 X553.AIF
+03.07.2000  22:22 10r            20.072 X554.AIF
+03.07.2000  22:22 10r            16.724 X555.AIF
+03.07.2000  22:22 10r             9.652 X556.AIF
+03.07.2000  22:22 10r             8.642 X557.AIF
+03.07.2000  22:22 10r            22.786 X558.AIF
+03.07.2000  22:22 10r            20.260 X559.AIF
+03.07.2000  22:22 10r            41.476 X560.AIF
+03.07.2000  22:22 10r            10.126 X561.AIF
+03.07.2000  22:22 10r            15.714 X562.AIF
+03.07.2000  22:22 10r            13.694 X563.AIF
+03.07.2000  22:22 10r            17.734 X564.AIF
+03.07.2000  22:22 10r            15.714 X565.AIF
+03.07.2000  22:22 10r            15.714 X566.AIF
+03.07.2000  22:22 10r            14.704 X567.AIF
+03.07.2000  22:22 10r            14.198 X568.AIF
+03.07.2000  22:22 10r            13.694 X569.AIF
+03.07.2000  22:22 10r            14.704 X570.AIF
+03.07.2000  22:22 10r            12.684 X571.AIF
+03.07.2000  22:22 10r            22.280 X572.AIF
+03.07.2000  22:22 10r            34.812 X573.AIF
+03.07.2000  22:22 10r            21.442 X574.AIF
+03.07.2000  22:22 10r            25.816 X575.AIF
+03.07.2000  22:22 10r            27.838 X576.AIF
+03.07.2000  22:22 10r            22.762 X577.AIF
+03.07.2000  22:22 10r            26.826 X578.AIF
+03.07.2000  22:22 10r            27.622 X579.AIF
+03.07.2000  22:22 10r            32.384 X580.AIF
+03.07.2000  22:22 10r            29.858 X581.AIF
+03.07.2000  22:22 10r            51.074 X582.AIF
+03.07.2000  22:22 10r            61.682 X583.AIF
+03.07.2000  22:22 10r            64.072 X584.AIF
+03.07.2000  22:22 10r            37.434 X585.AIF
+03.07.2000  22:22 10r            27.434 X586.AIF
+03.07.2000  22:22 10r            90.102 X587.AIF
+03.07.2000  22:22 10r           120.708 X588.AIF
+03.07.2000  22:22 10r            54.168 X589.AIF
+03.07.2000  22:22 10r            66.732 X590.AIF
+03.07.2000  22:22 10r           137.958 X591.AIF
+03.07.2000  22:22 10r            77.846 X592.AIF
+07.08.2000  17:26 5r            60.302 X593.AIF
+03.07.2000  22:22 10r           103.528 X594.AIF
+03.07.2000  22:22 10r            52.320 X595.AIF
+03.07.2000  22:22 10r            17.734 X596.AIF
+03.07.2000  22:22 10r            32.384 X597.AIF
+03.07.2000  22:22 10r            75.826 X598.AIF
+03.07.2000  22:22 10r            17.230 X599.AIF
+03.07.2000  22:22 10r            75.826 X600.AIF
+03.07.2000  22:22 10r            60.672 X601.AIF
+03.07.2000  22:22 10r            67.744 X602.AIF
+03.07.2000  22:22 10r            66.734 X603.AIF
+03.07.2000  22:22 10r            65.722 X604.AIF
+03.07.2000  22:22 10r            13.108 X605.AIF
+03.07.2000  22:22 10r            61.794 X606.AIF
+03.07.2000  22:22 10r            82.898 X607.AIF
+03.07.2000  22:22 10r            98.052 X608.AIF
+03.07.2000  22:22 10r            79.866 X609.AIF
+03.07.2000  22:22 10r            61.682 X610.AIF
+03.07.2000  22:22 10r            88.454 X611.AIF
+03.07.2000  22:22 10r            49.054 X612.AIF
+03.07.2000  22:22 10r            64.712 X613.AIF
+03.07.2000  22:22 10r            75.320 X614.AIF
+03.07.2000  22:22 10r            18.744 X615.AIF
+03.07.2000  22:22 10r           208.172 X616.AIF
+03.07.2000  22:22 10r            87.444 X617.AIF
+03.07.2000  22:22 10r            86.366 X618.AIF
+03.07.2000  22:22 10r            43.496 X619.AIF
+03.07.2000  22:22 10r            55.114 X620.AIF
+03.07.2000  22:22 10r            75.320 X621.AIF
+03.07.2000  22:22 10r            57.640 X622.AIF
+03.07.2000  22:22 10r           265.758 X623.AIF
+03.07.2000  22:22 10r           118.258 X624.AIF
+03.07.2000  22:22 10r           111.690 X625.AIF
+31.08.2000  19:27 7r           172.184 X626.AIF
+31.07.2000  11:00 11r            97.682 X627.AIF
+03.07.2000  22:22 10r            76.898 X628.AIF
+03.07.2000  22:22 10r            75.896 X629.AIF
+03.07.2000  22:22 10r            94.516 X630.AIF
+03.07.2000  22:22 10r           157.338 X631.AIF
+03.07.2000  22:22 10r           104.396 X632.AIF
+03.07.2000  22:22 10r            92.494 X633.AIF
+03.07.2000  22:22 10r            79.362 X634.AIF
+03.07.2000  22:22 10r            60.166 X635.AIF
+03.07.2000  22:22 10r            34.404 X636.AIF
+03.07.2000  22:22 10r            53.728 X637.AIF
+03.07.2000  22:22 10r            37.378 X638.AIF
+03.07.2000  22:22 10r           123.814 X639.AIF
+03.07.2000  22:22 10r            69.764 X640.AIF
+03.07.2000  22:22 10r            83.130 X641.AIF
+03.07.2000  22:22 10r           116.542 X642.AIF
+03.07.2000  22:22 10r            40.802 X643.AIF
+03.07.2000  22:22 10r            85.664 X644.AIF
+03.07.2000  22:22 10r            63.142 X645.AIF
+03.07.2000  22:22 10r            34.228 X646.AIF
+03.07.2000  22:22 10r            27.510 X647.AIF
+03.07.2000  22:22 10r            76.422 X648.AIF
+03.07.2000  22:22 10r            48.712 X649.AIF
+03.07.2000  22:22 10r            48.320 X650.AIF
+03.07.2000  22:22 10r            27.386 X651.AIF
+03.07.2000  22:22 10r            49.530 X652.AIF
+03.07.2000  22:22 10r            36.162 X653.AIF
+03.07.2000  22:22 10r            56.042 X654.AIF
+03.07.2000  22:22 10r            60.010 X655.AIF
+03.07.2000  22:22 10r            52.514 X656.AIF
+03.07.2000  22:22 10r           118.200 X657.AIF
+03.07.2000  22:22 10r            70.590 X658.AIF
+03.07.2000  22:22 10r           167.134 X659.AIF
+03.07.2000  22:22 10r           104.534 X660.AIF
+03.07.2000  22:22 10r           121.728 X661.AIF
+03.07.2000  22:22 10r            78.716 X662.AIF
+03.07.2000  22:22 10r           123.742 X663.AIF
+03.07.2000  22:22 10r            79.848 X664.AIF
+03.07.2000  22:22 10r           164.488 X665.AIF
+03.07.2000  22:22 10r           148.178 X666.AIF
+03.07.2000  22:22 10r           109.824 X667.AIF
+03.07.2000  22:22 10r            93.514 X668.AIF
+03.07.2000  22:22 10r           114.674 X669.AIF
+03.07.2000  22:22 10r            96.600 X670.AIF
+03.07.2000  22:22 10r           160.080 X671.AIF
+03.07.2000  22:22 10r           139.360 X672.AIF
+03.07.2000  22:22 10r           255.744 X673.AIF
+03.07.2000  22:22 10r           127.898 X674.AIF
+03.07.2000  22:22 10r            62.654 X675.AIF
+03.07.2000  22:22 10r            51.192 X676.AIF
+03.07.2000  22:22 10r           110.706 X677.AIF
+03.07.2000  22:22 10r            64.858 X678.AIF
+03.07.2000  22:22 10r            70.148 X679.AIF
+03.07.2000  22:22 10r            63.096 X680.AIF
+03.07.2000  22:22 10r            82.934 X681.AIF
+03.07.2000  22:22 10r            37.526 X682.AIF
+03.07.2000  22:22 10r            37.968 X683.AIF
+03.07.2000  22:22 10r            33.558 X684.AIF
+03.07.2000  22:22 10r            90.868 X685.AIF
+21.07.2000  14:06 2r            73.512 X686.AIF
+21.07.2000  14:06 2r            96.280 X687.AIF
+21.07.2000  14:06 2r            75.394 X688.AIF
+21.07.2000  14:06 2r            37.040 X689.AIF
+21.07.2000  14:06 2r            65.320 X690.AIF
+21.07.2000  14:06 2r            80.950 X691.AIF
+21.07.2000  14:06 2r            81.902 X692.AIF
+21.07.2000  14:06 2r           118.236 X693.AIF
+21.07.2000  14:06 2r            66.772 X694.AIF
+21.07.2000  14:06 2r           120.298 X695.AIF
+03.07.2000  22:22 10r            51.634 X696.AIF
+03.07.2000  22:22 10r           274.258 X697.AIF
+03.07.2000  22:22 10r            59.568 X698.AIF
+03.07.2000  22:22 10r            62.654 X699.AIF
+03.07.2000  22:22 10r            28.710 X700.AIF
+03.07.2000  22:22 10r            33.558 X701.AIF
+03.07.2000  22:22 10r            20.214 X702.AIF
+03.07.2000  22:22 10r            35.322 X703.AIF
+03.07.2000  22:22 10r           124.372 X704.AIF
+03.07.2000  22:22 10r            94.394 X705.AIF
+03.07.2000  22:22 10r            34.000 X706.AIF
+03.07.2000  22:22 10r            75.438 X707.AIF
+03.07.2000  22:22 10r            67.504 X708.AIF
+03.07.2000  22:22 10r            59.128 X709.AIF
+03.07.2000  22:22 10r            74.116 X710.AIF
+03.07.2000  22:22 10r            24.302 X711.AIF
+03.07.2000  22:22 10r            67.062 X712.AIF
+03.07.2000  22:22 10r           103.212 X713.AIF
+03.07.2000  22:22 10r            87.342 X714.AIF
+03.07.2000  22:22 10r            38.408 X715.AIF
+03.07.2000  22:22 10r            98.362 X716.AIF
+02.09.2000  11:11 11r            65.024 X717.AIF
+03.07.2000  22:22 10r           158.316 X718.AIF
+03.07.2000  22:22 10r            32.236 X719.AIF
+03.07.2000  22:22 10r            34.882 X720.AIF
+03.07.2000  22:22 10r            72.354 X721.AIF
+03.07.2000  22:22 10r            61.772 X722.AIF
+03.07.2000  22:22 10r           205.928 X723.AIF
+03.07.2000  22:22 10r            15.926 X724.AIF
+03.07.2000  22:22 10r            27.386 X725.AIF
+03.07.2000  22:22 10r            28.724 X726.AIF
+03.07.2000  22:22 10r            35.322 X727.AIF
+03.07.2000  22:22 10r            81.610 X728.AIF
+03.07.2000  22:22 10r            60.450 X729.AIF
+03.07.2000  22:22 10r           106.738 X730.AIF
+03.07.2000  22:22 10r           190.498 X731.AIF
+03.07.2000  22:22 10r            99.244 X732.AIF
+03.07.2000  22:22 10r            34.440 X733.AIF
+03.07.2000  22:22 10r            93.514 X734.AIF
+03.07.2000  22:22 10r            66.622 X735.AIF
+03.07.2000  22:22 10r            90.428 X736.AIF
+03.07.2000  22:22 10r            75.518 X737.AIF
+03.07.2000  22:22 10r           110.206 X738.AIF
+03.07.2000  22:22 10r           123.662 X739.AIF
+03.07.2000  22:22 10r            98.994 X740.AIF
+03.07.2000  22:22 10r            67.506 X741.AIF
+03.07.2000  22:22 10r            68.368 X742.AIF
+03.07.2000  22:22 10r            72.472 X743.AIF
+03.07.2000  22:22 10r            51.306 X744.AIF
+03.07.2000  22:22 10r            86.388 X745.AIF
+03.07.2000  22:22 10r           112.698 X746.AIF
+03.07.2000  22:22 10r           119.824 X747.AIF
+03.07.2000  22:22 10r           103.380 X748.AIF
+03.07.2000  22:22 10r            54.594 X749.AIF
+03.07.2000  22:22 10r            83.098 X750.AIF
+03.07.2000  22:22 10r            59.728 X751.AIF
+03.07.2000  22:22 10r            86.662 X752.AIF
+03.07.2000  22:22 10r            79.536 X753.AIF
+03.07.2000  22:22 10r           191.632 X754.AIF
+03.07.2000  22:22 10r            59.802 X755.AIF
+31.08.2000  19:54 7r           118.058 X756.AIF
+03.07.2000  22:22 10r            69.670 X757.AIF
+03.07.2000  22:22 10r            76.794 X758.AIF
+03.07.2000  22:22 10r           150.142 X759.AIF
+03.07.2000  22:22 10r           117.266 X760.AIF
+03.07.2000  22:22 10r            62.608 X761.AIF
+03.07.2000  22:22 10r            46.646 X762.AIF
+03.07.2000  22:22 10r           133.802 X763.AIF
+03.07.2000  22:22 10r            78.440 X764.AIF
+03.07.2000  22:22 10r           122.290 X765.AIF
+03.07.2000  22:22 10r            87.210 X766.AIF
+03.07.2000  22:22 10r           106.942 X767.AIF
+03.07.2000  22:22 10r            78.530 X768.AIF
+03.07.2000  22:22 10r            48.292 X769.AIF
+03.07.2000  22:22 10r            60.898 X770.AIF
+03.07.2000  22:22 10r            92.142 X771.AIF
+03.07.2000  22:22 10r            36.780 X772.AIF
+03.07.2000  22:22 10r            57.996 X773.AIF
+03.07.2000  22:22 10r            66.596 X774.AIF
+03.07.2000  22:22 10r           119.310 X775.AIF
+03.07.2000  22:22 10r            57.062 X776.AIF
+03.07.2000  22:22 10r            52.128 X777.AIF
+03.07.2000  22:22 10r            55.418 X778.AIF
+03.07.2000  22:22 10r           206.158 X779.AIF
+03.07.2000  22:22 10r            55.418 X780.AIF
+03.07.2000  22:22 10r            63.092 X781.AIF
+03.07.2000  22:22 10r           103.106 X782.AIF
+03.07.2000  22:22 10r            41.714 X783.AIF
+03.07.2000  22:22 10r           145.862 X784.AIF
+03.07.2000  22:22 10r           127.224 X785.AIF
+03.07.2000  22:22 10r           191.356 X786.AIF
+03.07.2000  22:22 10r           157.372 X787.AIF
+03.07.2000  22:22 10r           119.550 X788.AIF
+03.07.2000  22:22 10r            74.602 X789.AIF
+03.07.2000  22:22 10r            96.528 X790.AIF
+03.07.2000  22:22 10r            68.024 X791.AIF
+03.07.2000  22:22 10r            34.040 X792.AIF
+03.07.2000  22:22 10r           158.468 X793.AIF
+03.07.2000  22:22 10r           202.868 X794.AIF
+03.07.2000  22:22 10r            92.142 X795.AIF
+03.07.2000  22:22 10r            97.624 X796.AIF
+03.07.2000  22:22 10r           130.512 X797.AIF
+03.07.2000  22:22 10r           175.460 X798.AIF
+03.07.2000  22:22 10r           181.490 X799.AIF
+03.07.2000  22:22 10r           188.616 X800.AIF
+29.08.2000  21:54 9r            44.090 x800b.aif
+03.07.2000  22:22 10r           125.580 X801.AIF
+03.07.2000  22:22 10r            83.372 X802.AIF
+29.08.2000  21:54 9r            17.218 X802b.aif
+03.07.2000  22:22 10r            35.320 X803.AIF
+03.07.2000  22:22 10r           309.576 X804.AIF
+03.07.2000  22:22 10r            82.912 X805.AIF
+03.07.2000  22:22 10r           105.816 X806.AIF
+03.07.2000  22:22 10r            40.638 X807.AIF
+03.07.2000  22:22 10r            71.792 X808.AIF
+03.07.2000  22:22 10r            27.930 X809.AIF
+03.07.2000  22:22 10r            77.940 X810.AIF
+03.07.2000  22:22 10r            40.638 X811.AIF
+03.07.2000  22:22 10r           107.046 X812.AIF
+03.07.2000  22:22 10r            75.892 X813.AIF
+03.07.2000  22:22 10r            72.612 X814.AIF
+03.07.2000  22:22 10r            48.426 X815.AIF
+03.07.2000  22:22 10r            62.774 X816.AIF
+03.07.2000  22:22 10r            64.824 X817.AIF
+03.07.2000  22:22 10r            53.754 X818.AIF
+03.07.2000  22:22 10r            77.940 X819.AIF
+03.07.2000  22:22 10r            75.072 X820.AIF
+03.07.2000  22:22 10r            97.206 X821.AIF
+03.07.2000  22:22 10r            95.568 X822.AIF
+03.07.2000  22:22 10r            98.438 X823.AIF
+03.07.2000  22:22 10r            59.494 X824.AIF
+03.07.2000  22:22 10r            64.414 X825.AIF
+03.07.2000  22:22 10r            78.350 X826.AIF
+03.07.2000  22:22 10r            36.538 X827.AIF
+03.07.2000  22:22 10r            72.612 X828.AIF
+03.07.2000  22:22 10r            52.044 X829.AIF
+03.07.2000  22:22 10r            43.506 X830.AIF
+03.07.2000  22:22 10r             9.482 X831.AIF
+03.07.2000  22:22 10r             9.662 X832.AIF
+03.07.2000  22:22 10r            15.632 X833.AIF
+03.07.2000  22:22 10r            13.992 X834.AIF
+03.07.2000  22:22 10r            53.346 X835.AIF
+03.07.2000  22:22 10r            28.340 X836.AIF
+03.07.2000  22:22 10r           174.752 X837.aif
+31.07.2000  11:00 11r           142.130 X838.aif
+03.07.2000  22:22 10r           109.924 X839.aif
+03.07.2000  22:22 10r           190.694 X840.aif
+03.07.2000  22:22 10r           115.798 X841.aif
+03.07.2000  22:22 10r            58.256 X842.aif
+03.07.2000  22:22 10r            73.698 X843.aif
+03.07.2000  22:22 10r            47.336 X844.aif
+03.07.2000  22:22 10r            56.288 X845.aif
+03.07.2000  22:22 10r           122.280 X846.aif
+03.07.2000  22:22 10r            75.478 X847.aif
+03.07.2000  22:22 10r           103.790 X848.aif
+03.07.2000  22:22 10r           193.070 X848a.aif
+03.07.2000  22:22 10r            66.620 X849.aif
+03.07.2000  22:22 10r           203.166 X850.aif
+03.07.2000  22:22 10r            33.906 X851.aif
+03.07.2000  22:22 10r           127.132 X852.aif
+03.07.2000  22:22 10r            90.952 X853.aif
+03.07.2000  22:22 10r            84.194 X854.aif
+03.07.2000  22:22 10r            65.296 X855.aif
+03.07.2000  22:22 10r           109.578 X856.aif
+03.07.2000  22:22 10r           149.404 X857.aif
+03.07.2000  22:22 10r            62.314 X858.aif
+03.07.2000  22:22 10r            97.056 X859.aif
+03.07.2000  22:22 10r            40.596 X860.aif
+03.07.2000  22:22 10r            52.126 X861.aif
+03.07.2000  22:22 10r            49.136 X862.aif
+03.07.2000  22:22 10r            46.028 X863.aif
+03.07.2000  22:22 10r            68.258 X864.aif
+03.07.2000  22:22 10r            44.838 X865.aif
+26.08.2000  16:31 4r           454.062 X866.aif
+26.08.2000  16:31 4r           145.428 X867.aif
+26.08.2000  11:52 11r           175.698 X868.aif
+26.08.2000  11:52 11r           248.828 X869.aif
+18.07.2000  11:23 11r            37.310 x8690.aif
+03.07.2000  22:22 10r           103.404 X870.aif
+26.08.2000  11:52 11r           180.278 X871.aif
+03.07.2000  22:22 10r           118.250 X872.aif
+03.07.2000  22:22 10r           146.746 X873.aif
+21.07.2000  14:06 2r           586.820 x8731.aif
+21.07.2000  14:06 2r           146.746 x8732.aif
+03.07.2000  22:22 10r           297.594 X874.aif
+03.07.2000  22:22 10r            58.582 X875.aif
+31.08.2000  19:27 7r            78.770 X876.aif
+02.09.2000  11:11 11r            81.330 X877.aif
+03.07.2000  22:22 10r            73.490 X878.aif
+03.07.2000  22:22 10r            56.626 X879.aif
+03.07.2000  22:22 10r            85.156 X880.aif
+03.07.2000  22:22 10r            36.574 X881.aif
+03.07.2000  22:22 10r           184.602 X882.aif
+03.07.2000  22:22 10r            64.800 X883.aif
+03.07.2000  22:22 10r            68.464 X884.aif
+03.07.2000  22:22 10r           141.158 X885.aif
+03.07.2000  22:22 10r            72.718 X886.aif
+03.07.2000  22:22 10r            48.268 X887.aif
+03.07.2000  22:22 10r           249.020 X888.aif
+03.07.2000  22:22 10r           136.520 X889.aif
+28.08.2000  12:11 12r           100.518 X890.aif
+28.08.2000  12:11 12r            78.246 X891.aif
+03.07.2000  22:22 10r           316.004 X892.aif
+03.07.2000  22:22 10r            17.278 X893.aif
+03.07.2000  22:22 10r           241.768 X894.aif
+28.08.2000  12:11 12r           161.202 X895.aif
+03.07.2000  22:22 10r           110.750 X896.aif
+03.07.2000  22:22 10r            66.544 X897.aif
+03.07.2000  22:22 10r           337.314 X898.aif
+28.08.2000  12:11 12r            75.538 X899.aif
+18.08.2000  23:02 11r           111.880 X900.aif
+03.07.2000  22:22 10r            71.660 X901.aif
+18.08.2000  23:02 11r            44.008 X902.aif
+18.08.2000  23:02 11r            53.960 X903.aif
+18.08.2000  23:02 11r            22.872 X904.aif
+03.07.2000  22:22 10r            39.454 X905.aif
+18.08.2000  23:02 11r            52.344 X906.aif
+18.08.2000  23:02 11r            97.334 X907.aif
+03.07.2000  22:22 10r            79.636 X908.aif
+28.08.2000  12:11 12r           222.252 X909.aif
+03.07.2000  22:22 10r            61.950 X910.aif
+03.07.2000  22:22 10r            56.012 X911.aif
+03.07.2000  22:22 10r           154.452 X912.aif
+03.07.2000  22:22 10r            73.356 X913.aif
+03.07.2000  22:22 10r            42.880 X914.aif
+03.07.2000  22:22 10r            64.006 X915.aif
+03.07.2000  22:22 10r           140.854 X916.aif
+03.07.2000  22:22 10r           102.204 X917.aif
+03.07.2000  22:22 10r            75.656 X918.aif
+03.07.2000  22:22 10r            46.552 X919.aif
+28.08.2000  12:11 12r           149.580 X920.aif
+03.07.2000  22:22 10r            49.446 X921.aif
+03.07.2000  22:22 10r            70.134 X922.aif
+28.08.2000  12:11 12r           120.948 X923.aif
+03.07.2000  22:22 10r            80.512 X924.aif
+28.08.2000  12:11 12r            50.416 X925.aif
+28.08.2000  12:11 12r           117.124 X926.aif
+03.07.2000  22:22 10r            82.144 X927.aif
+28.08.2000  12:11 12r           182.622 X928.aif
+03.07.2000  22:22 10r            39.400 X929.aif
+28.08.2000  12:11 12r           135.622 X930.aif
+18.08.2000  23:02 11r            63.608 X931.aif
+28.08.2000  12:11 12r            70.820 X932.aif
+03.07.2000  22:22 10r            73.698 X933.aif
+28.08.2000  12:11 12r           424.736 X934.aif
+28.08.2000  12:11 12r           166.454 X935.aif
+28.08.2000  12:11 12r            81.462 X936.aif
+28.08.2000  12:11 12r            76.526 X937.aif
+03.07.2000  22:22 10r           148.340 X938.aif
+18.08.2000  23:02 11r           142.628 X939.aif
+18.08.2000  23:02 11r           527.842 X940.aif
+03.07.2000  22:22 10r            74.292 X941.aif
+03.07.2000  22:22 10r           113.488 X942.aif
+03.07.2000  22:22 10r            67.164 X943.aif
+03.07.2000  22:22 10r            63.008 X944.aif
+03.07.2000  22:22 10r           101.926 X945.aif
+03.07.2000  22:22 10r            85.574 X946.aif
+03.07.2000  22:22 10r            98.046 X947.aif
+03.07.2000  22:22 10r           114.082 X948.aif
+03.07.2000  22:22 10r           147.934 X949.aif
+29.08.2000  21:54 9r           110.518 x950.aif
+03.07.2000  22:22 10r            26.304 xBGa.aif
+03.07.2000  22:22 10r            19.062 xBGb.aif
+03.07.2000  22:22 10r            18.120 xDKa.aif
+03.07.2000  22:22 10r            20.552 xDKb.aif
+03.07.2000  22:22 10r            20.168 xEa.aif
+03.07.2000  22:22 10r            17.422 xEb.aif
+03.07.2000  22:22 10r            21.610 xETa.aif
+03.07.2000  22:22 10r            16.670 xETb.aif
+03.07.2000  22:22 10r            22.162 xFa.aif
+03.07.2000  22:22 10r            14.004 xFb.aif
+03.07.2000  22:22 10r            21.576 xGBa.aif
+03.07.2000  22:22 10r            17.916 xGBb.aif
+03.07.2000  22:22 10r            23.932 xGRa.aif
+03.07.2000  22:22 10r            21.246 xGRb.aif
+03.07.2000  22:22 10r            22.746 xIa.aif
+03.07.2000  22:22 10r            17.294 xIb.aif
+03.07.2000  22:22 10r            22.430 xNLa.aif
+03.07.2000  22:22 10r            21.578 xNLb.aif
+03.07.2000  22:22 10r            21.112 xROa.aif
+03.07.2000  22:22 10r            19.442 xROb.aif
+03.07.2000  22:22 10r            19.504 xRUSa.aif
+03.07.2000  22:22 10r            18.414 xRUSb.aif
+03.07.2000  22:22 10r            19.262 xSa.aif
+03.07.2000  22:22 10r            27.268 xSb.aif
+26.08.2000  16:32 4r            25.762 xsz379b.aif
+03.07.2000  22:22 10r            19.506 xTRa.aif
+03.07.2000  22:22 10r            17.736 xTRb.aif
+            1057 Datei(en),     82.738.252 Bytes
+
+ Verzeichnis von F:\media\SPOTS
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+24.08.2000  13:10 1r               624 Banana.dat
+24.08.2000  13:10 1r               599 Dreck.dat
+24.08.2000  13:10 1r               596 Ei.dat
+24.08.2000  13:10 1r               611 Flasche.dat
+24.08.2000  13:10 1r               602 Gewicht.dat
+24.08.2000  13:10 1r               600 Hut.dat
+24.08.2000  13:10 1r               601 Kauf.dat
+14.08.2000  23:10 11r               240 Main.dat
+10.10.2000  12:28 12r    <DIR>          Movies
+10.10.2000  12:28 12r    <DIR>          RAHMEN
+24.08.2000  14:29 2r               593 Waesche.dat
+24.08.2000  13:10 1r               603 Wurst.dat
+              10 Datei(en),          5.669 Bytes
+
+ Verzeichnis von F:\media\SPOTS\Movies
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+30.08.2000  20:25 8r         9.313.347 Banana.mov
+30.08.2000  17:48 5r        10.869.755 Dreck.mov
+30.08.2000  17:50 5r        11.205.047 Ei.mov
+30.08.2000  17:52 5r         6.472.615 Flasche.mov
+30.08.2000  17:53 5r         5.586.823 Gewicht.mov
+30.08.2000  17:57 5r         8.182.579 Hut.mov
+30.08.2000  17:58 5r        18.831.399 Kauf.mov
+30.08.2000  17:59 5r         9.153.191 Waesche.mov
+30.08.2000  18:01 6r         6.315.215 Wurst.mov
+               9 Datei(en),     85.929.971 Bytes
+
+ Verzeichnis von F:\media\SPOTS\RAHMEN
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:19 10r            58.005 Links.jpg
+03.07.2000  22:19 10r            23.810 Monitor.jpg
+03.07.2000  22:19 10r            16.846 Oben.jpg
+03.07.2000  22:19 10r               338 Rahmen.dat
+03.07.2000  22:19 10r            56.264 Rechts.jpg
+03.07.2000  22:19 10r            56.715 Unten.jpg
+               6 Datei(en),        211.978 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          druckteile
+10.10.2000  12:28 12r    <DIR>          hintergrund
+10.10.2000  12:28 12r    <DIR>          rahmenklein9
+10.10.2000  12:28 12r    <DIR>          rahmenklein8
+10.10.2000  12:28 12r    <DIR>          rahmenklein7
+10.10.2000  12:28 12r    <DIR>          rahmenklein6
+10.10.2000  12:28 12r    <DIR>          rahmenklein5
+10.10.2000  12:28 12r    <DIR>          rahmenklein4
+10.10.2000  12:28 12r    <DIR>          rahmenklein3
+10.10.2000  12:28 12r    <DIR>          rahmenklein2
+10.10.2000  12:28 12r    <DIR>          rahmenklein
+10.10.2000  12:28 12r    <DIR>          rahmengross
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\druckteile
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+10.10.2000  12:28 12r    <DIR>          full-jpgs
+10.10.2000  12:28 12r    <DIR>          outline-jpgs
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\druckteile\full-jpgs
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:23 10r               479 full.dat
+02.09.2000  11:11 11r           141.010 teil1.jpg
+02.09.2000  11:11 11r           140.506 teil2.jpg
+02.09.2000  11:11 11r            71.218 teil3.jpg
+02.09.2000  11:11 11r            43.177 teil4.jpg
+03.07.2000  22:23 10r            58.316 teil5.jpg
+02.09.2000  11:11 11r           215.259 teil6.jpg
+02.09.2000  11:11 11r            57.925 teil7.jpg
+02.09.2000  11:11 11r           127.084 teil8.jpg
+02.09.2000  11:11 11r            40.819 teil9.jpg
+              10 Datei(en),        895.793 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\druckteile\outline-jpgs
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+04.08.2000  16:17 4r               506 outline.dat
+02.09.2000  11:11 11r            34.058 teil1.jpg
+02.09.2000  11:11 11r            32.620 teil2.jpg
+02.09.2000  11:11 11r            38.194 teil3.jpg
+02.09.2000  11:11 11r            24.631 teil4.jpg
+02.09.2000  11:11 11r            30.433 teil5.jpg
+02.09.2000  11:11 11r            46.968 teil6.jpg
+02.09.2000  11:11 11r            39.207 teil7.jpg
+04.10.2000  12:02 12r            35.816 teil8.jpg
+02.09.2000  11:11 11r            23.949 teil9.jpg
+04.10.2000  12:19 12r               192 vssver.scc
+              11 Datei(en),        306.574 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\hintergrund
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:23 10r               262 druck.dat
+03.07.2000  22:23 10r               243 haupt.dat
+03.07.2000  22:23 10r               251 hilfe.dat
+29.08.2000  21:55 9r            44.925 hintergrund.JPG
+03.07.2000  22:23 10r               891 poster.dat
+               5 Datei(en),         46.572 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein9
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+23.07.2000  14:31 2r               134 rahmenklein9.dat
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein8
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+23.07.2000  14:31 2r               134 rahmenklein8.dat
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein7
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+23.07.2000  14:31 2r               134 rahmenklein7.dat
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein6
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+23.07.2000  14:31 2r               134 rahmenklein6.dat
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein5
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.07.2000  15:52 3r               134 rahmenklein5.dat
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein4
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.07.2000  15:52 3r               134 rahmenklein4.dat
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein3
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.07.2000  15:52 3r               133 rahmenklein3.dat
+               1 Datei(en),            133 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein2
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+19.07.2000  15:52 3r               133 rahmenklein2.dat
+               1 Datei(en),            133 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmenklein
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:23 10r             6.897 1.bvm
+03.07.2000  22:23 10r             4.064 1.bvmMask
+03.07.2000  22:23 10r               133 rahmenklein1.dat
+               3 Datei(en),         11.094 Bytes
+
+ Verzeichnis von F:\media\STARSCHNITT\rahmengross
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+03.07.2000  22:23 10r            23.511 1.bvm
+03.07.2000  22:23 10r            14.344 1.bvmMask
+03.07.2000  22:23 10r               133 rahmengross.dat
+               3 Datei(en),         37.988 Bytes
+
+ Verzeichnis von F:\system
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+08.03.1999  13:21 1r         5.119.503 IOFILE.X64
+08.03.1999  13:21 1r         5.119.503 MOV_IO.X64
+08.03.1999  13:21 1r         5.119.503 SOUND.X64
+               3 Datei(en),     15.358.509 Bytes
+
+ Verzeichnis von F:\Xtras
+
+10.10.2000  12:28 12r    <DIR>          .
+10.10.2000  12:28 12r    <DIR>          ..
+29.08.1999  04:31 4r           221.754 budapi.x16
+29.08.1999  04:31 4r           268.288 budapi.x32
+04.07.2000  14:51 2r           112.128 budapi32.dll
+23.05.1999  15:42 3r           967.168 DIRAPI.DLL
+02.11.1999  16:15 4r           114.688 DirectOS.x32
+23.05.1999  17:58 5r            25.088 Fileio.x32
+01.12.1998  23:55 11r           109.056 FileXtra.x32
+23.05.1999  17:31 5r           286.720 Flash Asset.x32
+23.05.1999  17:32 5r            28.672 INetURL.x32
+23.05.1999  17:28 5r            35.328 MacroMix.x32
+23.05.1999  17:31 5r            41.472 NetFile.x32
+23.05.1999  17:31 5r            35.328 NetLingo.x32
+23.05.1999  17:42 5r           138.752 PNG Import Export.x32
+23.05.1999  17:31 5r           105.984 QT3Asset.x32
+17.02.1998  15:54 3r            56.320 ScrnXtra.x32
+23.05.1999  17:58 5r            50.688 Text Asset.x32
+              16 Datei(en),      2.597.434 Bytes
+
+     Anzahl der angezeigten Dateien:
+            2270 Datei(en),    612.629.568 Bytes
+             360 Verzeichnis(se),              0 Bytes frei
