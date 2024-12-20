@@ -201,11 +201,13 @@ Companies:
 	* Gotcha! Extreme Paintball[^Gotcha_AW]
 	* Emergency 3[^GCW_EM3][^EMPlanet_4911][^EMPlanet_34911]
 	* 911: First Responders[^EMPlanet_4911][^EMPlanet_34911] (US version of Emergency 4?)
+
 Given the timeline[^16TEmline] provided on their website, the fact that Emergency Police[^EMpolice] (the first game they released after copy-X became available[^CopyX_First_Reference]) seems to use a non-copy-X disc check, and the fact that they seem to have switched to ProtectDISC for The Show[^68141] (similar to what Terzio seems to have done around the same time), it can be assumed that the complete potential list of copy-X protected 16TE games exists between the confirmed and unconfirmed lists above.
 
 * Digital Publishing[^DP_website]:
 	* Various language learning courses[^DP_Lang1][^DP_Lang2][^Unconfirmed_DP]
 	* Geschichte der Deutschen[^DP_Deutschen (possibly meant Geschichte des deutschen Buchwesens?)
+
 Likely others, but doesn't seem to have been well documented.
 
 * Magix:
@@ -231,10 +233,13 @@ Likely others, but doesn't seem to have been well documented.
 	* Retten Sie Ihre Videokassetten[^MX_FaD7_RSIV]
 	* Techno Music Maker[^MX_MSV2K_PaKW2E_TMM_ACL3][^MX_TMM] (1.0?)
 	* Video Deluxe[^MX_M3MG_MM7D_MVD]
+
 At some point Xara was folded into Magix. Due to the similarity of various different product and company names, it's difficult to determine if Xara was already using copy-X before this, or if Xara only began using copy-X after being folded into Magix.
+
 * Xara/Magix:
 	* XaraXtreme 4.0[^XA_XX4_Link1][^XA_XX4_Link2]
 	* Xtreme Photostory on CD & DVD 6[^XA_XPCD6]
+
 Due to the frankly absurd number of releases from Magix that seem to have copy-X, which seem to be available even in different regional releases, it can most likely be assumed that any Magix product in the 2000s probably has copy-X.
 
 * Kiddinx:
@@ -242,6 +247,7 @@ Due to the frankly absurd number of releases from Magix that seem to have copy-X
 	* Pettson Och Findus Födelsedagskatten[^KDDX_POFF]
 	* Słoń Benjamin - Ruch Uliczny[^KDDX_SBRU] 
 	* Bibi und Tina - Pferdestarke Spielesammlung[^KDDX_BuTPS]
+
 Likely a fair bit more, but it's strangely hard to find information. 
 
 * Terzio:
@@ -253,9 +259,11 @@ Likely a fair bit more, but it's strangely hard to find information.
 	* Fritz & Fertig - Schach lernen und trainieren[^TZ_FFSCLuT]
 	* Fritz & Fertig Terzio Schach lernen und trainieren CD-ROM ab 8[^TZ_FFTSlutCD8] 
 	* Willy Werkel: Häuser bauen (Rerelease)[^TZ_WWHhR]
+
 Likely many others also exist. Of note, Terzio appears to have began switching to ProtectDISC[^TZ_WWPD] starting around ~2008, similar to 16 Tons Entertainment.
 
 * Tivola:
+
 While many unconfirmed samples could be listed here, there's virtually no point in doing so.
 
 * Radon Labs / Cornelsen Verlag:
@@ -265,7 +273,9 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 One-offs (so far):
 	* RTL Skispringen 2001[^RTL_DE]
 	* Skoki Narciarskie 2001[^RTL_PL_AR] - Polski Zwycięzca (Polish RTL Skispringen 2001?)
+
 Rest of the series in both regions appears to switch to a different copy protection after 2001.
+
 	* Deluxe Ski Jump 3[^DSJ_DLs]
 	* Deluxe Ski Jump 4[^DSJ_DLs]
 		
