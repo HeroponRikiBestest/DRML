@@ -205,6 +205,8 @@ No samples currently known, and thus no information either.
 	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
 	* Die CD-ROM mit der Maus 1 (Germany) (Rerelease) (EAN 9783931372965) [^Maus_txt][^Maus_IGDB]
 	* Die CD-ROM mit der Maus 2 (Germany) (EAN 9783934789067) [^Maus2_txt][^Maus2_IGDB]
+	* Genius: Task Force Biologie (Germany)[^Genius_Physik]
+	* Genius: Unternehmen Physik (Germany)[^Genius_Biologie]
 
 #### Unconfirmed: 
 
@@ -287,9 +289,7 @@ Likely many others also exist. Of note, Terzio appears to have began switching t
 
 While many unconfirmed samples could be listed here, there's virtually no point in doing so.
 
-* Radon Labs / Cornelsen Verlag:
-	* Genius biology
-	* Genius physics
+* Radon Labs / Cornelsen Verlag: // TODO: Incorporate companies into confirmed?
 
 * One-offs (so far):
 
@@ -305,6 +305,8 @@ While many unconfirmed samples could be listed here, there's virtually no point 
 
 Rest of the RTL Skispringen series in both regions appears to switch protectCD after 2001.
 		
+[^Genius_Physik]: [Genius: Unternehmen Physik](https://archive.org/details/DRML-copy-X-samples)
+[^Genius_Biologie]: [Genius: Task Force Biologie](https://archive.org/details/DRML-copy-X-samples)
 [^25117]: [RTL Skispringen 2003 (Germany) (En,De) ](http://redump.org/disc/25117/)
 [^Albert_txt]: [dir /s output of 116828 from celebi](albert.txt)
 [^Insel_txt]: [dir /s output of 116827 from celebi](insel.txt)
