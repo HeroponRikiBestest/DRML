@@ -80,7 +80,7 @@
 * copy-X professional[^CopyX_Original_Website]
 * copy-X trial maker[^CopyX_Original_Website]
 
-[^CopyX_Original_Website]: [First known description of copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
+[^CopyX_Original_Website]: [First known description of copy-X. (Archived 2001-10-16)](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
 
 ***
 
@@ -91,7 +91,7 @@
 
 [^Discogs_Optimal_Page]: [Discogs page for optimal media](https://www.discogs.com/label/313190-Optimal-Media-GmbH)
 
-[^CopyX_Current_Website]: [The current optimal media website link.](https://web.archive.org/web/20241003002305/https://www.optimal-media.com/)
+[^CopyX_Current_Website]: [The current optimal media website link. (Archived 2024-10-03)](https://web.archive.org/web/20241003002305/https://www.optimal-media.com/)
 
 ***
 
@@ -124,11 +124,11 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 * 2011-01-26: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
 
-[^Magix_PCD]: [Forum post for Magix Music Maker 2008 showing error message associated with ProtectCD](https://web.archive.org/web/20241220091840/https://www.paules-pc-forum.de/forum/thread/125937-this-version-of-virtualpc-not-supported/?postID=773644)
-[^ProtectDisc_optimal_vista]: [English press article discussiong optimal media bringing ProtectDisc for its customers on Windows Vista](https://web.archive.org/web/20071022002237/http://www.optimal-online.de/fileadmin/user_upload/PDF/Presesmitteilung_Copy_Protection_windows_vista.pdf)
-[^ProtectDVD_optimal]: [German press article where optimal media claims to have outright developed ProtectDVD(-video?)](https://web.archive.org/web/20061012044130/http://www.optimal-online.de/fileadmin/user_upload/PDF/Pressemitteilung_Kopierschutz_Video_DVD.pdf.pdf)
-[^ProtectCD_First_Reference]: [First known optimal media advertising of protectCD.](https://web.archive.org/web/20040223055323/http://www.optimal-online.de/product/copy_x.htm)
-[^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
+[^Magix_PCD]: [Forum post for Magix Music Maker 2008 showing error message associated with ProtectCD (Archived 2024-12-20)](https://web.archive.org/web/20241220091840/https://www.paules-pc-forum.de/forum/thread/125937-this-version-of-virtualpc-not-supported/?postID=773644)
+[^ProtectDisc_optimal_vista]: [English press article discussiong optimal media bringing ProtectDisc for its customers on Windows Vista (Archived 2007-10-22)](https://web.archive.org/web/20071022002237/http://www.optimal-online.de/fileadmin/user_upload/PDF/Presesmitteilung_Copy_Protection_windows_vista.pdf)
+[^ProtectDVD_optimal]: [German press article where optimal media claims to have outright developed ProtectDVD(-video?) (Archived 2006-10-12)](https://web.archive.org/web/20061012044130/http://www.optimal-online.de/fileadmin/user_upload/PDF/Pressemitteilung_Kopierschutz_Video_DVD.pdf.pdf)
+[^ProtectCD_First_Reference]: [First known optimal media advertising of protectCD. (Archived 2004-02-23)](https://web.archive.org/web/20040223055323/http://www.optimal-online.de/product/copy_x.htm)
+[^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link. (Archived 2000-03-02)](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
 [^47561]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-01-26)](http://redump.org/disc/47561/)
 [^47560]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-05-10)](http://redump.org/disc/47560/)
 [^Zufall_noring_txt]: : [dir /s output of 47561 from celebi](zufall_no_ring.txt) 
@@ -312,12 +312,12 @@ Rest of the RTL Skispringen series in both regions appears to switch protectCD a
 [^Insel_txt]: [dir /s output of 116827 from celebi](insel.txt)
 [^Zufall_ring_txt]: [dir /s output of ringed Zufall disc. Ringcode according to celebi states that it was mastered in September 2000](zufall.txt)
 [^Maus3_txt]: [dir /s output of Maus 3 from celebi](maus3.txt)
-[^Maus3_IGDB]: [IGDB link to Maus 3](https://web.archive.org/web/20241220070223/https://www.igdb.com/games/die-cd-rom-mit-der-maus-3)
+[^Maus3_IGDB]: [IGDB link to Maus 3 (Archived 2024-12-20)](https://web.archive.org/web/20241220070223/https://www.igdb.com/games/die-cd-rom-mit-der-maus-3)
 [^Maus2_txt]: [dir /s output of Maus 2 from celebi](maus2.txt)
-[^Maus2_IGDB]: [IGDB link to Maus 2](https://web.archive.org/web/20241220070209/https://www.igdb.com/games/die-cd-rom-mit-der-maus-2)
-[^Maus_IGDB]: [IGDB link to Maus 1](https://web.archive.org/web/20241220065430/https://www.igdb.com/games/die-cd-rom-mit-der-maus-1)
+[^Maus2_IGDB]: [IGDB link to Maus 2 (Archived 2024-12-20)](https://web.archive.org/web/20241220070209/https://www.igdb.com/games/die-cd-rom-mit-der-maus-2)
+[^Maus_IGDB]: [IGDB link to Maus 1 (Archived 2024-12-20)](https://web.archive.org/web/20241220065430/https://www.igdb.com/games/die-cd-rom-mit-der-maus-1)
 [^Maus_txt]: [dir /s output of Maus 1 from celebi](maus1.txt)
-[^TZ_L57FLHWWP]: [Löwenzahn 5 und 7, Flugzeuge bauen und Häuser bauen mit Willy Werkel, Petterson und Findus und noch ein paar andere CD](https://web.archive.org/web/20240507164207/https://www.reddit.com/r/de/comments/xbdyi8/l%C3%B6wenzahn_3_die_beste_cdrom_%C3%BCber_das_mittelalter/)
+[^TZ_L57FLHWWP]: [Löwenzahn 5 und 7, Flugzeuge bauen und Häuser bauen mit Willy Werkel, Petterson und Findus und noch ein paar andere CD (Archived 2024-05-07)](https://web.archive.org/web/20240507164207/https://www.reddit.com/r/de/comments/xbdyi8/l%C3%B6wenzahn_3_die_beste_cdrom_%C3%BCber_das_mittelalter/)
 [^TZ_L5]: [Löwenzahn 5](https://archive.org/details/Loewe5)
 [^TZ_L7]: [Löwenzahn 7](https://archive.org/details/lowenzahn-7_202207)
 [^TZ_L8]: [Löwenzahn 8](https://archive.org/details/lowenzahn-8_202207)
@@ -327,18 +327,18 @@ Rest of the RTL Skispringen series in both regions appears to switch protectCD a
 [^TZ_WWPD]: [Redump forum thread of ProtectDISC Willy Werkel games](http://forum.redump.org/post/85532)
 
 [^DSJ_DLs]: [Hamster download folder for DSJ 3 and 4 - Not yet archived](https://chomikuj.pl/ToTotti24/DSJ+4)
-[^RTL_DE]: [RTL Skispringen 2001 forum thread](https://web.archive.org/web/20240514151855/https://www.mogelpower.de/forum/thread.php?thread_id=6164)
+[^RTL_DE]: [RTL Skispringen 2001 forum thread (Archived 2024-05-14)](https://web.archive.org/web/20240514151855/https://www.mogelpower.de/forum/thread.php?thread_id=6164)
 [^RTL_PL_AR]: [Skoki Narciarskie 2001 - Polski Zwycięzca archive.org download](https://archive.org/details/skoki-narciarskie-2001-gra/)
-[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]: [Ronja Räubertochter ~ "Fritz und Fertig" Schach / chess ~ Rund um die Welt mit Felix / abenteuerliche Reise ~ die Pfefferkörner - Cem unter Verdacht ~ Playmobil - Gefangen in der Drachenfestung - Wine bug mixes it up with Ring Protech, likely because of PiD](https://web.archive.org/web/20240717020650/https://bugs.winehq.org/show_bug.cgi?id=23355)
+[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]: [Ronja Räubertochter ~ "Fritz und Fertig" Schach / chess ~ Rund um die Welt mit Felix / abenteuerliche Reise ~ die Pfefferkörner - Cem unter Verdacht ~ Playmobil - Gefangen in der Drachenfestung - Wine bug mixes it up with Ring Protech, likely because of PiD (Archived 2024-07-17)](https://web.archive.org/web/20240717020650/https://bugs.winehq.org/show_bug.cgi?id=23355)
 [^MX_FaD7_RSIV]: [Forum post mentioning Filme Auf DVD 7.0 and Retten Sie Ihre Videokassetten - Not yet archived](https://www.magix.info/index.php/de/forum/installationsproblem-mit-filme-auf-dvd7--15316/)
 [^KDDX_POFF]: [Pettson Och Findus Födelsedagskatten](https://archive.org/details/pettson-findus-fodelsedagskatten)
 [^KDDX_SBRU]: [Słoń Benjamin - Ruch Uliczny](https://archive.org/details/ruch-uliczny)
 [^KDDX_BuTPS]: [ Bibi und Tina - Pferdestarke Spielesammlung ](https://archive.org/details/bt_pferdespiele)
-[^XA_XX4_Link1]: [Link discussing XaraXtreme 4.0](https://web.archive.org/web/20230321203345/https://www.talkgraphics.com/showthread.php?32828-quot-Please-insert-the-installation-CD-and-restart-the-program-quot)
-[^XA_XX4_Link2]: [Another link discussing XaraXtreme 4.0](https://web.archive.org/web/20230322064834/https://www.talkgraphics.com/showthread.php?32939-XXPro4-from-CD)
+[^XA_XX4_Link1]: [Link discussing XaraXtreme 4.0 (Archived 2023-03-21)](https://web.archive.org/web/20230321203345/https://www.talkgraphics.com/showthread.php?32828-quot-Please-insert-the-installation-CD-and-restart-the-program-quot)
+[^XA_XX4_Link2]: [Another link discussing XaraXtreme 4.0 (Archived 2023-03-22)](https://web.archive.org/web/20230322064834/https://www.talkgraphics.com/showthread.php?32939-XXPro4-from-CD)
 [^XA_XPCD6]: [Link discussing Xtreme Photostory on CD & DVD 6 - Not yet archived]
 [^MX_ACL3]: [Audio Cleaning Lab 3.0 - Not yet archived](https://www.magix.info/us/forum/bad-file-on-cd--1269648/)
-[^MX_MSV2K_PaKW2E_TMM_ACL3]: [Magix Music Studio V2000~Magix Piano & keyboard Workshop 2nd Editon~Magix Techno music Maker~Magix Audio Cleaning Lab 3.0 - Not yet archived](https://web.archive.org/web/20170910082544/https://msfn.org/board/topic/122122-magix/)
+[^MX_MSV2K_PaKW2E_TMM_ACL3]: [Magix Music Studio V2000~Magix Piano & keyboard Workshop 2nd Editon~Magix Techno music Maker~Magix Audio Cleaning Lab 3.0 - Not yet archived (Archived 2017-09-10)](https://web.archive.org/web/20170910082544/https://msfn.org/board/topic/122122-magix/)
 [^MX_MMD]: [magix music maker (Dutch?) - Not yet archived](https://www.satellitefun.org/threads/iofile-x64-welke-beveiliging-is-dit.15377/ )
 [^MX_MM5]: [Magix Music Maker 5 - Not yet archived](https://www.powerforen.de/thema/iofile-x64-kopieren.32039/ )
 [^MX_MMG6]: [Magix music maker generation 6 (swedish?) - Not yet archived](https://www.sweclockers.com/forum/trad/215464-cd-rom )
@@ -346,7 +346,7 @@ Rest of the RTL Skispringen series in both regions appears to switch protectCD a
 [^MX_MCL2004D_1]: [Magix Music Cleaning Lab 2004 deluxe - Not yet archived](https://www.nickles.de/thread_cache/537971136.html  )
 [^MX_MCL2004D_2]: [Magix Music Cleaning Lab 2004 deluxe - Not yet archived](https://www.nickles.de/forum/viren-spyware-datenschutz/2004/probleme-beim-kopieren-einer-originalcd-537662610.html )
 [^MX_M3MG_MM7D_MVD]: [Magix MP3 maker Gold ~ Magix Music Maker 7 Deluxe ~ magix video deluxe - Not yet archived](https://community.kieskeurig.nl/topic/120187-cd-kopieren/ )
-[^MX_FaCD2_MM2003D_MS2003D]: [Filme auf CD & DVD 2.0 ~ Magix Music Maker 2003 Deluxe ~ Magix Music Studio 2003 Deluxe ~ probably others - Not yet archived](https://web.archive.org/web/20231121233527/https://wastuwaluyanto.blogspot.com/2009/04/serial-number-or-cd-key-collections.html)
+[^MX_FaCD2_MM2003D_MS2003D]: [Filme auf CD & DVD 2.0 ~ Magix Music Maker 2003 Deluxe ~ Magix Music Studio 2003 Deluxe ~ probably others - Not yet archived (Archived 2023-11-21)](https://web.archive.org/web/20231121233527/https://wastuwaluyanto.blogspot.com/2009/04/serial-number-or-cd-key-collections.html)
 [^MX_MM7D]: [MAGIX music studio 7 deLuxe - Not yet archived](https://www.shouldiremoveit.com/magix-music-studio-7-deluxe-56560-program.aspx)
 [^MX_TMM]: [Techno Music Maker 1.0.1 (1.0?) - Not yet archived](https://archive.org/details/techno-music-maker-cd-broken)
 [^MX_M3MPL3]: [Magix Mp3 Maker Platinum Light 3.04-3.05 - Not yet archived](https://archive.org/details/Registration_Key_and_Serials_Pro_Professional_Edition)
@@ -355,14 +355,14 @@ Rest of the RTL Skispringen series in both regions appears to switch protectCD a
 [^DP_Deutschen]: [Forum post mentioning Geschichte der Deutschen - Not yet archived](https://www.cc-community.net/threads/mediaplayer-update-um-eine-cd-abzuspielen.111540/)
 [^DP_Lang1]: [Forum post mentioning a Digital Publishing language learning course - Not yet archived](https://de.comp.hardware.laufwerke.brenner.narkive.com/SqzzCQ6t/cd-auf-festplatte-kopieren)
 [^DP_Lang2]: [Different forum post mentioning a Digital Publishing language learning course - Not yet archived](https://www.cc-community.net/threads/cd-kopie-scheitert-an-iofile-x64-wg-crc-fehler.90424/)
-[^DP_website]: [Website for Digital Publishing](https://web.archive.org/web/20090226013117/https://www.digitalpublishing.de/)
+[^DP_website]: [Website for Digital Publishing (Archived 2009-02-26)](https://web.archive.org/web/20090226013117/https://www.digitalpublishing.de/)
 [^EMpolice]: [Archive.org rip of Emergency Police](https://archive.org/details/emergency-police-bonus)
 [^68141]: [Show, The (Germany)](http://redump.org/disc/68141/)
-[^16TEmline]: [Classic games timeline on 16TE's website.](https://web.archive.org/web/20240713073357/https://www.sixteen-tons.de/classics/)
-[^EMPlanet_34911]: [EMplanet forum link discussing EM3, EM4, and 911 First Responders](https://web.archive.org/web/20200224053152/https://www.emergency-planet.com/topic/5199-technical-help-faq-done/)
+[^16TEmline]: [Classic games timeline on 16TE's website. (Archived 2024-07-13)](https://web.archive.org/web/20240713073357/https://www.sixteen-tons.de/classics/)
+[^EMPlanet_34911]: [EMplanet forum link discussing EM3, EM4, and 911 First Responders (Archived 2020-02-24)](https://web.archive.org/web/20200224053152/https://www.emergency-planet.com/topic/5199-technical-help-faq-done/)
 [^EMPlanet_4911]: [EMplanet forum link discussing EM4 and 911 First Responders - Not yet archived](https://www.emergency-planet.com/topic/8201-problems-with-windows-7-and-emergency-4/)
-[^GCW_EM3]: [GameCopyWorld's Emergency 3 page](https://web.archive.org/web/20240629011919/https://gamecopyworld.com/games/pc_emergency_3.shtml)
-[^Gotcha_AW]: [Myabandonware link to Gotcha!](https://web.archive.org/web/20240521110320/https://abandonwaregames.net/game/gotcha-extreme-paintball)
+[^GCW_EM3]: [GameCopyWorld's Emergency 3 page (Archived 2024-06-29)](https://web.archive.org/web/20240629011919/https://gamecopyworld.com/games/pc_emergency_3.shtml)
+[^Gotcha_AW]: [Myabandonware link to Gotcha! (Archived 2024-05-21)](https://web.archive.org/web/20240521110320/https://abandonwaregames.net/game/gotcha-extreme-paintball)
 [^116827]: [Alberts mysterioese Insel (Germany)](http://redump.org/disc/116827/)
 [^108587]: [Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)](http://redump.org/disc/108587/)
 [^116828]: [Onkel Alberts geheimnisvolles Notizbuch (Germany)](http://redump.org/disc/116828/)
@@ -372,8 +372,8 @@ Rest of the RTL Skispringen series in both regions appears to switch protectCD a
 [^D_1436646]: [Laava – Wherever You Are (I Feel Love)](https://www.discogs.com/release/1436646-Laava-Wherever-You-Are-I-Feel-Love)
 [^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
 [^D_451419]: [De-Phazz – Godsdog](https://www.discogs.com/release/451419-De-Phazz-Godsdog)
-[^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://web.archive.org/web/20090322110537/http://www.pcgames.de/aid,679282/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-/PC/Test/)
-[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication)](https://web.archive.org/web/20241106002332/https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
+[^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... "  (Archived 2009-03-22)](https://web.archive.org/web/20090322110537/http://www.pcgames.de/aid,679282/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-/PC/Test/)
+[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication) (Archived 2024-11-06)](https://web.archive.org/web/20241106002332/https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
 
 ***
 
@@ -395,7 +395,7 @@ Rest of the RTL Skispringen series in both regions appears to switch protectCD a
 
 [^BoS_File]: [BinaryObjectScanner code file in charge of detecting Copy-X](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/CopyX.cs)
 
-[^PiD_List]: [Old PiD website link listing PC ISO protections](https://web.archive.org/web/20090830061942/http://pid.gamecopyworld.com/)
+[^PiD_List]: [Old PiD website link listing PC ISO protections (Archived 2009-08-30)](https://web.archive.org/web/20090830061942/http://pid.gamecopyworld.com/)
 
 ***
 
@@ -483,10 +483,11 @@ Note: Tivola discs add "Tivola    MM/[last 2 digits of year]" in between "manufa
 
 ### Official Resources:
 
-* [First known description of copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
+* [First known description of copy-X. (Archived 2001-10-16)](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
 
-* [Optimal media document from 2009, seemingly for prospective customers.](https://web.archive.org/web/20220322025111/http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
+* [Optimal media document from 2009, seemingly for prospective customers. (Archived 2022-03-22)](https://web.archive.org/web/20220322025111/http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
 
 ***
 
 ### Footnotes:
+
