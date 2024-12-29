@@ -44,6 +44,7 @@
 			* [Mastering SID Code](#mastering-sid-code)  ([Alt.](#Mastering%20SID%20Code))
 			* [Toolstamp or Mastering Code](#toolstamp-or-mastering-code)  ([Alt.](#Toolstamp%20or%20Mastering%20Code))
 			* [Mould SID Code](#mould-sid-code)  ([Alt.](#Mould%20SID%20Code))
+	* [Companies Known to Use](#companies-known-to-use) ([Alt.](#Companies%20Known%20to%20Use))
 * [Reference Material](#reference-material) ([Alt.](#Reference%20Material))
 	* [Media](#media)
 	* [Additional Resources](#additional-resources) ([Alt.](#Additional%20Resources))
@@ -186,125 +187,103 @@ No samples currently known, and thus no information either.
 #### Confirmed:
 
 * copy-X light
-	* Black Cats and Pointed Hats (USA) (En,De) [^84759]
-	* Robinson Crusoe (USA)[^107929]
-	* Webmaster (USA)[^81628]
-	* Kenny's Adventure[^Kenny]
-	* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
-	* Die CD-ROM mit der Maus 3 (Germany) (EAN 9783898870030) [^Maus3_txt][^Maus3_IGDB]
-	* Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (2000) (EAN 9783931372514)[^Zufall_ring_txt]
-	* Webmaster (Germany)[^116418][^Webmaster_txt]
-	* Alberts mysterioese Insel (Germany)[^116827][^Insel_txt]
-	* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828][^Albert_txt]
-	* Westerner 2, The (Germany) [^DE_Westerner_2][^pcgames_de_westerner2][^gamestar_de_westerner2]
+	* Tivola:
+		* Black Cats and Pointed Hats (USA) (En,De) [^84759]
+		* Robinson Crusoe (USA)[^107929]
+		* Webmaster (USA)[^81628]
+		* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
+		* Die CD-ROM mit der Maus 3 (Germany) (EAN 9783898870030) [^Maus3_txt][^Maus3_IGDB]
+		* Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (2000) (EAN 9783931372514)[^Zufall_ring_txt]
+		* Webmaster (Germany)[^116418][^Webmaster_txt]
+		* Alberts mysterioese Insel (Germany)[^116827][^Insel_txt]
+		* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828][^Albert_txt]
+	* Novitas / edel interactive:
+		* Kenny's Adventure[^Kenny]
+	* One-offs (so far):
+		* Westerner 2, The (Germany) [^DE_Westerner_2][^pcgames_de_westerner2][^gamestar_de_westerner2]
 * copy-X professional[^82475]
-	* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
-	* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
-	* German Emergency 2 Deluxe[^DE_EM2DX]
-	* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
-	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
-	* Die CD-ROM mit der Maus 1 (Germany) (Rerelease) (EAN 9783931372965) [^Maus_txt][^Maus_IGDB]
-	* Die CD-ROM mit der Maus 2 (Germany) (EAN 9783934789067) [^Maus2_txt][^Maus2_IGDB]
-	* Genius: Task Force Biologie (Germany)[^Genius_Physik]
-	* Genius: Unternehmen Physik (Germany)[^Genius_Biologie]
+	* Tivola:
+		* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
+		* Die CD-ROM mit der Maus 1 (Germany) (Rerelease) (EAN 9783931372965) [^Maus_txt][^Maus_IGDB]
+		* Die CD-ROM mit der Maus 2 (Germany) (EAN 9783934789067) [^Maus2_txt][^Maus2_IGDB]
+	* Kiddinx:
+		* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
+	* Sixteen Tons Entertainment:
+		* German Emergency 2 Deluxe[^DE_EM2DX]
+		* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
+		* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
+	* Radon Labs / Cornelsen Verlag:
+		* Genius: Task Force Biologie (Germany)[^Genius_Physik]
+		* Genius: Unternehmen Physik (Germany)[^Genius_Biologie]
 
 #### Unconfirmed: 
 
-* copy-X (Unsure which variant):
-	* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
 * copy-X audio:
 	* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
 	* Laava – Wherever You Are (I Feel Love)[^D_1436646]
 	* Manfred Mann* – 2006[^D_2182905]
 	* De-Phazz – Godsdog[^D_451419]
+* copy-X (Unsure which variant):
+	* Tivola:
+		* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
+	* Sixteen Tons Entertainment:
+		* Gotcha! Extreme Paintball[^Gotcha_AW]
+		* Emergency 3[^GCW_EM3][^EMPlanet_4911][^EMPlanet_34911]
+		* 911: First Responders[^EMPlanet_4911][^EMPlanet_34911] (US version of Emergency 4?)
+	* Digital Publishing[^DP_website]:
+		* Various language learning courses[^DP_Lang1][^DP_Lang2][^Unconfirmed_DP]
+		* Geschichte der Deutschen[^DP_Deutschen] (possibly meant Geschichte des deutschen Buchwesens?)
+	* Magix:
+		* Acid Rock[^MX_AR] (V?)
+		* Audio Cleaning Lab 3.0[^MX_ACL3][^MX_MSV2K_PaKW2E_TMM_ACL3]
+		* Filme Auf CD & DVD 2.0[^MX_FaCD2_MM2003D_MS2003D]
+		* Filme Auf DVD 7.0[^MX_FaD7_RSIV]
+		* MP3 Maker Gold[^MX_M3MG_MM7D_MVD]
+		* Mp3 Maker Platinum Light 3.04–3.05[^MX_M3MPL3]
+		* Music Cleaning Lab 2004 Deluxe[^MX_MCL2004D_1][^MX_MCL2004D_2]
+		* Music Maker[^MX_MMD] (Dutch?)
+		* Music Maker 3.0[^MX_AR]
+		* Music Maker 5[^MX_MM5]
+		* Music Maker 7 Deluxe[^MX_M3MG_MM7D_MVD]
+		* Music Maker 10 Deluxe[^MX_AR]
+		* Music Maker 2003 Deluxe[^MX_FaCD2_MM2003D_MS2003D]
+		* Music Maker Generation 6[^MX_MMG6] (Swedish?)
+		* Music Studio 7 Deluxe[^MX_MM7D]
+		* Music Studio 2003 Deluxe[^MX_FaCD2_MM2003D_MS2003D]
+		* Music Studio 2005 Deluxe[^MX_MS2005D] (Dutch?)
+		* Music Studio V2000[^MX_MSV2K_PaKW2E_TMM_ACL3]
+		* Piano & Keyboard Workshop 2nd Editon[^MX_MSV2K_PaKW2E_TMM_ACL3]
+		* Retten Sie Ihre Videokassetten[^MX_FaD7_RSIV]
+		* Techno Music Maker[^MX_MSV2K_PaKW2E_TMM_ACL3][^MX_TMM] (1.0?)
+		* Video Deluxe[^MX_M3MG_MM7D_MVD]
+	* Xara/Magix:
+		* XaraXtreme 4.0[^XA_XX4_Link1][^XA_XX4_Link2]
+		* Xtreme Photostory on CD & DVD 6[^XA_XPCD6]
+	* Kiddinx:
+		* Playmobil - Gefangen in der Drachenfestung[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
+		* Pettson Och Findus Födelsedagskatten[^KDDX_POFF]
+		* Słoń Benjamin - Ruch Uliczny[^KDDX_SBRU] 
+		* Bibi und Tina - Pferdestarke Spielesammlung[^KDDX_BuTPS]
+	* Terzio:
+		* Das Traumfresserchen 
+		* Löwenzahn 5[^TZ_L57FLHWWP][^TZ_L5]
+		* Löwenzahn 7[^TZ_L57FLHWWP][^TZ_L7]
+		* Löwenzahn 8[^TZ_L8]
+		* Flugzeuge bauen und Häuser bauen mit Willy Werkel[^TZ_L57FLHWWP]
+		* Fritz & Fertig - Schach lernen und trainieren[^TZ_FFSCLuT]
+		* Fritz & Fertig Terzio Schach lernen und trainieren CD-ROM ab 8[^TZ_FFTSlutCD8] 
+		* Willy Werkel: Häuser bauen (Rerelease)[^TZ_WWHhR]
+	* One-offs (so far):
+		* Deluxe Ski Jump 3[^DSJ_DLs]
+		* Deluxe Ski Jump 4[^DSJ_DLs]
+			
+		* Ronja Räubertochter[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
+			
+		* Rund um die Welt mit Felix[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
 
-Companies:
+		* RTL Skispringen 2001[^RTL_DE]
+		* Skoki Narciarskie 2001[^RTL_PL_AR] - Polski Zwycięzca (Polish RTL Skispringen 2001?)
 
-* Sixteen Tons Entertainment:
-	* Gotcha! Extreme Paintball[^Gotcha_AW]
-	* Emergency 3[^GCW_EM3][^EMPlanet_4911][^EMPlanet_34911]
-	* 911: First Responders[^EMPlanet_4911][^EMPlanet_34911] (US version of Emergency 4?)
-
-Given the timeline[^16TEmline] provided on their website, the fact that Emergency Police[^EMpolice] (the first game they released after copy-X became available[^CopyX_First_Reference]) seems to use a non-copy-X disc check, and the fact that they seem to have switched to ProtectDISC for The Show[^68141] (similar to what Terzio seems to have done around the same time), it can be assumed that the complete potential list of copy-X protected 16TE games exists between the confirmed and unconfirmed lists above.
-
-* Digital Publishing[^DP_website]:
-	* Various language learning courses[^DP_Lang1][^DP_Lang2][^Unconfirmed_DP]
-	* Geschichte der Deutschen[^DP_Deutschen] (possibly meant Geschichte des deutschen Buchwesens?)
-
-Likely others, but doesn't seem to have been well documented.
-
-* Magix:
-	* Acid Rock[^MX_AR] (V?)
-	* Audio Cleaning Lab 3.0[^MX_ACL3][^MX_MSV2K_PaKW2E_TMM_ACL3]
-	* Filme Auf CD & DVD 2.0[^MX_FaCD2_MM2003D_MS2003D]
-	* Filme Auf DVD 7.0[^MX_FaD7_RSIV]
-	* MP3 Maker Gold[^MX_M3MG_MM7D_MVD]
-	* Mp3 Maker Platinum Light 3.04–3.05[^MX_M3MPL3]
-	* Music Cleaning Lab 2004 Deluxe[^MX_MCL2004D_1][^MX_MCL2004D_2]
-	* Music Maker[^MX_MMD] (Dutch?)
-	* Music Maker 3.0[^MX_AR]
-	* Music Maker 5[^MX_MM5]
-	* Music Maker 7 Deluxe[^MX_M3MG_MM7D_MVD]
-	* Music Maker 10 Deluxe[^MX_AR]
-	* Music Maker 2003 Deluxe[^MX_FaCD2_MM2003D_MS2003D]
-	* Music Maker Generation 6[^MX_MMG6] (Swedish?)
-	* Music Studio 7 Deluxe[^MX_MM7D]
-	* Music Studio 2003 Deluxe[^MX_FaCD2_MM2003D_MS2003D]
-	* Music Studio 2005 Deluxe[^MX_MS2005D] (Dutch?)
-	* Music Studio V2000[^MX_MSV2K_PaKW2E_TMM_ACL3]
-	* Piano & Keyboard Workshop 2nd Editon[^MX_MSV2K_PaKW2E_TMM_ACL3]
-	* Retten Sie Ihre Videokassetten[^MX_FaD7_RSIV]
-	* Techno Music Maker[^MX_MSV2K_PaKW2E_TMM_ACL3][^MX_TMM] (1.0?)
-	* Video Deluxe[^MX_M3MG_MM7D_MVD]
-
-At some point Xara was folded into Magix. Due to the similarity of various different product and company names, it's difficult to determine if Xara was already using copy-X before this, or if Xara only began using copy-X after being folded into Magix.
-
-* Xara/Magix:
-	* XaraXtreme 4.0[^XA_XX4_Link1][^XA_XX4_Link2]
-	* Xtreme Photostory on CD & DVD 6[^XA_XPCD6]
-
-Due to the frankly absurd number of releases from Magix that seem to have copy-X, which seem to be available even in different regional releases, it can most likely be assumed that any Magix product in the 2000s probably has copy-X.
-
-* Kiddinx:
-	* Playmobil - Gefangen in der Drachenfestung[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
-	* Pettson Och Findus Födelsedagskatten[^KDDX_POFF]
-	* Słoń Benjamin - Ruch Uliczny[^KDDX_SBRU] 
-	* Bibi und Tina - Pferdestarke Spielesammlung[^KDDX_BuTPS]
-
-Likely a fair bit more, but it's strangely hard to find information. 
-
-* Terzio:
-	* Das Traumfresserchen 
-	* Löwenzahn 5[^TZ_L57FLHWWP][^TZ_L5]
-	* Löwenzahn 7[^TZ_L57FLHWWP][^TZ_L7]
-	* Löwenzahn 8[^TZ_L8]
-	* Flugzeuge bauen und Häuser bauen mit Willy Werkel[^TZ_L57FLHWWP]
-	* Fritz & Fertig - Schach lernen und trainieren[^TZ_FFSCLuT]
-	* Fritz & Fertig Terzio Schach lernen und trainieren CD-ROM ab 8[^TZ_FFTSlutCD8] 
-	* Willy Werkel: Häuser bauen (Rerelease)[^TZ_WWHhR]
-
-Likely many others also exist. Of note, Terzio appears to have began switching to ProtectDISC[^TZ_WWPD] starting around ~2008, similar to 16 Tons Entertainment.
-
-* Tivola:
-
-While many unconfirmed samples could be listed here, there's virtually no point in doing so.
-
-* Radon Labs / Cornelsen Verlag: // TODO: Incorporate companies into confirmed?
-
-* One-offs (so far):
-
-	* Deluxe Ski Jump 3[^DSJ_DLs]
-	* Deluxe Ski Jump 4[^DSJ_DLs]
-		
-	* Ronja Räubertochter[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
-		
-	* Rund um die Welt mit Felix[^RR_FuFS_RudWmF_aR_dP_CuV_PGidD]
-
-	* RTL Skispringen 2001[^RTL_DE]
-	* Skoki Narciarskie 2001[^RTL_PL_AR] - Polski Zwycięzca (Polish RTL Skispringen 2001?)
-
-Rest of the RTL Skispringen series in both regions appears to switch protectCD after 2001.
-		
 [^Genius_Physik]: [Genius: Unternehmen Physik](https://archive.org/details/DRML-copy-X-samples)
 [^Genius_Biologie]: [Genius: Task Force Biologie](https://archive.org/details/DRML-copy-X-samples)
 [^25117]: [RTL Skispringen 2003 (Germany) (En,De) ](http://redump.org/disc/25117/)
@@ -464,6 +443,30 @@ Note: Tivola discs add "Tivola    MM/[last 2 digits of year]" in between "manufa
 #### Mould SID Code:
 
 *  `IFPI 97xx`(Every known sample)
+
+***
+
+## Companies Known to Use:
+
+* Tivola:
+One of the most prolific users of copy-X, and currently the first known user. Many instances of copy-X were once known as "Tivola Ring Protection" Some of their games just before copy-X was introduced appear to have preliminary files that would later be used for copy-X, but this could just be coincidence. 
+* Sixteen Tons Entertainment:
+Given the timeline[^16TEmline] provided on their website, the fact that Emergency Police[^EMpolice] (the first game they released after copy-X became available[^CopyX_First_Reference]) seems to use a non-copy-X disc check, and the fact that they seem to have switched to ProtectDISC for The Show[^68141] (similar to what Terzio seems to have done around the same time), it can be assumed that the complete potential list of copy-X protected 16TE games exists between the confirmed and unconfirmed lists above.
+* Digital Publishing[^DP_website]:
+There are likely other unconfirmed samples, but their releases don't seem to have been well documented.
+* Magix:
+Due to the frankly absurd number of releases from Magix that seem to have copy-X, which seem to be available even in different regional releases, it can most likely be assumed that any Magix product in the 2000s probably has copy-X.
+* Xara/Magix:
+At some point Xara was folded into Magix. Due to the similarity of various different product and company names, it's difficult to determine if Xara was already using copy-X before this, or if Xara only began using copy-X after being folded into Magix.
+* Kiddinx:
+There's likely a fair bit more unconfirmed samples, but it's strangely hard to find information on their games.
+* Terzio:
+Likely many other samples also exist. Of note, Terzio appears to have began switching to ProtectDISC[^TZ_WWPD] starting around ~2008, similar to 16 Tons Entertainment.
+* Radon Labs / Cornelsen Verlag:
+Further information pending.
+* One-off info:
+The rest of the RTL Skispringen series appears to switch to protectCD after 2001. The Polish releases seem to have protection removed?
+
 
 ***
 
