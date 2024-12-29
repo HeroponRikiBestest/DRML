@@ -126,7 +126,7 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 [^Magix_PCD]: [Forum post for Magix Music Maker 2008 showing error message associated with ProtectCD](https://web.archive.org/web/20241220091840/https://www.paules-pc-forum.de/forum/thread/125937-this-version-of-virtualpc-not-supported/?postID=773644)
 [^ProtectDisc_optimal_vista]: [English press article discussiong optimal media bringing ProtectDisc for its customers on Windows Vista](https://web.archive.org/web/20071022002237/http://www.optimal-online.de/fileadmin/user_upload/PDF/Presesmitteilung_Copy_Protection_windows_vista.pdf)
-[^ProtectDVD_optimal]: [German press article where optimal media claims to have outright developed ProtectDVD(-video?)]
+[^ProtectDVD_optimal]: [German press article where optimal media claims to have outright developed ProtectDVD(-video?)](https://web.archive.org/web/20061012044130/http://www.optimal-online.de/fileadmin/user_upload/PDF/Pressemitteilung_Kopierschutz_Video_DVD.pdf.pdf)
 [^ProtectCD_First_Reference]: [First known optimal media advertising of protectCD.](https://web.archive.org/web/20040223055323/http://www.optimal-online.de/product/copy_x.htm)
 [^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
 [^47561]: [Meister Zufall und die Herrscher der Elemente (Germany) (Rerelease) (1999-01-26)](http://redump.org/disc/47561/)
