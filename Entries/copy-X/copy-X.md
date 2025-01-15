@@ -449,7 +449,7 @@ Note: Tivola discs add "Tivola    MM/[last 2 digits of year]" in between "manufa
 ## Companies Known to Use:
 
 * Tivola:
-One of the most prolific users of copy-X, and currently the first known user. Many instances of copy-X were once known as "Tivola Ring Protection" Some of their games just before copy-X was introduced appear to have preliminary files that would later be used for copy-X, but this could just be coincidence. 
+One of the most prolific users of copy-X, and currently the first known user. Many instances of copy-X were once known as "Tivola Ring Protection". Their games often have several re-releases, and several occasions have been observed of releases not protected by copy-X containing dummy files used by a different release of the same game. One such example is mentioned in the timeline for copy-X, "Meister Zufall und die Herrscher der Elemente", which has 2 re-releases[^47561][^47560] containing dummy files and no ring, which is likely also the case for the original release, and then a 3rd re-release[^Zufall_ring_txt] which wound up making use of those dummy files for a copy-X ring. Another such example is "Die Biene Maja: Das große Gewitter", which has a copy-X ring visible on the original 2001 release[^Maya_Bee_Original_2001], and later on had a 2003 re-release containing dummy files but no copy-X ring[^121046].
 * Sixteen Tons Entertainment:
 Given the timeline[^16TEmline] provided on their website, the fact that Emergency Police[^EMpolice] (the first game they released after copy-X became available[^CopyX_First_Reference]) seems to use a non-copy-X disc check, and the fact that they seem to have switched to ProtectDISC for The Show[^68141] (similar to what Terzio seems to have done around the same time), it can be assumed that the complete potential list of copy-X protected 16TE games exists between the confirmed and unconfirmed lists above.
 * Digital Publishing[^DP_website]:
@@ -467,6 +467,8 @@ Further information pending.
 * One-off info:
 The rest of the RTL Skispringen series appears to switch to protectCD after 2001. The Polish releases seem to have protection removed?
 
+[^Maya_Bee_Original_2001]: [eBay Kleinanzeigen listing for the original 2001 release of Die Biene Maja: Das große Gewitter, clearly showing a visible copy-X ring (Archived 2024-01-14)](https://web.archive.org/web/20250115053906/https://www.kleinanzeigen.de/s-anzeige/die-biene-maja-das-grosse-gewitter-pc-deutsch-jewelcase-ovp/2614277315-227-7696)
+[^121046]: [Redump entry for 2003 re-release of Die Biene Maja: Das große Gewitter. Even though the PVD says 2001, this likely just wasn't touched from the original release- the month and year of the release can be identified from the 09/03 in the ringcode, as is standard for Tivola discs. This release can be identified by the mention of Windows XP in the system requirements on the back.](http://redump.org/disc/121046/)
 
 ***
 
