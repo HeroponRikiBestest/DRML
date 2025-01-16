@@ -455,7 +455,7 @@ Given the timeline[^16TEmline] provided on their website, the fact that Emergenc
 * Digital Publishing[^DP_website]:
 There are likely other unconfirmed samples, but their releases don't seem to have been well documented.
 * Magix:
-Due to the frankly absurd number of releases from Magix that seem to have copy-X, which seem to be available even in different regional releases, it can most likely be assumed that any Magix product in the 2000s probably has copy-X.
+Due to the frankly absurd number of releases from Magix that seem to have copy-X, which seem to be available even in different regional releases, it can most likely be assumed that many more Magix products in the 2000s probably have copy-X; although seemingly not all of them, due to their apparent eventual switch to ProtectCD/ProtectDiSC[^Magix_PCD].
 * Xara/Magix:
 At some point Xara was folded into Magix. Due to the similarity of various different product and company names, it's difficult to determine if Xara was already using copy-X before this, or if Xara only began using copy-X after being folded into Magix.
 * Kiddinx:
