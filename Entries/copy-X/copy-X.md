@@ -332,8 +332,8 @@ No samples currently known, and thus no information either.
 [^MX_AR]: [Acid Rock (v?) ~ maybe Music Maker 10 Deluxe ~ Maybe Magix Music Maker 3.0 (Archived 2024-12-29)](https://web.archive.org/web/20241229040533/https://www.ebay.com/itm/356068249091)
 [^Unconfirmed_DP]: [Forum post mentioning unspecified language learning software, but given Digital Publishing's existance, was most likely from them? (Archived 2024-12-29)](https://web.archive.org/web/20241229041030/https://www.pcmasters.de/forum/threads/was-ist-das-f%C3%BCr-ein-ring-auf-der-cdrom.10405/)
 [^DP_Deutschen]: [Forum post mentioning Geschichte der Deutschen (Archived 2024-12-29)](https://web.archive.org/web/20241229041414/https://www.cc-community.net/threads/mediaplayer-update-um-eine-cd-abzuspielen.111540/)
-[^DP_Lang1]: [Forum post mentioning a Digital Publishing language learning course - Not yet archived - host overloaded?](https://de.comp.hardware.laufwerke.brenner.narkive.com/SqzzCQ6t/cd-auf-festplatte-kopieren)
-[^DP_Lang2]: [Different forum post mentioning a Digital Publishing language learning course (Archived 2024-12-29)](https://web.archive.org/web/20241229041615/https://www.cc-community.net/threads/cd-kopie-scheitert-an-iofile-x64-wg-crc-fehler.90424/
+[^DP_Lang1]: [Forum post mentioning a Digital Publishing language learning course (Archived 2024-11-23)](https://web.archive.org/web/20241123083112/https://de.comp.hardware.laufwerke.brenner.narkive.com/SqzzCQ6t/cd-auf-festplatte-kopieren)
+[^DP_Lang2]: [Different forum post mentioning a Digital Publishing language learning course (Archived 2024-12-29)](https://web.archive.org/web/20241229041615/https://www.cc-community.net/threads/cd-kopie-scheitert-an-iofile-x64-wg-crc-fehler.90424/)
 [^DP_website]: [Website for Digital Publishing (Archived 2009-02-26)](https://web.archive.org/web/20090226013117/https://www.digitalpublishing.de/)
 [^EMpolice]: [Archive.org rip of Emergency Police](https://archive.org/details/emergency-police-bonus)
 [^68141]: [Show, The (Germany)](http://redump.org/disc/68141/)
